@@ -55,9 +55,9 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "If you wait for luck to turn up, life becomes very boring. - Mikhail Tal"
-  - text: "If there's one thing to do, it's to engage in education - Georges Charpak"
-  - text: "In case of doubt, attack - General S Patton"
+  - text: "A life lived in pursuit of excellence is a life well lived. - Harry Messel"
+  - text: "Knowing is not enough; we must apply. Willing is not enough; we must do. - Johann Wolfgang von Goethe"
+  - text: "Nothing in this world is to be feared... only understood. - Marie Curie"
   - text: "As long as you live, keep learning how to live - Seneca"
 
 me-img: "/img/author.pngs"
