@@ -29,10 +29,10 @@ force-https: True
 #############
 
 lang: "en"
-author: "Sergio Daniel Hernandez Charpak"
-title: "Sergio Daniel Hernandez Charpak"
-description: "Blog and website of Sergio Daniel Hernandez Charpak, blogging, personal information as well as information and documentation for different projects."
-keywords: "Hernandez-Charpak, Sergio, personal, Astrophysics, Imaging, Education, Chess"
+author: "Takumi Matsuzawa"
+title: "Takumi Matsuzawa"
+description: "Website of Takumi Matsuzawa, blogging, personal information as well as information and documentation for different projects."
+keywords: "Matsuzawa, Takumi, Soft Matter, Physics, The University of Chicago, UChicago, Chicago, Fluid, Fluid Mechanics"
 favicon: "/img/atom_icon.ico"
 
 ################
@@ -60,7 +60,7 @@ lines: # You can add HTML Tags in the Text
   - text: "In case of doubt, attack - General S Patton"
   - text: "As long as you live, keep learning how to live - Seneca"
 
-me-img: "/img/author.png"
+me-img: "/img/author.pngs"
 
 ##############################
 # Color the browser elements #
