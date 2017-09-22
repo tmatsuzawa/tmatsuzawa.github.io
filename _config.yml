@@ -59,7 +59,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Knowing is not enough; we must apply. Willing is not enough; we must do. - Johann Wolfgang von Goethe"
   - text: "Nothing in this world is to be feared... only understood. - Marie Curie"
 
-me-img: "/img/author.pngs"
+me-img: "/img/author.jpg"
 
 ##############################
 # Color the browser elements #
@@ -103,7 +103,7 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "sercharpak"
+disqus-shortname: "tmatsuzawa"
 
 syntax-highlight: True
 
@@ -112,41 +112,62 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/highschool.png"
-    date: "June 2009"
-    description: "Graduated from high school (Bogota, Colombia)"
-  - image: "/img/timeline/uniandes.png"
-    date: "January 2010"
-    description: "Started University at Uniandes (Bogota, Colombia)"
-  - image: "/img/timeline/japan.png"
-    date: "August 2013 - April 2014"
-    description: "Started a year abroad (Kyoto, Japan)"
-  - image: "/img/timeline/tokyouni.png"
-    date: "May 2014"
-    description: "Two month stay at Tokyo University of Marine Science and Technology (Tokyo, Japan)"
-  - image: "/img/timeline/fermilab.png"
+  - image: "/img/timeline/ISS_2011.jpg"
+    date: "July 2011"
+    description: "Participated the International Science School as a national representative (Sydney, Australia)"
+ # - image: "/img/timeline/uni_hike.jpg"
+ #   date: "April 2012"
+ #   description: "Started Yokohama National University (Yokohama, Japan)"
+  - image: "/img/timeline/ynfp.jpg"
+    date: "May 2012 - March 2013"
+    description: "Student Formula Japan- chassis team (Yokohama, Japan)"
+  - image: "/img/timeline/kzoo.jpg"
+    date: "September 2013"
+    description: "Started Kalamazoo College (Kalamazoo, U.S.A.)"
+  - image: "/img/timeline/kek.png"
+    date: "Summer 2014"
+    description: "Laser-Induced Breakdown Spectroscopy (LIBS) (KEK, Japan)"
+  - image: "/img/timeline/vaccination.png"
+    date: "Summer 2014"
+    description: "Efficacy of vaccines through mathematical modeling (Kalamazoo, MI)"
+
+  - image: "/img/timeline/Wilson_Hall.png"
     date: "Summer 2015"
-    description: "IPM intern at Fermilab (Batavia IL)"
-  - image: "/img/timeline/cppm.png"
-    date: "Summer 2016"
-    description: "Intern at CPPM (Marseille, France)"
-  - image: "/img/timeline/Grado_Diego_cut.png"
-    date: "March 2017"
-    description: "Graduated from University at Uniandes (Bogota, Colombia)"
-  - image: "/img/timeline/epfl_logo_cut.png"
-    date: "September 2017"
-    description: "Starting a Master in CSE at EPFL (Lausanne, Switzerland)"
+    description: "Lee Teng internship at Fermilab (Batavia, IL)"
+
+  - image: "/img/timeline/melting.png"
+    date: "June 2014 - June 2016"
+    description: "Melting transition of Yukawa systems through Monte Carlo and Molecular Dynamics simulations (Kalamazoo, MI)"
+  - image: "/img/timeline/neuro.jpg"
+    date: "Sept 2014 - July 2016"
+    description: "Multi-scale modeling of altered synaptic plasticity related to Amyloid β effects (Kalamazoo, MI)"
+
+  - image: "/img/timeline/kzoo_grad.png"
+    date: "June 2016"
+    description: "Graduated from Kalamazoo College (Bogota, Colombia)"
+
+
+  - image: "/img/timeline/uchicago.jpg"
+    date: "September 2016"
+    description: "Started a physics Ph.D. program at The University of Chicago (Chicago, IL)"
+  - image: "/img/timeline/splashing.png"
+    date: "September 2016 - June 2017"
+    description: "Characterization of Thin-Sheet Ejection Using Low-Viscosity Fluids (Chicago, IL)"
+  - image: "/img/timeline/turbulence.png"
+    date: "June 2017 - "
+    description: "Joined the Irvine lab with focus on turbulence"
+
 
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/timeline/erc.jpg"
 
 ###########
 # Contact #
 ###########
 
-email: "sergiocharpak@gmail.com"
+email: "tmatsuzawa@uchicago.edu"
 
 ################
 # Author Blurb #
@@ -156,8 +177,8 @@ email: "sergiocharpak@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Sergio Hernandez Charpak is a Physicist and Computing Engineer, and also an enthousiast of travel, hiking, chess and piano."
-author_blurb_image: "/img/author.png"
+author_blurb: "Takumi Matsuzawa is a Physics Ph.D. candidate at The University Chicago. In addition to his passion in soft matter, he likes cycling, rock-climbing, and sketching.  "
+author_blurb_image: "/img/author.jpg"
 
 ##################
 # Social Buttons #
@@ -165,9 +186,11 @@ author_blurb_image: "/img/author.png"
 
 social:
   - title: "facebook"
-    url: "https://www.facebook.com/sergiocharpak"
+    url: "https://www.facebook.com/takumi.matsuzawa"
+  - title: "LinkedIn"
+    url: "https://www.linkedin.com/in/takumim/"
   - title: "github"
-    url: "https://github.com/sercharpak"
+    url: "https://github.com/tmatsuzawa"
   - title: "rss"
     url: "/feed.xml"
 
@@ -181,9 +204,9 @@ social:
 # GPG on Keybase #
 ##################
 
-keybase-username: sergiocharpak
-keybase-in-social: True
-keybase-in-footer: True
+#keybase-username: tmatsuzawa
+#keybase-in-social: True
+#keybase-in-footer: True
 
 ################################################################################
 
