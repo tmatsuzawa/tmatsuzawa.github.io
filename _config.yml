@@ -123,7 +123,7 @@ events:
     description: "Student Formula Japan- chassis team (Yokohama, Japan)"
   - image: "/img/timeline/kzoo.jpg"
     date: "September 2013"
-    description: "Started Kalamazoo College (Kalamazoo, U.S.A.)"
+    description: "Started Kalamazoo College (Kalamazoo, MI"
   - image: "/img/timeline/kek.png"
     date: "Summer 2014"
     description: "Laser-Induced Breakdown Spectroscopy (LIBS) (KEK, Japan)"
@@ -144,7 +144,7 @@ events:
 
   - image: "/img/timeline/kzoo_grad.png"
     date: "June 2016"
-    description: "Graduated from Kalamazoo College (Bogota, Colombia)"
+    description: "Graduated from Kalamazoo College (Kalamazoo, MI)"
 
 
   - image: "/img/timeline/uchicago.jpg"
@@ -155,7 +155,7 @@ events:
     description: "Characterization of Thin-Sheet Ejection Using Low-Viscosity Fluids (Chicago, IL)"
   - image: "/img/timeline/turbulence.png"
     date: "June 2017 - "
-    description: "Joined the Irvine lab with focus on turbulence"
+    description: "Joined Irvine lab"
 
 
 
