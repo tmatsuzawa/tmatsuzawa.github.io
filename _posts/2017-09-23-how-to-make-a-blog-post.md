@@ -21,17 +21,17 @@ tags: [ 'test' ] </p>
 <h2> Inserting images and resources </h2>
 <h3> How to insert an image:</h3>
 <p> You may use a definite path on Github. </p>
-<img src="https://tmatsuzawa.github.io/img/2017-09-23/Keep_calm.jpg"  >
+<img src="https://tmatsuzawa.github.io/img/2017-09-23/Keep_Calm.jpg"  >
 <p> Image Example: Keep Calm and Research On <\p>
 
-<p> [Keep Calm. Research On!](https://tmatsuzawa.github.io/img/2017-09-23/Keep_calm.jpg) </p>
+<p> [Keep Calm. Research On!](https://tmatsuzawa.github.io/img/2017-09-23/Keep_Calm.jpg) </p>
 <p> You can also use the variable "url" which is defined in _config.yml </p>
 <p> [Keep Calm. Research On!]({{site.url}}/img/2017-09-23/Keep_Calm.jpg) </p>
-<p> [Keep Calm. Research On!]   <a href={site.url}/img/2017-09-23/Keep_Calm.jpg> </a>
+[Keep Calm. Research On!]   <a href={site.url}/img/2017-09-23/Keep_Calm.jpg> </a>
 
 <h3>  How to insert a hyperlink:</h3>
 <p> You may insert hyperlinks for images, pdfs, url, etc. </p>
-<p> <a href="https://tmatsuzawa.github.io/cv/CV_TakumiMatsuzawa.pdf"> Download CV </a></p>
+<p> Link example, PDF:  <a href="https://tmatsuzawa.github.io/cv/CV_TakumiMatsuzawa.pdf"> Download Sample PDF </a></p>
 
 <p> Hyperlink example: <a href="https://github.com/tmatsuzawa"> Here</a></p>
 
