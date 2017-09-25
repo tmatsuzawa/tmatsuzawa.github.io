@@ -34,9 +34,9 @@ Image Example: Keep Calm and Research On
 <p> Hyperlink example: <a href="https://github.com/tmatsuzawa"> Here</a> </p>
 
 
-<h1> Recall your memory about HTML... <\h1>
-<h1> This is a Heading (h1). </h1>
+<h1> Recall your memory about HTML...
+This is a Heading (h1). </h1>
 <h2> This is a Heading (h2). </h2>
-<h3> This is a Heading (h2). </h3>
-<h4> This is a Heading (h2). </h4>
+<h3> This is a Heading (h3). </h3>
+<h4> This is a Heading (h4). </h4>
 <p> This is a paragraph.</p>
