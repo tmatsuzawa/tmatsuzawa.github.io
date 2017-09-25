@@ -7,7 +7,7 @@ tags: [ 'test' ]
 ---
 
 <p> All information here is based on
-<a href="https://github.com/tmatsuzawa"> https://github.com/tmatsuzawa</a>  </p>
+<a href="https://jekyllrb.com/docs/frontmatter/"> https://jekyllrb.com/docs/frontmatter/ </a>  </p>
 
 <p> All blog post files must be stored under _post as markdown files (.md). The title of the post file must be YEAR-MONTH-DAY-title.MARKUP.
 They must begin with YAML Front Matter, which looks like... </p>
