@@ -113,48 +113,55 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/ISS_2011.jpg"
-    date: "July 2011"
-    description: "Participated the International Science School as a national representative (Sydney, Australia)"
- # - image: "/img/timeline/uni_hike.jpg"
- #   date: "April 2012"
- #   description: "Started Yokohama National University (Yokohama, Japan)"
-  - image: "/img/timeline/ynfp.jpg"
-    date: "May 2012 - March 2013"
-    description: "Student Formula Japan- chassis team (Yokohama, Japan)"
-  - image: "/img/timeline/kzoo.jpg"
+ # - image: "/img/timeline/ISS_2011.jpg"
+ #- image: "/img/timeline/ISS_2011_sydney.jpg"
+ #   date: "July 2011"
+ #   description: "Participated the International Science School as a national representative (Sydney, Australia)"
+  - image: "/img/timeline/YNU.jpg"
+    date: "April 2012 - July 2013"
+    description: "Studied Engineering Physics at Yokohama National University (Yokohama, Japan)"
+
+#  - image: "/img/timeline/ynfp2.jpg"
+#    date: "May 2012 - March 2013"
+#    description: "Student Formula Japan- chassis team (Yokohama, Japan)"
+
+  - image: "/img/timeline/kzooseal.jpg"
     date: "September 2013"
-    description: "Started Kalamazoo College (Kalamazoo, MI"
-  - image: "/img/timeline/kek.png"
+    description: "Started Kalamazoo College (Kalamazoo, MI)"
+
+  - image: "/img/timeline/kek.jpg"
     date: "Summer 2014"
     description: "Laser-Induced Breakdown Spectroscopy (LIBS) (KEK, Japan)"
-  - image: "/img/timeline/vaccination.png"
-    date: "Summer 2014"
-    description: "Efficacy of vaccines through mathematical modeling (Kalamazoo, MI)"
 
-  - image: "/img/timeline/Wilson_Hall.png"
+  - image: "/img/timeline/vaccination.jpg"
+    date: "Summer 2014"
+    description: "A Guide to the Vaccination Debate  (Kalamazoo, MI)"
+
+  - image: "/img/timeline/Wilson_Hall.jpg"
     date: "Summer 2015"
     description: "Lee Teng internship at Fermilab (Batavia, IL)"
 
-  - image: "/img/timeline/melting.png"
+  - image: "/img/timeline/melting2.png"
     date: "June 2014 - June 2016"
     description: "Melting transition of Yukawa systems through Monte Carlo and Molecular Dynamics simulations (Kalamazoo, MI)"
   - image: "/img/timeline/neuro.jpg"
     date: "Sept 2014 - July 2016"
     description: "Multi-scale modeling of altered synaptic plasticity related to Amyloid β effects (Kalamazoo, MI)"
 
-  - image: "/img/timeline/kzoo_grad.png"
+  - image: "/img/timeline/kzoo_grad.jpg"
     date: "June 2016"
     description: "Graduated from Kalamazoo College (Kalamazoo, MI)"
 
 
-  - image: "/img/timeline/uchicago.jpg"
+  - image: "/img/timeline/uchicago_logo.png"
     date: "September 2016"
     description: "Started a physics Ph.D. program at The University of Chicago (Chicago, IL)"
+
   - image: "/img/timeline/splashing.png"
     date: "September 2016 - June 2017"
     description: "Characterization of Thin-Sheet Ejection Using Low-Viscosity Fluids (Chicago, IL)"
-  - image: "/img/timeline/turbulence.png"
+
+  - image: "/img/timeline/irvine_trans.png"
     date: "June 2017 - "
     description: "Joined Irvine lab"
 
