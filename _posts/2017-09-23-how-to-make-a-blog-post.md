@@ -23,7 +23,7 @@ tags: [ 'test' ] </p>
 <h3> How to insert an image:</h3>
 <p> You may use a definite path on Github. </p>
 <img src="https://tmatsuzawa.github.io/img/2017-09-23/Keep_Calm.jpg"  >
-<p> Image Example: Keep Calm and Research On <\p>
+Image Example: Keep Calm and Research On
 
 
 

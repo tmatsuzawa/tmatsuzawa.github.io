@@ -125,7 +125,7 @@ events:
 #    date: "May 2012 - March 2013"
 #    description: "Student Formula Japan- chassis team (Yokohama, Japan)"
 
-  - image: "/img/timeline/kzooseal.jpg"
+  - image: "/img/timeline/kzooseal.png"
     date: "September 2013"
     description: "Started Kalamazoo College (Kalamazoo, MI)"
 
@@ -163,13 +163,13 @@ events:
 
   - image: "/img/timeline/irvine_trans.png"
     date: "June 2017 - "
-    description: "Joined Irvine lab"
+    description: "Research on Turbulence in Irvine lab"
 
 
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/erc.jpg"
+timeline-img: "/img/timeline/future.jpg"
 
 ###########
 # Contact #
@@ -185,7 +185,7 @@ email: "tmatsuzawa@uchicago.edu"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Takumi Matsuzawa is a Physics Ph.D. candidate at The University Chicago. In addition to his passion in soft matter, he likes cycling, rock-climbing, and sketching.  "
+author_blurb: "Takumi Matsuzawa is a Physics Ph.D. candidate at The University Chicago. In addition to his passion in soft matter, he likes cycling, rock-climbing, and cooking.  "
 author_blurb_image: "/img/author.jpg"
 
 ##################
@@ -195,7 +195,7 @@ author_blurb_image: "/img/author.jpg"
 social:
   - title: "facebook"
     url: "https://www.facebook.com/takumi.matsuzawa"
-  - title: "LinkedIn"
+  - title: "linkedin"
     url: "https://www.linkedin.com/in/takumim/"
   - title: "github"
     url: "https://github.com/tmatsuzawa"
