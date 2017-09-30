@@ -19,5 +19,5 @@ So far, it works great. Folding cells is especially nice to keep my iPython note
 
 <p>
 To access Notebook extension configuration page:
-Go to <a href="http://localhost:8888/nbextensions" http://localhost:8888/nbextensions after you run a server.
+Go to <a> href="http://localhost:8888/nbextensions" http://localhost:8888/nbextensions </a>after you run a server.
 </p>
