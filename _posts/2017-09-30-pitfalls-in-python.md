@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Notes on Jupyter Notebook Extensions
+title: Pitfalls in Python
 category: documentation
 tags: [ 'Python' ]
 ---
