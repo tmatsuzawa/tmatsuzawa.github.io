@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48ed0683-073b-4fce-9145-1623f5963f6f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/tmatsuzawa.github.io.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BingSiteAuth.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/color-browser.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/comments.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/force-https.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/js.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/latest-post.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/navigation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/pagination.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/pagination.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/post-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/share.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/social-buttons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/swipe-instructions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/syntax-highlight.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/timeline.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/web-app.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/blog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/category.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/error.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/tag.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-09-23-docTest.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-09-23-how-to-make-a-blog-post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-09-30-Jupyter-Notebook-Extensions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-09-30-pitfalls-in-python.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-10-26-Kadanoff-Notes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/blog/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/categories/documentation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/categories/tech.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/css/grayscale.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/css/rrssb.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/css/timeline.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/documentation/2016/12/06/docAortaProject.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/atom_icon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/author.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/black-lab-glass.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/intro-bg.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/jetpacktocat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/labtocat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/timeline/Grado_Diego_cut.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/timeline/author.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/timeline/author3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/timeline/baracktocat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/timeline/cppm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/timeline/default.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/timeline/drawing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/timeline/epfl_logo_cut.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/timeline/fermilab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/timeline/highschool.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/timeline/japan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/timeline/spidertocat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/timeline/tokyouni.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/timeline/uniandes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/web-app/atom_icon_128.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/web-app/atom_icon_16.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/web-app/atom_icon_192.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/web-app/atom_icon_32.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/web-app/atom_icon_48.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/web-app/atom_icon_64.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/web-app/atom_icon_96.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/web-app/icon-144p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/web-app/icon-192p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/web-app/icon-36p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/web-app/icon-48p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/web-app/icon-72p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/web-app/icon-96p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/js/hammer.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/js/rrssb.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/js/typed.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/latest-post.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/sitemap.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tags/medicalimaging.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tags/tutorial.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/timeline.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/documentation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/tech.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/grayscale.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/rrssb.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/timeline.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cv/CV_TakumiMatsuzawa.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2017-09-23/Keep_Calm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/404.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ISS_2011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Wilson_Hall.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/YNU.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/atom_icon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/author.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/black-lab-glass.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/intro-bg.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/jetpacktocat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/kek.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/kzoo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/kzoo_grad.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/kzooseal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/labtocat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/melting.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/melting2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/neuro.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/splashing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/timeline/ISS_2011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/timeline/ISS_2011_sydney.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/timeline/Wilson_Hall.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/timeline/YNU.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/timeline/author.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/timeline/erc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/timeline/future.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/timeline/intro-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/timeline/irvine_trans.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/timeline/kek.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/timeline/kzoo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/timeline/kzoo_grad.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/timeline/kzoograd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/timeline/kzooseal2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/timeline/melting.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/timeline/melting2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/timeline/neuro.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/timeline/splashing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/timeline/turbulence.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/timeline/uchicago.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/timeline/uchicago_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/timeline/uni_hike.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/timeline/vaccination.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/timeline/ynfp.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/timeline/ynfp2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/uchicago.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/uni_hike.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/web-app/atom_icon_128.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/web-app/atom_icon_16.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/web-app/atom_icon_192.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/web-app/atom_icon_32.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/web-app/atom_icon_48.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/web-app/atom_icon_64.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/web-app/atom_icon_96.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/web-app/icon-144p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/web-app/icon-192p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/web-app/icon-36p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/web-app/icon-48p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/web-app/icon-72p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/web-app/icon-96p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ynfp.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/hammer.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/rrssb.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/typed.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/latest-post.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/_site/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/_site/generate-categories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/_site/generate-tags" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/_site/install" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/_site/integrate-personal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/_site/newpost" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/_site/serve" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/_site/serve-lan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/_site/serve-lan-production" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/_site/serve-production" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/generate-categories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/generate-tags" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/install" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/integrate-personal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/newpost" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/serve" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/serve-lan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/serve-lan-production" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/serve-production" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/medicalimaging.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/tutorial.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/timeline.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="22uOW6YZDAziENo26AUHFximvWH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48ed0683-073b-4fce-9145-1623f5963f6f" name="Default Changelist" comment="" />
+      <created>1640684035154</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640684035154</updated>
+    </task>
+    <servers />
+  </component>
+</project>
