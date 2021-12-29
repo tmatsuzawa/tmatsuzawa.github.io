@@ -8,7 +8,8 @@ By training, I am an experimental physicist with specialization in turbulence an
 I am currently a Ph.D. candidate in physics at <a href="http://www.uchicago.edu/" target="_blank">The University of Chicago</a>, working in Professor William Irvine's lab. 
 I have a M.S. in physics from the University of Chicago, IL, and a B.A. in physics and chemistry (<i>summa cum laude</i>) from Kalamazoo College, MI.
 My interest lies in 1.understanding collective behavior of matter and 2.data-driven science (mostly machine learning fluid mechanics).
- <br> 
+<br> 
+<br> 
 <b>Current projects:</b>
 <ul style="list-style-type:disc;">
     <li> turbulence: from controlled generation to decay (experimental, theoretical, numerical, engineering)
