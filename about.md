@@ -4,6 +4,38 @@ title: About
 permalink: about/
 ---
 
-By training I am a geomorphologist and GIS specialist, having spent 10 years at Edinburgh University getting a BSc in Geology and Physical Geography, an MSc in GIS and a PhD in Earth and Atmospheric Sciences. During this decade I built up my software development skills across a range of languages whilst developing topographic analysis software for my research. My research now focuses on the development, implementation and application of topographic analysis and other computational techniques to answer questions about the short and long term evolution of planetary surfaces. I have a strong commitment to open research and see the development of robust, transparent scientific software as a key aspect of open science.
-
-I am currently a lecturer in Physical Geography at [Queen Mary University of London](https://www.qmul.ac.uk/geog/), where I teach on our Geography and Environmental Science degree programmes. Outside of work I can often be found in one of London's many pool halls.
+By training, I am an experimental physicist with specialization in turbulence and soft condensed matter. 
+I am currently a Ph.D. candidate in physics at <a href="http://www.uchicago.edu/" target="_blank">The University of Chicago</a>, working in Professor William Irvine's lab. 
+I have a M.S. in physics from the University of Chicago, IL, and a B.A. in physics and chemistry (<i>summa cum laude</i>) from Kalamazoo College, MI.
+My interest lies in 1.understanding collective behavior of matter and 2.data-driven science (mostly machine learning fluid mechanics).
+ <br> 
+<b>Current projects:</b>
+<ul style="list-style-type:disc;">
+    <li> turbulence: from controlled generation to decay (experimental, theoretical, numerical, engineering)
+    </li>
+    <li>beguiling visualization of scientific data using Houdini (numerical, software)
+    </li>
+    <li>machine learning to improve particle image velocimetry (numerical)
+    </li>
+    <li>
+    development of a Python package to assess fluid mechanics data (software)
+    </li>
+</ul>
+<br>
+<b>Past projects (just to name a few)</b>
+<ul style="list-style-type:disc;">
+    <li> splashing of low-viscosity fluids (experimental)
+    </li>
+    <li>3D melting of Yukawa system (Monte Carlo and molecular dynamics (LAMMPS) simulations)
+    </li>
+    <li>assessment of muon production rate by several experimental scenarios @<a href="https://www.fnal.gov/" target="_blank">Fermilab</a> (numerical)
+    </li>
+    <li>modeling synaptic plasticity of Alzheimer's patients (numerical)
+    </li>
+    <li>mathematical modeling on vaccine efficacy (mathematical)
+    </li>
+    <li>Cowl design and manufacturing, Formula SAE Japan (engineering)
+    </li>
+</ul>
+<br>
+I design, build, synthesize, experiment, code, and visualize.
