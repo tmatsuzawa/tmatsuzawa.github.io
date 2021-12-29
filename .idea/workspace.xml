@@ -3,10 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="48ed0683-073b-4fce-9145-1623f5963f6f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/face.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/face.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cover.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/cover.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

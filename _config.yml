@@ -1,10 +1,15 @@
 # Site settings  https://unsplash.com/collections
 title: Takumi Matsuzawa
-description: 'Geomorphologist. Programmer.'
+description: "Website of Takumi Matsuzawa- a physicist"
+keywords: "Matsuzawa, Takumi, Soft Matter, Physics, The University of Chicago, UChicago, Chicago, Fluid, Fluid Mechanics"
+favicon: "/images/favicon/atom_icon.ico"
+
+
 url: 'http://tmatsuzawa.github.io'
 baseurl:
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
+
 
 author:
   name: 'Takumi Matsuzawa'
