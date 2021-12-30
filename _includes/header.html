@@ -31,23 +31,28 @@
           </nav>
 
 
+<!--          <nav class="cover-navigation cover-navigation&#45;&#45;primary">-->
+<!--            <ul class="navigation">-->
+<!--              <li class="navigation__item"><a href="https://github.com/sgrieve/CV/raw/master/CV.pdf" title="CV" class="cv-button">CV</a></li>-->
+<!--            </ul>-->
+<!--          </nav>-->
           <nav class="cover-navigation cover-navigation--primary">
             <ul class="navigation">
-              <li class="navigation__item"><a href="https://github.com/sgrieve/CV/raw/master/CV.pdf" title="CV" class="cv-button">CV</a></li>
+              <li class="navigation__item"><a href="{{ 'cv_resume/' | relative_url}}" title="CV/Resume" class="cv_resume-button">CV/Resume</a></li>
             </ul>
           </nav>
 
-          <nav class="cover-navigation cover-navigation--primary">
-            <ul class="navigation">
-              <li class="navigation__item"><a href="{{ 'software/' | relative_url}}" title="Software" class="software-button">Software</a></li>
-            </ul>
-          </nav>
+<!--          <nav class="cover-navigation cover-navigation&#45;&#45;primary">-->
+<!--            <ul class="navigation">-->
+<!--              <li class="navigation__item"><a href="{{ 'software/' | relative_url}}" title="Software" class="software-button">Software</a></li>-->
+<!--            </ul>-->
+<!--          </nav>-->
 
-          <nav class="cover-navigation cover-navigation--primary">
-            <ul class="navigation">
-              <li class="navigation__item"><a href="{{ 'pubs/' | relative_url}}" title="Publications" class="pubs-button">Publications</a></li>
-            </ul>
-          </nav>
+<!--          <nav class="cover-navigation cover-navigation&#45;&#45;primary">-->
+<!--            <ul class="navigation">-->
+<!--              <li class="navigation__item"><a href="{{ 'pubs/' | relative_url}}" title="Publications" class="pubs-button">Publications</a></li>-->
+<!--            </ul>-->
+<!--          </nav>-->
 
           <nav class="cover-navigation cover-navigation--primary">
             <ul class="navigation">
@@ -104,6 +109,16 @@
               </a>
             </li>
             {% endif %}
+
+            {% if site.author.github_username %}
+            <!-- LinkedIn -->
+            <li class="navigation__item">
+              <a href="https://www.linkedin.com/{{ site.author.linkedin_username }}" title="{{ site.author.linkedin_username }} on LinkedIn" target="_blank">
+                <i class='fa fa-linkedin fa-2x'></i>
+                <span class="label">GitHub</span>
+              </a>
+            </li>
+          {% endif %}
 
             </ul>
           </nav>
