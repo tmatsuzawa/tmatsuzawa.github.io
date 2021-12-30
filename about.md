@@ -5,8 +5,8 @@ permalink: about/
 ---
 
 By training, I am an experimental physicist with specialization in turbulence and soft condensed matter. 
-I am currently a Ph.D. candidate in physics at <a href="http://www.uchicago.edu/" target="_blank">The University of Chicago</a>, working in Professor William Irvine's lab. 
-I have a M.S. in physics from the University of Chicago, IL, and a B.A. in physics and chemistry (<i>summa cum laude</i>) from Kalamazoo College, MI.
+I am currently a Ph.D. candidate in physics at <a href="http://www.uchicago.edu/" target="_blank">The University of Chicago</a>, working in <a href="http://irvinelab.uchicago.edu/" target="_blank">Professor William Irvine's lab</a>. 
+I have a M.S. in physics from the University of Chicago, IL, and a B.A. in physics and chemistry (*summa cum laude*, with distinction) from Kalamazoo College, MI.
 My interest lies in 1.understanding collective behavior of matter and 2.data-driven science (mostly machine learning fluid mechanics).
 <br> 
 <br> 
