@@ -1173,7 +1173,7 @@ hr {
 	width: 95%; }
 .post hr {
 	display: block;
-	width: 30%;
+	width: 10%;
 	margin: 2em 0;
 	border-top: 1px solid #dddddd; }
 
@@ -1578,7 +1578,7 @@ input[type="tel"] {
 	.navigation--social {
 		margin-top: 5px;
 		margin-left: 0; } }
-@media all and (max-width: 1080px) {
+@media all and (max-width: 960px) {
 	.btn-mobile-menu {
 		display: block; }
 
@@ -1596,7 +1596,7 @@ input[type="tel"] {
 
 	.panel-cover__description {
 		display: block;
-		max-width: 800px;
+		max-width: 600px;
 		margin: 0 auto; }
 
 	.panel-cover__divider--secondary {
