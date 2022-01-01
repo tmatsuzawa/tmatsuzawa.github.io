@@ -16,7 +16,7 @@ Publications
     <li>
     Erdi P, Matsuzawa T, John T, Kiss T and Zalanyi L.: *Connecting Epilepsy and Alzheimer’s Disease: Modeling of Normal and Pathological Rhythmicity and Synaptic Plasticity Related to Amyloid $\beta$  Effects*. In: Erdi P, Bhattacharya BS and Cochran Al (Eds.): *Computational Neurology and Psychiatry* (Springer Series in Bio-/Neuroinformatics) 1st ed. 2017 Edition, pp 93-119.
     </li>
-</ol>
+<\ol>
 
 
 Talks
