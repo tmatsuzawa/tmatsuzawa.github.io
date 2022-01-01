@@ -1098,7 +1098,7 @@ pre {
 
 .content-wrapper {
 	z-index: 800;
-	width: 60%;
+	width: 80%;
 	max-width: 1080px;
 	margin-left: 40%; }
 
@@ -1199,10 +1199,12 @@ hr {
 	font-family: "Roboto Slab", serif;
 	font-size: 1.2em;
 	font-weight: lighter;
-	letter-spacing: 3px;
+	letter-spacing: 1px;
 	color: #cccccc;
 	-webkit-font-smoothing: antialiased;
 	width: 100%;
+    padding-right: 0 px;
+    padding-left: 0 px;
 	}
 
 .panel-cover {
