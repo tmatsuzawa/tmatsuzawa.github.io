@@ -5,7 +5,8 @@ permalink: research/
 ---
 Unfortunately, many of my ongoing projects are still private because of their nature.
 
-Building turbulence with vortex rings
+<h3> Building turbulence with vortex rings </h3>
+
 ------------------------------------
 This work was <a href="https://www.quantamagazine.org/an-unexpected-twist-lights-up-the-secrets-of-turbulence-20200903/" target="_blank">featured on Quanta Magazine</a>
 Coming soon. 
