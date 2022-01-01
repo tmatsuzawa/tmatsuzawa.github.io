@@ -1431,14 +1431,14 @@ i {
 	list-style-type: none;
 	text-align: left; }
 	.post-list li {
-		margin: 0 0 0em 0; }
+		margin: 0 0 2.2em 0; }
 		.post-list li:last-child hr {
 			display: none; }
 
 .post-list__post-title {
 	margin-top: 0;
 	margin-bottom: .2em;
-	font-size: 1.5em;
+	font-size: 5em;
 	line-height: 1.3em; }
 	.post-list__post-title a {
 		color: #333333; }
