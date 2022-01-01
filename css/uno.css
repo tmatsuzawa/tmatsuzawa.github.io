@@ -1249,8 +1249,8 @@ hr {
 	height: 85%; }
 
 .no-js .panel-main {
-	width: 100%;
-	max-width: 930px; }
+	width: 40%;
+	max-width: 530px; }
 
 .panel-main__inner {
 	display: table-cell;
@@ -1260,11 +1260,11 @@ hr {
 	padding: 0 60px; }
 
 .panel-main__content {
-	max-width: 620px;
+	max-width: 820px;
 	margin: 0 auto; }
 
 .panel-main__content--fixed {
-	width: 480px;
+	width: 680px;
 	transition: width 1s;
 	-webkit-transition: width 1s;
 	/* Safari */ }
