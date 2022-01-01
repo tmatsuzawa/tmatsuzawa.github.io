@@ -6,7 +6,6 @@ permalink: computation/
 
 tflow
 ---
-
 During my Ph.D. I have developed [tflow](https://github.com/tmatsuzawa/tflow) that collects and analyzes particle velocimetry data.
 <ul>
     <li>General
@@ -42,8 +41,8 @@ During my Ph.D. I have developed [tflow](https://github.com/tmatsuzawa/tflow) th
         </ul>
     </li>
 </ul>
-
-(Tutorials and images will be posted)
+This will be packaged soon. 
+(Later, tutorials and images will be posted here.)
 
 [comment]: <> (&#40;<img src="https://lsdtopotools.github.io/img/LSD-logo.png" alt="LSDTopoTools Logo" style="width: 200px;"/>&#41;)
 
@@ -53,14 +52,15 @@ More to come here! (a collaboration with Gordon Kindlmann, William Irvine, and Z
 
 Houdini for Fluids
 ---
-Houdini (SideFX) is a 3D rendering and simulation software which provides begulling imagery. 
-In my research, I use Houdini for fluid visalization. A summary of my journey with Houdini will be posted here.
-<img src="images/computations/houdini4fluids/houdini4ptv.gif" alt="LagrangianTrajectories" style="width: 200px;"/>
+Fluid motion is aesthetically pleasing yet often ephemeral. A part of my Ph.D. involved visualizing flows in 3D using [Houdini (SideFX)](https://www.sidefx.com/).
+Houdini is a 3D rendering and simulation software which provides begulling imagery. A summary of my journey with Houdini will be posted here.
+<br>
+Find more here: <a href="https://physics.uchicago.edu/about/prizes-and-fellowships/sidney-nagel-prize-for-creativity-in-research/">Sidney Nagel Prize for Creativity in Research</a>
+<img src="https://tmatsuzawa.github.io/images/computation/houdini4fluids/houdini4ptv.png" alt="[Rendered Lagrangian trajectories]" style="width: 200px;"/>
 
-<img src="https://tmatsuzawa.github.io/images/computations/houdini4fluids/houdini4ptv.gif" alt="Lagrangian trajectories" style="width: 200px;"/>
 [comment]: <> (![Houdini]&#40;images/computations/houdini4fluids/houdini4ptv.gif&#41;)
 
-Python for physicis education
+Python for physics education
 ---
 Numerics is an essential part of modern science. The use of Python in scientific communities has skyrocketed in the last decade.
 This space is a collection of the teaching materials that I created over the years. 
