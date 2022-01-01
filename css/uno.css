@@ -1098,8 +1098,8 @@ pre {
 
 .content-wrapper {
 	z-index: 800;
-	width: 60%;
-	max-width: 800px;
+	width: 100%;
+	max-width: 1500px;
 	margin-left: 40%; }
 
 .content-wrapper__inner {
@@ -1257,7 +1257,7 @@ hr {
 	vertical-align: middle;
 	position: relative;
 	z-index: 800;
-	padding: 0 0px; }
+	padding: 0 60px; }
 
 .panel-main__content {
 	max-width: 820px;
