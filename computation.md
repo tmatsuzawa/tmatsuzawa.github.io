@@ -44,7 +44,8 @@ During my Ph.D. I have developed [tflow](https://github.com/tmatsuzawa/tflow) th
 </ul>
 
 (Tutorials and images will be posted)
-[comment]: <> (<img src="https://lsdtopotools.github.io/img/LSD-logo.png" alt="LSDTopoTools Logo" style="width: 200px;"/>)
+
+[comment]: <> (&#40;<img src="https://lsdtopotools.github.io/img/LSD-logo.png" alt="LSDTopoTools Logo" style="width: 200px;"/>&#41;)
 
 ml4piv
 ---
@@ -54,7 +55,10 @@ Houdini for Fluids
 ---
 Houdini (SideFX) is a 3D rendering and simulation software which provides begulling imagery. 
 In my research, I use Houdini for fluid visalization. A summary of my journey with Houdini will be posted here.
-![Houdini](images/computations/houdini4fluids/houdini4ptv.gif)
+<img src="images/computations/houdini4fluids/houdini4ptv.gif" alt="LagrangianTrajectories" style="width: 200px;"/>
+
+<img src="https://tmatsuzawa.github.io/images/computations/houdini4fluids/houdini4ptv.gif" alt="Lagrangian trajectories" style="width: 200px;"/>
+[comment]: <> (![Houdini]&#40;images/computations/houdini4fluids/houdini4ptv.gif&#41;)
 
 Python for physicis education
 ---
