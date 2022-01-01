@@ -1265,7 +1265,7 @@ hr {
 
 
 .panel-main__content--fixed {
-	width: 480px;
+	width: 800px;
 	transition: width 1s;
 	-webkit-transition: width 1s;
 	/* Safari */ }
