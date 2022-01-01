@@ -4,7 +4,7 @@ title: Presentations
 permalink: presentations/
 ---
 
-Here are links to some talks and posters I have presented at conferences in the past. Note that some of the files are quite large.
+Here are links to some talks and posters I have presented at conferences in the past. 
 
 Publications
 ---

@@ -56,7 +56,7 @@ Fluid motion is aesthetically pleasing yet often ephemeral. A part of my Ph.D. i
 Houdini is a 3D rendering and simulation software which provides begulling imagery. A summary of my journey with Houdini will be posted here.
 <br>
 Find more here: <a href="https://physics.uchicago.edu/about/prizes-and-fellowships/sidney-nagel-prize-for-creativity-in-research/">Sidney Nagel Prize for Creativity in Research</a>
-<img src="https://tmatsuzawa.github.io/images/computation/houdini4fluids/houdini4ptv.png" alt="[Rendered Lagrangian trajectories]" style="width: 200px;"/>
+<img src="https://tmatsuzawa.github.io/images/computation/houdini4fluids/houdini4ptv.png" alt="[Rendered Lagrangian trajectories]" style="width: 400px;"/>
 
 [comment]: <> (![Houdini]&#40;images/computations/houdini4fluids/houdini4ptv.gif&#41;)
 
