@@ -3,32 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="efd79ce8-51a4-43a9-9201-baf9a169ca5a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-06-15-Legend.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-06-15-PIL.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-06-17-filling_arrays.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-06-17-masked.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-06-18-csv-files.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-06-19-kerberos-tickets.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-06-22-sorting-lists.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-06-23-sample-arrays.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-07-01-reading-files.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-07-08-simple-debugging.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-07-11-python-packages.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-07-24-argsort.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-07-24-map.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-07-29-erasing-from-vectors.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-07-29-searching-vectors.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-07-31-finding-nans.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-08-13-errorbar-legends.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-08-3-nohup.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-09-24-thinning-a-dataset.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-11-6-scp.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-12-11-mkdir.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-02-18-checkout-hash.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-07-19-installing-fonts.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-10-27-setting-nodata.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-12-20-latexdiff.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/uno.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/uno.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

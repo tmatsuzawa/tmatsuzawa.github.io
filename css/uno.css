@@ -1265,7 +1265,7 @@ hr {
 
 
 .panel-main__content--fixed {
-	width: 800px;
+	width: 480px;
 	transition: width 1s;
 	-webkit-transition: width 1s;
 	/* Safari */ }
@@ -1578,7 +1578,7 @@ input[type="tel"] {
 	.navigation--social {
 		margin-top: 5px;
 		margin-left: 0; } }
-@media all and (max-width: 960px) {
+@media all and (max-width: 1080px) {
 	.btn-mobile-menu {
 		display: block; }
 
@@ -1596,7 +1596,7 @@ input[type="tel"] {
 
 	.panel-cover__description {
 		display: block;
-		max-width: 600px;
+		max-width: 800px;
 		margin: 0 auto; }
 
 	.panel-cover__divider--secondary {
