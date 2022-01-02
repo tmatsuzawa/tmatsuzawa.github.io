@@ -1,12 +1,14 @@
 ---
 layout: post
 section-type: post
-title: LaTeX in Jekyll
+title: $\LaTeX$ in Jekyll
 category: documentation
 tags: [ 'internal' ]
 ---
 One can use LaTeX in Jekyll $\vec{\omega}=\nabla \times \vec{u}$.
+Simply, use $...$ for inline and $$...$$ for block.
 
+E.g.-
 $$
 \begin{aligned}
   \phi(x,y) &= \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
@@ -22,19 +24,18 @@ $$
               y_n
             \end{array} \right)
 \end{aligned}
-$$  
+$$
 
-\\( 1/x^{2} \\)
-$\( 1/x^{2} \)$
-$$\( 1/x^{2} \)$$
-vs
+E.g. Maxwell's equations
+$$
+\begin{align}
+  \nabla\times\vec{\mathbf{B}}-\frac{1}{c}\frac{\partial\vec{\mathbf{E}}}{\partial t} &= \frac{4\pi}{c}\vec{\mathbf{j}} \\
+  \nabla\cdot\vec{\mathbf{E}} &= 4\pi\rho \\
+  \nabla\times\vec{\mathbf{E}}+\frac{1}{c}\frac{\partial\vec{\mathbf{B}}}{\partial t} &= \vec{\mathbf{0}} \\
+  \nabla\cdot\vec{\mathbf{B}} &= 0
+\end{align}
+$$
 
-
-\[ \frac{1}{n^{2}} \]
-$\[ \frac{1}{n^{2}} \]$
-$$\[ \frac{1}{n^{2}} \]$$
-
-\\[ \frac{1}{n^{2}} \\]
 
 <h4>Configuration</h4>
 1. Add the following lines in `_includes/head.html`.
@@ -51,10 +52,5 @@ $$\[ \frac{1}{n^{2}} \]$$
   <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML" type="text/javascript"></script>
 {% endhighlight %}
 
-2. Add the following lines in `_config.yml`
 
-{% highlight py linenos %}
-kramdown:
-  # Enable LaTeX via MathJax
-  mathjax: true
-{% endhighlight %}
+Sources:
