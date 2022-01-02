@@ -5,7 +5,7 @@ title: LaTeX in Jekyll
 category: documentation
 tags: [ 'internal' ]
 ---
-One can use LaTeX in Jekyll. $\omega=\nabla \times \vec{u}$
+One can use LaTeX in Jekyll $\vec{\omega}=\nabla \times \vec{u}$.
 
 $$
 \begin{aligned}
@@ -24,7 +24,37 @@ $$
 \end{aligned}
 $$  
 
-
- \\( 1/x^{2} \\)
+\\( 1/x^{2} \\)
+$\( 1/x^{2} \)$
+$$\( 1/x^{2} \)$$
 vs
+
+
+\[ \frac{1}{n^{2}} \]
+$\[ \frac{1}{n^{2}} \]$
+$$\[ \frac{1}{n^{2}} \]$$
+
 \\[ \frac{1}{n^{2}} \\]
+
+<h4>Configuration</h4>
+1. Add the following lines in `_includes/head.html`.
+
+{% highlight py linenos %}
+  <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+        inlineMath: [['$','$']]
+      }
+    });
+  </script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML" type="text/javascript"></script>
+{% endhighlight %}
+
+2. Add the following lines in `_config.yml`
+
+{% highlight py linenos %}
+kramdown:
+  # Enable LaTeX via MathJax
+  mathjax: true
+{% endhighlight %}
