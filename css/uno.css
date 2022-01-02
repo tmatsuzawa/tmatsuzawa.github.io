@@ -1099,7 +1099,7 @@ pre {
 .content-wrapper {
 	z-index: 800;
 	width: 62%;
-	max-width: 920px;
+	max-width: 1280px;
 	margin-left: 38%; } /* 0.382 = 0.618/1.618... golden ratio*/
 
 .content-wrapper__inner {
