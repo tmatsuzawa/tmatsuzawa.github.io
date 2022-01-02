@@ -11,7 +11,7 @@ categories: personal
 </header>
 
 <div class="main-post-list">
-  "{{ post.url | relative_url }}"
+  <p>"{post.url}" </p>
   <ol class="post-list">
     {% for post in paginator.posts %}
       {% if post.categories contains 'personal' %}
