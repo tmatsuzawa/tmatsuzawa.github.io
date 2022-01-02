@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Blog
-categories: professional
+category: professional
 ---
 
 <header class="post-header">
@@ -14,7 +14,7 @@ categories: professional
 
   <ol class="post-list">
     {% for post in paginator.posts %}
-      {% if post.categories contains 'professional' %}
+      {% if post.category contains 'professional' %}
         <li>
           <h2 class="post-list__post-title post-title"><a href="{{ post.url | relative_url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
           <p class="excerpt">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}&hellip;</p>

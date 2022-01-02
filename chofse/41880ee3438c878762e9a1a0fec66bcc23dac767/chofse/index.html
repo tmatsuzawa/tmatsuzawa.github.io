@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chamber of Secrets
-categories: personal
+category: personal
 ---
 
 <header class="post-header">
@@ -11,10 +11,9 @@ categories: personal
 </header>
 
 <div class="main-post-list">
-  "{{ post.url | relative_url }}"
   <ol class="post-list">
     {% for post in paginator.posts %}
-      {% if post.categories contains 'personal' %}
+      {% if post.category contains 'personal' %}
         <li>
           <h2 class="post-list__post-title post-title"><a href="{{ post.url | relative_url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
           <p class="excerpt">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}&hellip;</p>
