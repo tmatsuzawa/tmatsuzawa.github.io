@@ -1098,9 +1098,9 @@ pre {
 
 .content-wrapper {
 	z-index: 800;
-	width: 80%;
-	max-width: 1080px;
-	margin-left: 40%; }
+	width: 70%;
+	max-width: 920px;
+	margin-left: 30%; }
 
 .content-wrapper__inner {
 	margin: 0 10%;
@@ -1199,12 +1199,12 @@ hr {
 	font-family: "Roboto Slab", serif;
 	font-size: 1.2em;
 	font-weight: lighter;
-	letter-spacing: 1px;
+	letter-spacing: 3px;
 	color: #cccccc;
 	-webkit-font-smoothing: antialiased;
 	width: 100%;
-    padding-right: 0 px;
-    padding-left: 0 px;
+    padding-right: 0px;
+    padding-left: 0px;
 	}
 
 .panel-cover {
