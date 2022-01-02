@@ -8,7 +8,10 @@ tags: [ 'internal' ]
 One can use $\LaTeX$ in Jekyll like $\vec{\omega}=\nabla \times \vec{u}$.
 
 
-E.g.-
+E.g.<br>
+{% highlight py linenos %}
+
+{% endhighlight %}
 $$
 \begin{aligned}
   \phi(x,y) &= \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
@@ -26,7 +29,8 @@ $$
 \end{aligned}
 $$
 
-E.g. Maxwell's equations
+E.g. Maxwell's equations<br>
+{% highlight py linenos %}
 $$
 \begin{align}
   \nabla\times\vec{\mathbf{B}}-\frac{1}{c}\frac{\partial\vec{\mathbf{E}}}{\partial t} &= \frac{4\pi}{c}\vec{\mathbf{j}} \\
@@ -36,7 +40,27 @@ $$
 \end{align}
 $$
 
-E.g.- Lorentz system (no numbering)
+{% endhighlight %}
+$$
+\begin{align}
+  \nabla\times\vec{\mathbf{B}}-\frac{1}{c}\frac{\partial\vec{\mathbf{E}}}{\partial t} &= \frac{4\pi}{c}\vec{\mathbf{j}} \\
+  \nabla\cdot\vec{\mathbf{E}} &= 4\pi\rho \\
+  \nabla\times\vec{\mathbf{E}}+\frac{1}{c}\frac{\partial\vec{\mathbf{B}}}{\partial t} &= \vec{\mathbf{0}} \\
+  \nabla\cdot\vec{\mathbf{B}} &= 0
+\end{align}
+$$
+
+E.g.- Lorentz system (no numbering)<br>
+{% highlight py linenos %}
+$$
+\begin{align*}
+  \dot{x} &= \sigma(y - x) \\
+  \dot{y} &= \rho x - y - xz \\
+  \dot{z} &= -\beta z + xy
+\end{align*}
+$$
+
+{% endhighlight %}
 $$
 \begin{align*}
   \dot{x} &= \sigma(y - x) \\
@@ -53,8 +77,14 @@ $$
   <script type="text/x-mathjax-config">
     MathJax.Hub.Config({
       tex2jax: {
-        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-        inlineMath: [['$','$']]
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'],
+        inlineMath: [['$','$'], ['\\(','\\)']],
+        processEscapes: true
+      },
+      TeX: {
+        equationNumbers: {
+          autoNumber: "AMS"
+        }
       }
     });
   </script>
@@ -62,6 +92,6 @@ $$
 {% endhighlight %}
 
 
-Sources:
+References:<br>
 [Add LaTeX support to your blog](https://hw311.me/en/jekyll/2019/01/23/support-latex-in-jekyll-blog/)
 
