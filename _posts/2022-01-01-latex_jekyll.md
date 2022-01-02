@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: LaTeX in Jekyll
-category: documentation
+category: professional
 tags: [ 'internal' ]
 ---
 One can use $\LaTeX$ in Jekyll like $\vec{\omega}=\nabla \times \vec{u}$.
