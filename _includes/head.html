@@ -51,4 +51,18 @@
   <link rel="stylesheet" href="{{ "css/academicons.min.css" |  relative_url}}">
   <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' |  relative_url| prepend: site.url }}">
+
+<!--  Enable MathJax- LaTeX-->
+  <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+        inlineMath: [['$','$']]
+      }
+    });
+  </script>
+  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
 </head>
+
+
