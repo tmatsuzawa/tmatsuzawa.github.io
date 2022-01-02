@@ -11,15 +11,17 @@ categories: personal
 </header>
 
 <div class="main-post-list">
-
+  "{{ post.url | relative_url }}"
   <ol class="post-list">
     {% for post in paginator.posts %}
-      <li>
-        <h2 class="post-list__post-title post-title"><a href="{{ post.url | relative_url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-        <p class="excerpt">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}&hellip;</p>
-        <div class="post-list__meta"><time datetime="{{ post.date | date: "%-d %b %Y" }}" class="post-list__meta--date date">{{ post.date | date: "%-d %b %Y" }}</time></div>
-        <hr class="post-list__divider">
-      </li>
+      {% if post.categories contains 'personal' %}
+        <li>
+          <h2 class="post-list__post-title post-title"><a href="{{ post.url | relative_url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+          <p class="excerpt">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}&hellip;</p>
+          <div class="post-list__meta"><time datetime="{{ post.date | date: "%-d %b %Y" }}" class="post-list__meta--date date">{{ post.date | date: "%-d %b %Y" }}</time></div>
+          <hr class="post-list__divider">
+        </li>
+      {% endif %}
     {% endfor %}
   </ol>
 
