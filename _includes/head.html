@@ -53,14 +53,30 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' |  relative_url| prepend: site.url }}">
 
 <!--&lt;!&ndash;  Enable MathJax- LaTeX&ndash;&gt;-->
+
   <script type="text/x-mathjax-config">
     MathJax.Hub.Config({
       tex2jax: {
-        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-        inlineMath: [['$','$']]
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'],
+        inlineMath: [['$','$'], ['\\(','\\)']],
+        processEscapes: true
+      },
+      TeX: {
+        equationNumbers: {
+          autoNumber: "AMS"
+        }
       }
     });
   </script>
+
+<!--  <script type="text/x-mathjax-config">-->
+<!--    MathJax.Hub.Config({-->
+<!--      tex2jax: {-->
+<!--        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],-->
+<!--        inlineMath: [['$','$']]-->
+<!--      }-->
+<!--    });-->
+<!--  </script>-->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML" type="text/javascript"></script>
 
 </head>
