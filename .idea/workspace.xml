@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efd79ce8-51a4-43a9-9201-baf9a169ca5a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2022-01-01-renewal.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2022-01-01-renewal.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chofse/41880ee3438c878762e9a1a0fec66bcc23dac767/chofse/_posts/2022-01-01-ideas.md" beforeDir="false" afterPath="$PROJECT_DIR$/chofse/41880ee3438c878762e9a1a0fec66bcc23dac767/chofse/_posts/2022-01-01-ideas.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ilpm/ilpm/graph.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../ilpm/ilpm/graph.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ilpm/ilpm/velocity.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../ilpm/ilpm/velocity.py" afterDir="false" />
     </list>
