@@ -49,16 +49,16 @@ KEK (The High Energy Accelerator Research Organization), 2014
 Posters
 ---
 ”Realization of Confined Turbulence Through Multiple Vortex Ring Collision”
-Simons Foundation, Turbulence Across Vast Scales, Poster Dec. 2018
+Simons Foundation, Turbulence Across Vast Scales, Poster Dec. 2018 (Available upon request)
 
 ”Characterization of Thin-Sheet Ejection Using Low-Viscosity Fluids”
-The University of Chicago, Experimental Physics Project, 2017
+The University of Chicago, Experimental Physics Project, 2017 (Available upon request)
 
 ”Targeting Studies of the Second-Generation Mu2e Experiment” [tflow](presentatons/posters/mu2e.pdf)]
 Fermi National Accelerator Laboratory, 2015
 
 ”Modeling Altered Synaptic Plasticity due to Amyloid-Beta”
-Annual Meeting of Society for Neuroscience, Chicago, 2015
+Annual Meeting of Society for Neuroscience, Chicago, 2015 (Available upon request)
 
 ”Laser Break-Down Spectroscopy of Alloys”
 KEK (The High Energy Accelerator Research Organization), 2014
