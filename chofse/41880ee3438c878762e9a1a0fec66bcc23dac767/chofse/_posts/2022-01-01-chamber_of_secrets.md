@@ -19,6 +19,4 @@ I wonder where I belong in your mind.
 Well, the one within your mind is merely a projection of myself on your mind.
 Similarly, I can only see your shadow one at a time. 
 Eventually, many shadows from different light sources give me an idea of who you are.
-That is why I love asking questions about yourself and your daily lives.
-
-That is just as it is.
+That is why I love asking questions about you and your daily lives.
