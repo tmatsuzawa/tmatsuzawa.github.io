@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: LaTeX in Jekyll
 category: professional
-published: false
+[comment]: <> (published: false)
 tags: [ 'fluid', 'notes']
 ---
 This is a note about angular momentum in a continuum. 
