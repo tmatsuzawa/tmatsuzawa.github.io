@@ -30,7 +30,6 @@ $$
 $$<br>
 Therefore, \eqref{eq:SaffmanSect3-2-15} seems to hold only if $\nabla \cdot \pmb{u}=0$. He is not explicit about this.
 
-
 <hr>
 $$
 \begin{align}
