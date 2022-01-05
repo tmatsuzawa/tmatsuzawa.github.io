@@ -5,16 +5,16 @@ title: Research notes
 category: personal
 tags: [ 'personal', 'research']
 ---
-<h3>0. Geometry, topology in vortex dynamics</h3>
+0. Geometry, topology in vortex dynamics
 ... Symmetric collision and platonic solids (worked...)
 ... what happens for each point group? how much does this duality hold?
 
-<h3>1. Coherent structure manipulation</h3>
+1. Coherent structure manipulation
 For incompressible hydrodynamic turbulence, a flow (state) is characterized by $\epsilon$ and $\nu$ according to K41. 
 A revised theory (K62) 
 
 
-Helical turbulence
+2. Helical turbulence
 Data collection
 ... injection of angular momentum and helicity 
    ... PIV: 0, Lx, Ly, Lz- this makes sense
@@ -22,7 +22,7 @@ Data collection
    ... param space:
 
 
-2. Decay of turbulence 
+3. Decay of turbulence 
 
 
 
@@ -43,8 +43,8 @@ Big ideas in turbulence:
 3. Duality between a Prey-predator model and meanFlow-fluctuation interaction (Nigel)
 
 Iconic results in turbulence:
-1. Law of the wall: 
-2. Drag coefficient 
+1. Law of the wall
+2. Drag coefficients- fluctuation-dissipation theorem
 
 <hr>
 Profound problems of hydrodynamics

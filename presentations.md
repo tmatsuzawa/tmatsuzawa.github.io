@@ -54,7 +54,7 @@ Simons Foundation, Turbulence Across Vast Scales, Poster Dec. 2018 (Available up
 ”Characterization of Thin-Sheet Ejection Using Low-Viscosity Fluids”
 The University of Chicago, Experimental Physics Project, 2017 (Available upon request)
 
-”Targeting Studies of the Second-Generation Mu2e Experiment” [tflow](presentatons/posters/mu2e.pdf)]
+”Targeting Studies of the Second-Generation Mu2e Experiment” [tflow](https://tmatsuzawa.github.io/presentatons/posters/mu2e.pdf)]
 Fermi National Accelerator Laboratory, 2015
 
 ”Modeling Altered Synaptic Plasticity due to Amyloid-Beta”
