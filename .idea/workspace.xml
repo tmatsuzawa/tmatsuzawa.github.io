@@ -2,21 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efd79ce8-51a4-43a9-9201-baf9a169ca5a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/chofse/41880ee3438c878762e9a1a0fec66bcc23dac767/chofse/_posts/2022-01-04-constant_reminder.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2022-01-01-renewal.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2022-01-01-renewal.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chofse/41880ee3438c878762e9a1a0fec66bcc23dac767/chofse/_posts/2022-01-01-ideas.md" beforeDir="false" afterPath="$PROJECT_DIR$/chofse/41880ee3438c878762e9a1a0fec66bcc23dac767/chofse/_posts/2022-01-01-ideas.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chofse/41880ee3438c878762e9a1a0fec66bcc23dac767/chofse/_posts/2022-01-02-books.md" beforeDir="false" afterPath="$PROJECT_DIR$/chofse/41880ee3438c878762e9a1a0fec66bcc23dac767/chofse/_posts/2022-01-02-books.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chofse/41880ee3438c878762e9a1a0fec66bcc23dac767/chofse/_posts/2022-01-02-moon.md" beforeDir="false" afterPath="$PROJECT_DIR$/chofse/41880ee3438c878762e9a1a0fec66bcc23dac767/chofse/_posts/2022-01-02-moon.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chofse/41880ee3438c878762e9a1a0fec66bcc23dac767/chofse/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/chofse/41880ee3438c878762e9a1a0fec66bcc23dac767/chofse/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chofse/chofse.html" beforeDir="false" afterPath="$PROJECT_DIR$/chofse/chofse.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/uno.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/uno.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/presentations.md" beforeDir="false" afterPath="$PROJECT_DIR$/presentations.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/presentations/BSG19_poster.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/presentations/Reproducible_geographic_analysis.pptx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/presentations/bsg_2017.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/presentations/sediment_flux.pptx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/research.md" beforeDir="false" afterPath="$PROJECT_DIR$/research.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/software.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cv_resume.md" beforeDir="false" afterPath="$PROJECT_DIR$/cv_resume.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ilpm/ilpm/graph.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../ilpm/ilpm/graph.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ilpm/ilpm/velocity.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../ilpm/ilpm/velocity.py" afterDir="false" />
     </list>
