@@ -7,6 +7,7 @@ tags: [ 'fluid', 'notes']
 ---
 This is a note about angular momentum in a continuum. 
 <br>
-<img src="https://tmatsuzawa.github.io/blog/notes/2022-01-04-ang_impulse/notes001.pdf" alt="ang impulse notes" width="300">
-[PDF]({site.url}}/blog/notes/2022-01-04-ang_impulse/notes001.pdf)
+<img src="https://tmatsuzawa.github.io/blog/notes/2022-01-04-ang_impulse/notes001.jpg" alt="ang impulse notes" width="300">
+<br>
+[PDF](https://tmatsuzawa.github.io/blog/notes/2022-01-04-ang_impulse/notes001.pdf)
 
