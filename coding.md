@@ -9,6 +9,7 @@ Below you can find a few of my past projects.
 tflow: A Python package for flow analysis
 ---
 [tflow](https://github.com/tmatsuzawa/tflow) is a Python package that aids data acquisition and analyses for velocimetry (PIV and PTV).
+<br>
 <img src="https://tmatsuzawa.github.io/images/coding/tflow/tflow.png" alt="[tflow for flow analysis]" style="width: 600px;"/>
 
 [//]: # (<ul>)
@@ -99,6 +100,7 @@ Read more here: <a href="https://physics.uchicago.edu/about/prizes-and-fellowshi
 Teaching materials for computational physics
 ---
 Check out Jupyter notebooks that I contributed for Prof. David Miller's course on [Computational physics (PHYS250)](https://github.com/UChicagoPhysics/PHYS250) at The University of Chicago. 
+<br>
 <img src="https://tmatsuzawa.github.io/images/coding/physics_education/phys_edu.png" alt="[Teaching computational physics]" style="width: 400px;"/>
 
 
@@ -106,6 +108,7 @@ Snippets
 ---
 I code for various purposes (simulations, data analyses, data pipelines, pedagogical demonstrations). You may run some samples here:
 [Interactive notebooks](https://mybinder.org/v2/gh/tmatsuzawa/notebooks/HEAD)
+<br>
  1. Slicing a 3D array: [notebook](https://github.com/tmatsuzawa/notebooks/blob/main/notebooks/slicer.ipynb)
 <img src="https://tmatsuzawa.github.io/images/coding/snippets/3d_slicerx3.gif" alt="[Slicing a 3D array]" style="width: 800px;"/>
 
@@ -116,7 +119,8 @@ The code generates images of particles advected by a given time-dependent veloci
 
 ml4piv
 ---
-This is an ongoing collaboration with Gordon Kindlmann, William Irvine, and Zhuokai Zhao to apply machine learning for improving velocimery. More to come soon. <br>
+This is an ongoing collaboration with Gordon Kindlmann, William Irvine, and Zhuokai Zhao to apply machine learning for improving velocimery. More to come soon. 
+<br>
 <img src="https://tmatsuzawa.github.io/images/coding/snippets/ml4piv_sample.gif" alt="[machine learning fluid mechanics]" style="width: 400px;"/>
 
 
