@@ -122,6 +122,7 @@ ml4piv
 This is an ongoing collaboration with Gordon Kindlmann, William Irvine, and Zhuokai Zhao to apply machine learning for improving velocimery. More to come soon. 
 <br>
 <img src="https://tmatsuzawa.github.io/images/coding/snippets/ml4piv_sample.gif" alt="[machine learning fluid mechanics]" style="width: 600px;"/>
+<br>
 (In courtesy of Zhuokai Zhao)
 
 [comment]: <> (IPython notebooks for scientific research)
