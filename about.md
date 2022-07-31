@@ -4,10 +4,9 @@ title: About
 permalink: about/
 ---
 
-By training, I am an experimental physicist with specialization in turbulence and soft condensed matter. 
-I am a Graigner Graduate fellow  at <a href="http://www.uchicago.edu/" target="_blank">the University of Chicago</a>, pursuing a Ph.D. in <a href="http://irvinelab.uchicago.edu/" target="_blank">Professor William Irvine's lab</a>. 
-I have a S.M. in physics from the University of Chicago, IL, and a B.A. in physics and chemistry (*summa cum laude*, with distinction) from Kalamazoo College, MI.
-My interests lie in 1.understanding collective behavior of matter and 2.data-driven science (mostly machine learning fluid mechanics).
+Takumi is a Graigner Graduate fellow  at <a href="http://www.uchicago.edu/" target="_blank">the University of Chicago</a>, pursuing a Ph.D. in <a href="http://irvinelab.uchicago.edu/" target="_blank">Professor William Irvine's lab</a>. 
+He has a S.M. in physics from the University of Chicago, IL, and a B.A. in physics and chemistry (*summa cum laude*, with distinction) from Kalamazoo College, MI.
+His interests lie in 1.understanding collective behavior of matter and 2.data-driven science (mostly machine learning fluid mechanics).
 <br> 
 <br> 
 <b>Current projects:</b>
