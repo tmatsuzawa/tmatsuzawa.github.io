@@ -5,9 +5,9 @@ permalink: about/
 ---
 
 By training, I am an experimental physicist with specialization in turbulence and soft condensed matter. 
-I am currently a Ph.D. candidate in physics at <a href="http://www.uchicago.edu/" target="_blank">the University of Chicago</a>, working in <a href="http://irvinelab.uchicago.edu/" target="_blank">Professor William Irvine's lab</a>. 
+I am a Graigner Graduate fellow  at <a href="http://www.uchicago.edu/" target="_blank">the University of Chicago</a>, pursuing a Ph.D. in <a href="http://irvinelab.uchicago.edu/" target="_blank">Professor William Irvine's lab</a>. 
 I have a S.M. in physics from the University of Chicago, IL, and a B.A. in physics and chemistry (*summa cum laude*, with distinction) from Kalamazoo College, MI.
-My interest lies in 1.understanding collective behavior of matter and 2.data-driven science (mostly machine learning fluid mechanics).
+My interests lie in 1.understanding collective behavior of matter and 2.data-driven science (mostly machine learning fluid mechanics).
 <br> 
 <br> 
 <b>Current projects:</b>
@@ -23,7 +23,7 @@ My interest lies in 1.understanding collective behavior of matter and 2.data-dri
     </li>
 </ul>
 <br>
-<b>Past projects (just to name a few)</b>
+<b>Past projects</b>
 <ul style="list-style-type:disc;">
     <li> splashing of low-viscosity fluids (experimental)
     </li>
@@ -39,4 +39,3 @@ My interest lies in 1.understanding collective behavior of matter and 2.data-dri
     </li>
 </ul>
 <br>
-I design, build, synthesize, experiment, code, and visualize.
