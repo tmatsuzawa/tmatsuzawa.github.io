@@ -8,7 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efd79ce8-51a4-43a9-9201-baf9a169ca5a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/coding.md" beforeDir="false" afterPath="$PROJECT_DIR$/coding.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chofse/41880ee3438c878762e9a1a0fec66bcc23dac767/chofse/_posts/2022-07-30-imissu_i.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ilpm/ilpm/graph.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../ilpm/ilpm/graph.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ilpm/ilpm/velocity.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../ilpm/ilpm/velocity.py" afterDir="false" />
     </list>
@@ -48,14 +48,14 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/chofse/41880ee3438c878762e9a1a0fec66bcc23dac767/chofse/_posts" />
     <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/chofse/41880ee3438c878762e9a1a0fec66bcc23dac767/chofse/_posts" />
       <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/../../tflow/tflow" />
-      <recent name="$PROJECT_DIR$/chofse/41880ee3438c878762e9a1a0fec66bcc23dac767/chofse/_posts" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/scripts" />
     </key>
