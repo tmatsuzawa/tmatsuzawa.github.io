@@ -118,8 +118,8 @@ The code generates images of particles advected by a given time-dependent veloci
 
 ml4piv
 ---
-This is an ongoing collaboration with Gordon Kindlmann, William Irvine, and Zhuokai Zhao to apply machine learning for improving velocimery. More to come soon.
-<img src="https://tmatsuzawa.github.io/images/coding/snippets/ml4piv_sample.gif" alt="[Slicing a 3D array]" style="width: 400px;"/>
+This is an ongoing collaboration with Gordon Kindlmann, William Irvine, and Zhuokai Zhao to apply machine learning for improving velocimery. More to come soon. <br>
+<img src="https://tmatsuzawa.github.io/images/coding/snippets/ml4piv_sample.gif" alt="[machine learning fluid mechanics]" style="width: 400px;"/>
 
 
 [comment]: <> (IPython notebooks for scientific research)
