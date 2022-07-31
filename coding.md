@@ -109,7 +109,7 @@ I code for various purposes (simulations, data analyses, data pipelines, pedagog
 1. Slicing a 3D array: [notebook](https://github.com/tmatsuzawa/notebooks/blob/main/notebooks/slicer.ipynb)
 
 [//]: # (<img src="https://tmatsuzawa.github.io/images/coding/snippets/3d_slicer.png" alt="[Slicing a 3D array]" style="width: 400px;"/>)
-<img src="https://tmatsuzawa.github.io/images/coding/snippets/3d_slicerx3.gif" alt="[Slicing a 3D array]" style="width: 400px;"/>
+<img src="https://tmatsuzawa.github.io/images/coding/snippets/3d_slicerx3.gif" alt="[Slicing a 3D array]" style="width: 800px;"/>
 
 2. Generating synthetic PIV images (Coming soon) <br>
 The code generates images of particles advected by a given time-dependent velocity field. <br>
