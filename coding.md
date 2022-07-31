@@ -4,7 +4,7 @@ title: Coding
 permalink: coding/
 ---
 Coding is an essential part of modern science. <br>
-Below you can find a few of my past projects.
+Below you can find a few of my past and ongoing projects.
 
 tflow: A Python package for flow analysis
 ---

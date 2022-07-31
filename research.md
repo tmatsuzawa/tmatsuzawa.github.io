@@ -28,7 +28,7 @@ Coming soon.
 
 <h3>Targeting studies of the mu2e experiment</h3>
 The mu2 experiments looks for a signature of new physics that breaks the Standard Model (charged lepton flavor violation for experts).
-I carried out studies of targeting beam at the Mu2e production target using a software called <a href="https://accelconf.web.cern.ch/e08/papers/mopd017.pdf" target="_blank">G4beamline</a>, through the solenoidal field, both in the current configuration and in proposed upgrade scenarios
+I carried out studies of targeting beam at the Mu2e production target using a software called <a href="https://accelconf.web.cern.ch/e08/papers/mopd017.pdf" target="_blank">G4beamline</a>, through the solenoidal field, both in the current configuration and in proposed upgrade scenarios.
 
 <hr>
 <h3>Modeling altered synaptic plasticity of Alzheimer's patients</h3>

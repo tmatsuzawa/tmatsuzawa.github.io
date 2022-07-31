@@ -5,13 +5,13 @@ title: How to host a project documentation page on GitHub
 category: professional, coding, documentation
 tags: [ 'internal' , 'coding']
 ---
-<h3> Task: Make a documentation website for a project</h3>
+<h5> Task: Make a documentation website for a project</h5>
 Okay. You have a project. You want to make a webpage and a documentation. Here is one way to do it.
 
 For the webpage, you can use the [GitHub Pages](https://pages.github.com/) service.
 For creating the documentation, you can use [SphinX](https://www.sphinx-doc.org/en/master/) which autogenerates a documentation from the docstrings.
 
-<h3> Result </h3>
+<h5> Result </h5>
 
 Check the [documentation page](https://tmatsuzawa.github.io/tflow/build/html/index.html) for my ```tflow``` project.
 
@@ -36,7 +36,7 @@ References:
 - [Project Documentation with GitHub Pages](https://pennlinc.github.io/docs/Contributing/project-documentation/#project-documentation-with-github-pages)
 
 <hr>
-<h3> Making a code documentation webpage using SphinX</h3>
+<h5> Making a code documentation webpage using SphinX</h5>
 To do this, you need to install [SphinX](https://www.sphinx-doc.org/en/master/).
 
 
