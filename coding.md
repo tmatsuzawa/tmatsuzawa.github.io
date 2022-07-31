@@ -98,7 +98,7 @@ Read more here: <a href="https://physics.uchicago.edu/about/prizes-and-fellowshi
 
 Teaching materials for computational physics
 ---
-Find IPython notebooks that I contributed for Prof. David Miller's course: [Computational physics (PHYS250)](https://github.com/UChicagoPhysics/PHYS250).
+Check out Jupyter notebooks that I contributed for Prof. David Miller's course on [Computational physics (PHYS250)](https://github.com/UChicagoPhysics/PHYS250) at The University of Chicago. 
 <img src="https://tmatsuzawa.github.io/images/coding/physics_education/phys_edu.png" alt="[Teaching computational physics]" style="width: 400px;"/>
 
 
@@ -110,13 +110,16 @@ I code for various purposes (simulations, data analyses, data pipelines, pedagog
 
 [//]: # (<img src="https://tmatsuzawa.github.io/images/coding/snippets/3d_slicer.png" alt="[Slicing a 3D array]" style="width: 400px;"/>)
 <img src="https://tmatsuzawa.github.io/images/coding/snippets/3d_slicerx3.gif" alt="[Slicing a 3D array]" style="width: 400px;"/>
-3. Generating synthetic PIV images (Coming soon)
+
+2. Generating synthetic PIV images (Coming soon) <br>
+The code generates images of particles advected by a given time-dependent velocity field. <br>
 <img src="https://tmatsuzawa.github.io/images/coding/snippets/synthetic_piv.gif" alt="[Slicing a 3D array]" style="width: 400px;"/>
 
 
 ml4piv
 ---
-More to come here! (a collaboration with Gordon Kindlmann, William Irvine, and Zhuokai Zhao on applying machine learning to improve PIV)
+This is an ongoing collaboration with Gordon Kindlmann, William Irvine, and Zhuokai Zhao to apply machine learning for improving velocimery. More to come soon.
+<img src="https://tmatsuzawa.github.io/images/coding/snippets/ml4piv_sample.gif" alt="[Slicing a 3D array]" style="width: 400px;"/>
 
 
 [comment]: <> (IPython notebooks for scientific research)
