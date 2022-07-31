@@ -104,10 +104,12 @@ Find IPython notebooks that I contributed for Prof. David Miller's course: [Comp
 
 Snippets
 ---
+I create 
 [Interactive notebooks](https://mybinder.org/v2/gh/tmatsuzawa/notebooks/HEAD)
 1. Slicing a 3D array: [notebook](https://github.com/tmatsuzawa/notebooks/blob/main/notebooks/slicer.ipynb)
-2. ...
 <img src="https://tmatsuzawa.github.io/images/coding/snippets/3d_slicer.png" alt="[Slicing a 3D array]" style="width: 400px;"/>
+2. Generating synthetic PIV images (Coming soon)
+<img src="https://tmatsuzawa.github.io/images/coding/snippets/synthetic_piv.gif" alt="[Slicing a 3D array]" style="width: 400px;"/>
 
 
 ml4piv
