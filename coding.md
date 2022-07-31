@@ -8,7 +8,7 @@ Below you can find a few of my past and ongoing projects.
 
 tflow: A Python package for flow analysis
 ---
-[tflow](https://github.com/tmatsuzawa/tflow) is a Python package that aids data acquisition and analyses for velocimetry (PIV and PTV).
+[tflow](https://tmatsuzawa.github.io/tflow/build/html/index.html) is a Python package that aids data acquisition and analyses for velocimetry (PIV and PTV).
 <br>
 <img src="https://tmatsuzawa.github.io/images/coding/tflow/tflow.png" alt="[tflow for flow analysis]" style="width: 600px;"/>
 
