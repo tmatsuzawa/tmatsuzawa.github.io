@@ -3,9 +3,6 @@ layout: static_post
 title: Presentations
 permalink: presentations/
 ---
-
-Here are links to some talks and posters I have presented at conferences in the past. 
-
 Publications
 ---
 <ol type="1">
@@ -58,12 +55,12 @@ KEK (The High Energy Accelerator Research Organization), 2014
 Posters
 ---
 ”Realization of Confined Turbulence Through Multiple Vortex Ring Collision”
-Simons Foundation, Turbulence Across Vast Scales, Poster Dec. 2018 (Available upon request)
+Simons Foundation, Turbulence Across Vast Scales, Poster Dec. 2018 ([poster](https://github.com/tmatsuzawa/tmatsuzawa.github.io/tree/master/presentations/posters/201912_takumi_flatiron_FINAL.pdf))
 
 ”Characterization of Thin-Sheet Ejection Using Low-Viscosity Fluids”
 The University of Chicago, Experimental Physics Project, 2017 (Available upon request)
 
-”Targeting Studies of the Second-Generation Mu2e Experiment” [tflow](https://tmatsuzawa.github.io/presentatons/posters/mu2e.pdf)]
+”Targeting Studies of the Second-Generation Mu2e Experiment” ([poster](https://github.com/tmatsuzawa/tmatsuzawa.github.io/tree/master/presentations/posters/mu2e.pdf))
 Fermi National Accelerator Laboratory, 2015
 
 ”Modeling Altered Synaptic Plasticity due to Amyloid-Beta”
