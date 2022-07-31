@@ -1,6 +1,6 @@
 ---
 layout: static_post
-title: Computation
+title: Coding
 permalink: coding/
 ---
 Coding is an essential part of modern science. <br>

@@ -9,18 +9,27 @@ Here are links to some talks and posters I have presented at conferences in the 
 Publications
 ---
 <ol type="1">
+    <li> Matsuzawa T, Mitchell N, Perrard S, Irvine W, Creation of an isolated turbulent blob fed by vortex rings (in review)
+    </li>
     <li>
     Matsuzawa T, Zalanyi L, Kiss T and Erdi P, *Multi-scale modeling of altered synaptic plasticity related to Amyloid beta effects*, Neural Networks, 2017.   
     doi:[10.1016/j.neunet.2017.06.002](https://doi.org/10.1016/j.neunet.2017.06.002) [Download bibtex](http://www.doi2bib.org/#/doi/10.1016/j.neunet.2017.06.002)
     </li>
     <li>
-    Erdi P, Matsuzawa T, John T, Kiss T and Zalanyi L.: *Connecting Epilepsy and Alzheimer’s Disease: Modeling of Normal and Pathological Rhythmicity and Synaptic Plasticity Related to Amyloid $\beta$  Effects*. In: Erdi P, Bhattacharya BS and Cochran Al (Eds.): *Computational Neurology and Psychiatry* (Springer Series in Bio-/Neuroinformatics) 1st ed. 2017 Edition, pp 93-119.
+    Erdi P, Matsuzawa T, John T, Kiss T and Zalanyi L: *Connecting Epilepsy and Alzheimer’s Disease: Modeling of Normal and Pathological Rhythmicity and Synaptic Plasticity Related to Amyloid $\beta$  Effects*. In: Erdi P, Bhattacharya BS and Cochran Al (Eds.): *Computational Neurology and Psychiatry* (Springer Series in Bio-/Neuroinformatics) 1st ed. 2017 Edition, pp 93-119.
     </li>
 </ol>
 
 
 Talks
 ---
+
+"Creation of an Isolated Turbulent Blob Sustained by Vortex Ring Injection”
+American Physical Society, March Meeting, 2022
+
+"Creation of an Isolated Turbulent Blob Sustained by Vortex Ring Injection”
+American Physical Society, March Meeting, 2021
+
 "Creation of an Isolated Turbulent Blob Sustained by Vortex Ring Injection”
 American Physical Society, Division of Fluid Dynamics, Virtual, 2020
 
