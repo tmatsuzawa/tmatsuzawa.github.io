@@ -9,44 +9,79 @@ Below you can find a few of my past projects.
 tflow: A Python package for flow analysis
 ---
 [tflow](https://github.com/tmatsuzawa/tflow) is a Python package that aids data acquisition and analyses for velocimetry (PIV and PTV).
-<img src="https://tmatsuzawa.github.io/images/coding/tflow/tflow.png" alt="[tflow for flow analysis]" style="width: 400px;"/>
+<img src="https://tmatsuzawa.github.io/images/coding/tflow/tflow.png" alt="[tflow for flow analysis]" style="width: 600px;"/>
 
-<ul>
-    <li>Basics
-        <ul>
-            <li>Energy, enstrophy
-            </li>
-            <li>Reynolds decomposition
-            </li>
-            <li>Deformation tensor 
-            </li>
-        </ul>
-    </li>
-    <li>Turbulent flows
-        <ul>
-            <li>1D energy spectrum
-            </li>
-            <li>Structure function
-            </li>
-            <li>Two-point correlation function
-            </li>
-            <li>Autocorrelation function
-            </li>
-            <li>Turbulent length/time scales
-            </li>
-            <li>Dissipation rate
-            </li>
-        </ul>
-    </li>
-    <li>Potential flows
-        <ul>
-            <li>Stream function
-            </li>
-            <li>Stokes stream function
-            </li>
-        </ul>
-    </li>
-</ul>
+[//]: # (<ul>)
+
+[//]: # (    <li>Basics)
+
+[//]: # (        <ul>)
+
+[//]: # (            <li>Energy, enstrophy)
+
+[//]: # (            </li>)
+
+[//]: # (            <li>Reynolds decomposition)
+
+[//]: # (            </li>)
+
+[//]: # (            <li>Deformation tensor )
+
+[//]: # (            </li>)
+
+[//]: # (        </ul>)
+
+[//]: # (    </li>)
+
+[//]: # (    <li>Turbulent flows)
+
+[//]: # (        <ul>)
+
+[//]: # (            <li>1D energy spectrum)
+
+[//]: # (            </li>)
+
+[//]: # (            <li>Structure function)
+
+[//]: # (            </li>)
+
+[//]: # (            <li>Two-point correlation function)
+
+[//]: # (            </li>)
+
+[//]: # (            <li>Autocorrelation function)
+
+[//]: # (            </li>)
+
+[//]: # (            <li>Turbulent length/time scales)
+
+[//]: # (            </li>)
+
+[//]: # (            <li>Dissipation rate)
+
+[//]: # (            </li>)
+
+[//]: # (        </ul>)
+
+[//]: # (    </li>)
+
+[//]: # (    <li>Potential flows)
+
+[//]: # (        <ul>)
+
+[//]: # (            <li>Stream function)
+
+[//]: # (            </li>)
+
+[//]: # (            <li>Stokes stream function)
+
+[//]: # (            </li>)
+
+[//]: # (        </ul>)
+
+[//]: # (    </li>)
+
+[//]: # (</ul>)
 
 [comment]: <> (&#40;<img src="https://lsdtopotools.github.io/img/LSD-logo.png" alt="LSDTopoTools Logo" style="width: 200px;"/>&#41;)
 
