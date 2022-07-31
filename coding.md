@@ -101,7 +101,7 @@ Teaching materials for computational physics
 ---
 Check out Jupyter notebooks that I contributed for Prof. David Miller's course on [Computational physics (PHYS250)](https://github.com/UChicagoPhysics/PHYS250) at The University of Chicago. 
 <br>
-<img src="https://tmatsuzawa.github.io/images/coding/physics_education/phys_edu.png" alt="[Teaching computational physics]" style="width: 400px;"/>
+<img src="https://tmatsuzawa.github.io/images/coding/physics_education/phys_edu.png" alt="[Teaching computational physics]" style="width: 600px;"/>
 
 
 Snippets
@@ -121,8 +121,8 @@ ml4piv
 ---
 This is an ongoing collaboration with Gordon Kindlmann, William Irvine, and Zhuokai Zhao to apply machine learning for improving velocimery. More to come soon. 
 <br>
-<img src="https://tmatsuzawa.github.io/images/coding/snippets/ml4piv_sample.gif" alt="[machine learning fluid mechanics]" style="width: 400px;"/>
-
+<img src="https://tmatsuzawa.github.io/images/coding/snippets/ml4piv_sample.gif" alt="[machine learning fluid mechanics]" style="width: 600px;"/>
+(In courtesy of Zhuokai Zhao)
 
 [comment]: <> (IPython notebooks for scientific research)
 
