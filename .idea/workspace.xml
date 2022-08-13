@@ -9,8 +9,6 @@
   <component name="ChangeListManager">
     <list default="true" id="efd79ce8-51a4-43a9-9201-baf9a169ca5a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/index_header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/index_header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2022-07-30-cannot_hide.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2022-07-30-cannot_hide.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ilpm/ilpm/graph.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../ilpm/ilpm/graph.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ilpm/ilpm/velocity.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../ilpm/ilpm/velocity.py" afterDir="false" />
     </list>
