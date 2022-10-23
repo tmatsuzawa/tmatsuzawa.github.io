@@ -3,6 +3,7 @@ layout: static_post
 title: CV/Resume
 permalink: cv_resume/
 ---
+Here is my [CV](https://tmatsuzawa.github.io/cv_resume/CV_TakumiMatsuzawa.pdf).
 Here is my [Résumé](https://tmatsuzawa.github.io/cv_resume/Resume_TakumiMatsuzawa.pdf) for a science and engineering role.
 
 (Last updated in July 2022)
