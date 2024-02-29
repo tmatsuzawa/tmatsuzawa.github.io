@@ -3,7 +3,6 @@ layout: static_post
 title: Research
 permalink: research/
 ---
-Unfortunately, many of my ongoing projects are still private because of their nature.
 
 <h3> Building turbulence with vortex rings </h3>
 

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../notebooks/codes/.idea/codes.iml" filepath="$PROJECT_DIR$/../../notebooks/codes/.idea/codes.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../ilpm/.idea/ilpm.iml" filepath="$PROJECT_DIR$/../../ilpm/.idea/ilpm.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../tflow/.idea/tflow.iml" filepath="$PROJECT_DIR$/../../tflow/.idea/tflow.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/tmatsuzawa.github.io.iml" filepath="$PROJECT_DIR$/.idea/tmatsuzawa.github.io.iml" />

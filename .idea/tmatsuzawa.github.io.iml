@@ -6,6 +6,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="tflow" />
     <orderEntry type="module" module-name="ilpm" />
+    <orderEntry type="module" module-name="codes" />
   </component>
   <component name="PackageRequirementsSettings">
     <option name="requirementsPath" value="" />
