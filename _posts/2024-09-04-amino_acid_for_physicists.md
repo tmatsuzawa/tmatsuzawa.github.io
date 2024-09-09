@@ -1,12 +1,10 @@
 ---
 layout: post
 section-type: post
-title: Helpful links for science
+title: Amino acid for physicists
 category: professional
 tags: ['science']
 ---
-
-### Amino acid for physicists
 I got pretty unsatisfied by the notation of amino acids in the literature. So I decided to make a cheat sheet for myself. I hope it helps you too.
 <br>
 
@@ -38,8 +36,9 @@ It is noteworthy that the fourth most soluble amino acid is proline which is oft
 Apparently, the pyrrolidine ring of proline can weakly interact with the ring of the other proline molecules, allowing them to form oligomers.
 These oligomers can be solvated by water molecules, making proline more soluble than expected.
 I'd like to find firm evidence for this claim, but I couldn't find any. I came across a paper whose abstract suggests this mechanism.
-![amino_acid_solubility.png](..%2Fimages%2Fblog%2F2024-09-04%2Famino_acid_solubility.png)
+<img src="https://tmatsuzawa.github.io/images/blog/2024-09-04/amino_acid_solubility.png" alt="[amino_acid_solubility.png]" style="width: 400px;"/>
 
+[presentations.md](..%2Fpresentations.md)
 For anyone interested in the topic, you are more than welcome to download a cheat sheet I made for myself.
 <br>
 What is nice about it is that you can sort the amino acids by their solubility in water, dipole moment, and the size of the side chain, etc.
