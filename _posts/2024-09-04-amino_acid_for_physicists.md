@@ -37,10 +37,10 @@ Apparently, the pyrrolidine ring of proline can weakly interact with the ring of
 These oligomers can be solvated by water molecules, making proline more soluble than expected.
 I'd like to find firm evidence for this claim, but I couldn't find any. I came across a paper whose abstract suggests this mechanism.
 <img src="https://tmatsuzawa.github.io/images/blog/2024-09-04/amino_acid_solubility.png" alt="[amino_acid_solubility.png]" style="width: 400px;"/>
-
-[presentations.md](..%2Fpresentations.md)
+<br>
+<br>
 For anyone interested in the topic, you are more than welcome to download a cheat sheet I made for myself.
 <br>
 What is nice about it is that you can sort the amino acids by their solubility in water, dipole moment, and the size of the side chain, etc.
-Amino acid cheat sheet: https://www.dropbox.com/scl/fi/mpz5xh5idh4mgs374o4pw/Amino-Acid-Cheatsheet.xlsx?rlkey=qus18tkvhsxpyx0kadqmrvw9u&dl=0
-
+Amino acid cheat sheet: 
+[Amino Acid Cheat Sheet (Excel)](../blog/2024-09-04/amino_acid_cheat_sheet.xlsx)
