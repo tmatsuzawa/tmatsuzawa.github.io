@@ -19,7 +19,7 @@ Publications
     </li>
 </ol>
 
-
+---
 Talks
 ---
 "Decay and Propagation of a Turbulent Blob”
@@ -58,7 +58,7 @@ Fermi National Accelerator Laboratory, 2015
 ”Laser Break-Down Spectroscopy of Alloys”
 KEK (The High Energy Accelerator Research Organization), 2014
 
-
+---
 Posters
 ---
 ”Realization of Confined Turbulence Through Multiple Vortex Ring Collision”
