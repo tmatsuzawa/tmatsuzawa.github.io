@@ -4,12 +4,11 @@ title: About
 permalink: about/
 ---
 
-Takumi is a Postdoctoral Associate at Cornell University in Professor Eric Dufresne's lab.
+Takumi is a Schmidt Science Postdoctoral Fellow at Cornell University in Professor Eric Dufresne's lab.
 He has a Ph.D. in physics from the University of Chicago, IL, and a B.A. in physics and chemistry (*summa cum laude*, with distinction) from Kalamazoo College, MI.
 During his Ph.D., he worked on turbulence by colliding vortex rings (aka smoke rings), 
 demonstrating that turbulence can be localized and manipulated as a state of matter. 
-Besides his interests in fluid dynamics, he studies the physics of phase separation and its roles in biology.
-At Cornell University, he works on the dynamics of biomolecular condensates, a new frontier in biophysics and cell biology.
+Besides his interests in fluid dynamics, he studies the themodynamics of liquid-liquid phase separation and its roles in biology.
 
 <br> 
 <br> 
