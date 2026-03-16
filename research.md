@@ -4,8 +4,17 @@ title: Research
 permalink: research/
 ---
 
-<h3> Building turbulence with vortex rings </h3>
+<h3> Biomolecular Condensates </h3>
+Metabolites Shift Equilibria of Biomolecular Condensates
+**T. Matsuzawa**, K. Varma, T. Bate, C. Lorenz, K. Larina, J. Bauermann, D. Matthias, T. Grubi´c,
+R. W. Style, M. O. Steinmetz, E. R. Dufresne, bioRxiv 10.64898/2026.01.14.699531 (2026).
+[Link](https://www.biorxiv.org/content/10.64898/2026.01.14.699531v1)
+(Under review)
 
+
+
+
+<h3> Turbulence </h3>
 This work was <a href="https://www.quantamagazine.org/an-unexpected-twist-lights-up-the-secrets-of-turbulence-20200903/" target="_blank">featured on Quanta Magazine</a>
 Coming soon. 
 <hr>
