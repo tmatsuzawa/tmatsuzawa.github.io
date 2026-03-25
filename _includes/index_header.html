@@ -9,7 +9,7 @@
     <div class="panel-main__inner panel-inverted">
     <div class="panel-main__content">
         <a href="{{ '/' | relative_url}}" title="Home">
-          <img src="{{ "images/face.jpg" |  relative_url}}" class="user-image" alt="My Profile Photo">
+          <img src="{{ "/images/face.jpg" |  relative_url}}" class="user-image" alt="My Profile Photo">
           <h1 class="panel-cover__title panel-title">{{ site.title }}</h1>
         </a>
         <hr class="panel-cover__divider">
@@ -27,6 +27,12 @@
           <nav class="cover-navigation cover-navigation--primary">
             <ul class="navigation">
               <li class="navigation__item"><a href="{{ 'research/' | relative_url}}" title="Research" class="research-button">Research</a></li>
+            </ul>
+          </nav>
+
+          <nav class="cover-navigation cover-navigation--primary">
+            <ul class="navigation">
+              <li class="navigation__item"><a href="{{ 'gallery/' | relative_url}}" title="Gallery" class="gallery-button">Gallery</a></li>
             </ul>
           </nav>
 
