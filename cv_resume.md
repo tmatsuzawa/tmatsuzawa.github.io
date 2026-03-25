@@ -1,10 +1,9 @@
 ---
 layout: static_post
-title: CV/Resume
+title: CV
 permalink: cv_resume/
 ---
-Here is my [Résumé](https://tmatsuzawa.github.io/cv_resume/Resume_TakumiMatsuzawa.pdf) for a science and engineering role.
-
+Please find my CV [here](https://tmatsuzawa.github.io/cv_resume/Resume_TakumiMatsuzawa.pdf)._
 (Last updated in March 2025)
 
-Please contact my LinkedIn for my up-to-date résumé.
+Please contact my [LinkedIn](https://www.linkedin.com/in/takumim/) for my up-to-date résumé.

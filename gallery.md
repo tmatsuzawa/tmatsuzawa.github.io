@@ -21,27 +21,27 @@ custom_css: css/gallery.css
 
   <div class="mySlides">
     <div class="numbertext">3 / 7</div>
-      <img src="/images/gallery/3_Active_Matter.png" style="height: 400px;">
+      <img src="/images/gallery/3_Active_Matter.png" style="height: 780px;">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">4 / 7</div>
-      <img src="/images/gallery/4_Vortex_Ring_Collision.png" style="height: 400px;">
+      <img src="/images/gallery/4_Vortex_Ring_Collision.png" style="height: 780px;">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">5 / 7</div>
-      <img src="/images/gallery/5_Vortex_Ring_Collision_Symmetric.png" style="height: 400px;">
+      <img src="/images/gallery/5_Vortex_Ring_Collision_Symmetric.png" style="height: 780px;">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">6 / 7</div>
-      <img src="/images/gallery/6_Biomolecular_Condensates.png" style="height: 400px;">
+      <img src="/images/gallery/6_Biomolecular_Condensates.png" style="height: 780px;">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">7 / 7</div>
-      <img src="/images/gallery/7_Active_Condensates.png" style="height: 400px;">
+      <img src="/images/gallery/7_Active_Condensates.png" style="height: 780px;">
   </div>
 
   <!-- Next and previous buttons -->
@@ -56,25 +56,25 @@ custom_css: css/gallery.css
   <!-- Thumbnail images -->
   <div class="row">
     <div class="column">
-      <img class="demo cursor" src="/images/gallery/1_Confined_Turbulence.png" style="height:400px" onclick="currentSlide(1)" alt="Confined turbulence">
+      <img class="demo cursor" src="/images/gallery/1_Confined_Turbulence.png" style="height:100px" onclick="currentSlide(1)" alt="Confined turbulence">
     </div>
     <div class="column">
-      <img class="demo cursor" src="/images/gallery/2_Decay_and_Propagation_of_Turbulence.png" style="height:400px" onclick="currentSlide(2)" alt="Nonlinear diffusion and decay of turbulence">
+      <img class="demo cursor" src="/images/gallery/2_Decay_and_Propagation_of_Turbulence.png" style="height:100px" onclick="currentSlide(2)" alt="Nonlinear diffusion and decay of turbulence">
     </div>
     <div class="column">
-      <img class="demo cursor" src="/images/gallery/3_Active_Matter.png" style="height:400px" onclick="currentSlide(3)" alt="Vortex ring collision">
+      <img class="demo cursor" src="/images/gallery/3_Active_Matter.png" style="height:100px" onclick="currentSlide(3)" alt="Vortex ring collision">
     </div>
     <div class="column">
-      <img class="demo cursor" src="/images/gallery/4_Vortex_Ring_Collision.png" style="height:400px" onclick="currentSlide(4)" alt="Geometry of vortex ring collisions">
+      <img class="demo cursor" src="/images/gallery/4_Vortex_Ring_Collision.png" style="height:100px" onclick="currentSlide(4)" alt="Geometry of vortex ring collisions">
     </div>
     <div class="column">
-      <img class="demo cursor" src="/images/gallery/5_Vortex_Ring_Collision_Symmetric.png" style="height:400px" onclick="currentSlide(5)" alt="Collective dynamics of spinners">
+      <img class="demo cursor" src="/images/gallery/5_Vortex_Ring_Collision_Symmetric.png" style="height:100px" onclick="currentSlide(5)" alt="Collective dynamics of spinners">
     </div>
     <div class="column">
-      <img class="demo cursor" src="/images/gallery/6_Biomolecular_Condensates.png" style="height:400px" onclick="currentSlide(6)" alt="Dissolving biomolecular condensates">
+      <img class="demo cursor" src="/images/gallery/6_Biomolecular_Condensates.png" style="height:100px" onclick="currentSlide(6)" alt="Dissolving biomolecular condensates">
     </div>
     <div class="column">
-      <img class="demo cursor" src="/images/gallery/7_Active_Condensates.png" style="height:400px" onclick="currentSlide(7)" alt="Enzyme-loaded condensates">
+      <img class="demo cursor" src="/images/gallery/7_Active_Condensates.png" style="height:100px" onclick="currentSlide(7)" alt="Enzyme-loaded condensates">
     </div>
   </div>
 </div>
