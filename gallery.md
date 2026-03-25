@@ -2,6 +2,7 @@
 layout: gallery
 title: Gallery
 permalink: gallery/
+body_class: gallery-page
 custom_css: css/gallery.css
 ---
 <!-- Container for the image gallery -->
@@ -9,32 +10,32 @@ custom_css: css/gallery.css
 
   <!-- Full-width images with number text -->
   <div class="mySlides">
-    <div class="numbertext">1 / 6</div>
+    <div class="numbertext">1 / 7</div>
       <img src="/images/gallery/1_Confined_Turbulence.png" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">2 / 6</div>
+    <div class="numbertext">2 / 7</div>
       <img src="/images/gallery/2_Decay_and_Propagation_of_Turbulence.png" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">3 / 6</div>
+    <div class="numbertext">3 / 7</div>
       <img src="/images/gallery/3_Vortex_Ring_Collision.png" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">4 / 6</div>
+    <div class="numbertext">4 / 7</div>
       <img src="/images/gallery/4_Vortex_Ring_Collision_Symmetric.png" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">5 / 6</div>
-      <img src="images/gallery/5_Active_Matter.png" style="width:100%">
+    <div class="numbertext">5 / 7</div>
+      <img src="/images/gallery/5_Active_Matter.png" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">6 / 6</div>
+    <div class="numbertext">6 / 7</div>
       <img src="/images/gallery/6_Biomolecular_Condensates.png" style="width:100%">
   </div>
 
@@ -73,7 +74,7 @@ custom_css: css/gallery.css
       <img class="demo cursor" src="/images/gallery/6_Biomolecular_Condensates.png" style="width:100%" onclick="currentSlide(6)" alt="Dissolving biomolecular condensates">
     </div>
     <div class="column">
-      <img class="demo cursor" src="/images/gallery/7_Active_Condensates.tiff" style="width:100%" onclick="currentSlide(7)" alt="Enzyme-loaded condensates">
+      <img class="demo cursor" src="/images/gallery/7_Active_Condensates.png" style="width:100%" onclick="currentSlide(7)" alt="Enzyme-loaded condensates">
     </div>
   </div>
 </div>
