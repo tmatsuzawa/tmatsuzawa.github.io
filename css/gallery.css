@@ -13,6 +13,11 @@
   text-align: center;
 }
 
+.mySlides img {
+  display: block;
+  margin: 0 auto;
+}
+
 /* Add a pointer when hovering over the thumbnail images */
 .cursor {
   cursor: pointer;

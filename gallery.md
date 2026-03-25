@@ -8,7 +8,7 @@ custom_css: css/gallery.css
 <!-- Container for the image gallery -->
 <div class="container">
 
-  <!-- Full-width images with number text -->
+  <!-- Images with number text -->
   <div class="mySlides">
     <div class="numbertext">1 / 7</div>
       <img src="/images/gallery/1_Confined_Turbulence.png" style="height: 600px;">
