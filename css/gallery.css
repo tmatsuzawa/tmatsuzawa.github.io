@@ -80,10 +80,10 @@
   clear: both;
 }
 
-/* Fourteen columns side by side */
+/* Sixteen columns side by side */
 .column {
   float: left;
-  width: 7.14%;
+  width: 6.25%;
   padding: 0;
   margin: 0;
 }
