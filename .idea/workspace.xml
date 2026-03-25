@@ -8,14 +8,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efd79ce8-51a4-43a9-9201-baf9a169ca5a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/gallery.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gallery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_layouts/gallery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gallery.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv_resume.md" beforeDir="false" afterPath="$PROJECT_DIR$/cv_resume.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/gallery.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/gallery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/4_Vortex_Ring_Collision_Symmetric.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/4_Vortex_Ring_Collision_Symmetric.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/7_Active_Condensates.tiff" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/research.md" beforeDir="false" afterPath="$PROJECT_DIR$/research.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,8 +65,9 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "dev.sweep.assistant.data.RecentlyUsedFiles": "sitemap.xml;README.md;about.md;cv_resume.md;index.html;research.md;gallery.css;gallery.js;gallery.html",
+    "dev.sweep.assistant.data.RecentlyUsedFiles": "gallery.md;_layouts/static_post.html;_layouts/gallery.html;Gemfile;cv_resume.md;index.html;gallery.html;presentations.md;sitemap.xml;_config.yml",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/takumi/Documents/git/tmatsuzawa.github.io/_layouts",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -79,13 +81,15 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_layouts" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/chofse/41880ee3438c878762e9a1a0fec66bcc23dac767/chofse/_posts" />
       <recent name="$PROJECT_DIR$/../../tflow/tflow" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/scripts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
+      <recent name="$PROJECT_DIR$/js" />
       <recent name="$PROJECT_DIR$/chofse/41880ee3438c878762e9a1a0fec66bcc23dac767/chofse" />
     </key>
   </component>
@@ -141,7 +145,7 @@
       <workItem from="1759445570039" duration="1000" />
       <workItem from="1773698003591" duration="592000" />
       <workItem from="1773698602909" duration="3931000" />
-      <workItem from="1774393425904" duration="2820000" />
+      <workItem from="1774393425904" duration="3688000" />
     </task>
     <servers />
   </component>

@@ -1,12 +1,11 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Gallery</title>
-  <link rel="stylesheet" href="gallery.css">
-</head>
-<body>
+---
+layout: gallery
+title: Gallery
+permalink: gallery/
+custom_css: css/gallery.css
+---
+<h2> Publications </h2>
 
-<h1>Gallery</h1>
 
 <!-- Container for the image gallery -->
 <div class="container">
@@ -44,7 +43,7 @@
 
   <div class="mySlides">
     <div class="numbertext">7 / 7</div>
-      <img src="images/gallery/7_Active_Condensates.tiff" style="width:100%">
+      <img src="images/gallery/7_Active_Condensates.png" style="width:100%">
   </div>
 
   <!-- Next and previous buttons -->
@@ -82,7 +81,4 @@
   </div>
 </div>
 
-<script src="gallery.js"></script>
-
-</body>
-</html>
+<script src="js/gallery.js"></script>

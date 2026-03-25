@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<article class="post-container post-container--single">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
+
+  <section class="post">
+    {{ content }}
+  </section>
+
+  {% if page.custom_css %}
+  <link rel="stylesheet" href="{{ page.custom_css }}">
+  {% endif %}
+</article>
