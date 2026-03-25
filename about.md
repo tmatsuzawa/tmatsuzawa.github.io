@@ -20,13 +20,11 @@ These findings and methods lay the foundation for my ongoing effort to design ac
 <br> 
 <b>Current projects:</b>
 <ul style="list-style-type:disc;">
-    <li> controlling protein droplets: motility control using enzymes, thermodynamics and kinetics of phase separation (experimental)
+    <li> Enzyme-mediated control of biomolecular condensates (experimental)
     </li>
     <li> Thermodynamics of liquid-liquid phase separation (experimental)
     </li>
-    <li> development of a Python package to assess fluid mechanics data (software)
-    </li>
-    <li> development of a Python package to assess microscopic data (software)
+    <li> Development of a Python package to assess fluid mechanics data (software)
     </li>
 </ul>
 <br>
