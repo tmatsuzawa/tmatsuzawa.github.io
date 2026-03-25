@@ -8,8 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efd79ce8-51a4-43a9-9201-baf9a169ca5a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_includes/index_header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/index_header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gallery.md" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +57,7 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "dev.sweep.assistant.data.RecentlyUsedFiles": "_layouts/gallery.html;gallery.md;_includes/index_header.html;cv_resume.md;_config.yml;_includes/head.html;_layouts/index_default.html;_layouts/default.html;presentations.md;index.html",
+    "dev.sweep.assistant.data.RecentlyUsedFiles": "_layouts/default.html;gallery.md;_layouts/gallery.html;css/gallery.css;about.md;_includes/index_header.html;cv_resume.md;_config.yml;_includes/head.html;_layouts/index_default.html",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "/Users/takumi/Documents/git/tmatsuzawa.github.io/_layouts",
     "node.js.detected.package.eslint": "true",
@@ -138,7 +137,7 @@
       <workItem from="1759445570039" duration="1000" />
       <workItem from="1773698003591" duration="592000" />
       <workItem from="1773698602909" duration="3931000" />
-      <workItem from="1774393425904" duration="4616000" />
+      <workItem from="1774393425904" duration="5364000" />
     </task>
     <servers />
   </component>

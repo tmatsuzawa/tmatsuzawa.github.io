@@ -1,43 +1,16 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<html>
+  {% include head.html %}
 
-  <title>{{ page.title }} | {{ site.title }}</title>
+  <body>
+    {% include header.html %}
 
-  <!-- Main site CSS -->
-  <link rel="stylesheet" href="/css/main.css">
+    <div class="content-wrapper">
+      <div class="content-wrapper__inner">
+        {{ content }}
+      </div>
 
-  <!-- Optional page-specific CSS -->
-  {% if page.custom_css %}
-    <link rel="stylesheet" href="{{ page.custom_css }}">
-  {% endif %}
-</head>
-
-<body class="{{ page.body_class }}">
-
-  <!-- ===== Navigation ===== -->
-  <nav style="padding: 10px 20px;">
-    <a href="/" style="margin-right: 15px;">Home</a>
-    <a href="/gallery/" style="margin-right: 15px;">Gallery</a>
-    <a href="/presentations/" style="margin-right: 15px;">Presentations</a>
-  </nav>
-
-  <!-- ===== Content ===== -->
-  <main>
-    {{ content }}
-  </main>
-
-  <!-- ===== Footer ===== -->
-  <footer style="padding: 20px; text-align: center; font-size: 0.9em;">
-    © {{ site.time | date: "%Y" }} {{ site.title }}
-  </footer>
-
-  <!-- Optional page-specific JS -->
-  {% if page.custom_js %}
-    <script src="{{ page.custom_js }}"></script>
-  {% endif %}
-
-</body>
+      {% include footer.html %}
+    </div>
+  </body>
 </html>
