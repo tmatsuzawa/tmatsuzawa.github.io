@@ -36,7 +36,7 @@ It is noteworthy that the fourth most soluble amino acid is proline which is oft
 Apparently, the pyrrolidine ring of proline can weakly interact with the ring of the other proline molecules, allowing them to form oligomers.
 These oligomers can be solvated by water molecules, making proline more soluble than expected.
 I'd like to find firm evidence for this claim, but I couldn't find any. I came across a paper whose abstract suggests this mechanism.
-<img src="https://tmatsuzawa.github.io/images/blog/2024-09-04/amino_acid_solubility.png" alt="[amino_acid_solubility.png]" style="width: 400px;"/>
+<img src="https://tmatsuzawa.github.io/images/blog/2024-09-04/amino_acid_solubility.png" alt="[amino_acid_solubility.png]" style="width: 700px;"/>
 <br>
 <br>
 For anyone interested in the topic, you are more than welcome to download a cheat sheet I made for myself.
