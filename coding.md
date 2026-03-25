@@ -112,14 +112,14 @@ I code for various purposes (simulations, data analyses, data pipelines, pedagog
  1. Slicing a 3D array: [notebook](https://github.com/tmatsuzawa/notebooks/blob/main/notebooks/slicer.ipynb)
 <img src="https://tmatsuzawa.github.io/images/coding/snippets/3d_slicerx3.gif" alt="[Slicing a 3D array]" style="width: 800px;"/>
 
- 2. Generating synthetic PIV images (Coming soon) <br>
+ 2. Generating synthetic PIV images <br>
 The code generates images of particles advected by a given time-dependent velocity field. <br>
 <img src="https://tmatsuzawa.github.io/images/coding/snippets/synthetic_piv.gif" alt="[Slicing a 3D array]" style="width: 400px;"/>
 
 
 ml4piv
 ---
-This is an ongoing collaboration with Gordon Kindlmann, William Irvine, and Zhuokai Zhao to apply machine learning for improving velocimery. More to come soon. 
+This is an ongoing collaboration with Gordon Kindlmann, William Irvine, and Zhuokai Zhao to apply machine learning for improving velocimery.
 <br>
 <img src="https://tmatsuzawa.github.io/images/coding/snippets/ml4piv_sample.gif" alt="[machine learning fluid mechanics]" style="width: 600px;"/>
 <br>

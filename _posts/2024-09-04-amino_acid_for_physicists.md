@@ -43,4 +43,4 @@ For anyone interested in the topic, you are more than welcome to download a chea
 <br>
 What is nice about it is that you can sort the amino acids by their solubility in water, dipole moment, and the size of the side chain, etc.
 Amino acid cheat sheet: 
-[Amino Acid Cheat Sheet (Excel)](../blog/2024-09-04/amino_acid_cheat_sheet.xlsx)
+[Amino Acid Cheat Sheet (Excel)](../blog/notes/2024-09-04/amino_acid_cheat_sheet.xlsx)
