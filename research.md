@@ -53,7 +53,7 @@ Media coverage of this work includes:<br>
 2. "Tempest in a teacup: Physicists make breakthrough in creating turbulence", <a href="https://phys.org/news/2023-06-tempest-teacup-physicists-breakthrough-turbulence.html" target="_blank">Phys.org</a><br>
 3. Featured in <a href="https://www.quantamagazine.org/an-unexpected-twist-lights-up-the-secrets-of-turbulence-20200903/" target="_blank">Quanta Magazine</a>
 
-Core competencies: 2D particle image velocimetry, 2D particle tracking velocimetry, 3D particle tracking velocimetry, flow visualization, rapid prototyping, GPU computing, numerical simulations (Gross-Pitaevskii simulations, cell dynamical simulations), data analysis (Python, C++,MATLAB)
+Core competencies: 2D particle image velocimetry, 2D particle tracking velocimetry, 3D particle tracking velocimetry, flow visualization, rapid prototyping, CAD, GPU computing, numerical simulations (Gross-Pitaevskii simulations, cell dynamical simulations), data analysis (Python, C++,MATLAB)
 
 <hr>
 
@@ -85,6 +85,10 @@ Core competencies: machine learning, data analysis (Python), vortex dynamics, fl
 <h4>Targeting studies of the mu2e experiment (High-energy physics)</h4>
 The mu2 experiments looks for a signature of new physics that breaks the Standard Model (charged lepton flavor violation for experts).
 I carried out studies of targeting beam at the Mu2e production target using a software called <a href="https://accelconf.web.cern.ch/e08/papers/mopd017.pdf" target="_blank">G4beamline</a>, through the solenoidal field, both in the current configuration and in proposed upgrade scenarios.
+
+Relevant publications include:<br>
+1. **Targeting Studies of the Second-Generation Mu2e Experiment**<br>
+**T. Matsuzawa**, T. J. Roberts, E. Prebys, Fermi National Accelerator Laboratory, 2015. <a href="https://indico.fnal.gov/event/10235/contributions/1500/attachments/943/1103/Takumi-Matsuzawa1.pdf" target="_blank">[Link]</a> (Internal)
 
 <h4> Modeling Synaptic Plasticity of Alzheimer's Disease (Computational Neuroscience) </h4>
 Hebb famously said "Fire together, wire together" to describe learning in synaptic networks. 
