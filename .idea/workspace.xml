@@ -8,12 +8,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efd79ce8-51a4-43a9-9201-baf9a169ca5a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AGENTS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery.md" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/3_Vortex_Ring_Collision.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/4_Vortex_Ring_Collision_Symmetric.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/5_Active_Matter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/research.md" beforeDir="false" afterPath="$PROJECT_DIR$/research.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotUserSelectedChatMode">
+    <option name="chatModeId" value="Agent" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -57,7 +68,7 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "dev.sweep.assistant.data.RecentlyUsedFiles": "_layouts/default.html;gallery.md;_layouts/gallery.html;css/gallery.css;about.md;_includes/index_header.html;cv_resume.md;_config.yml;_includes/head.html;_layouts/index_default.html",
+    "dev.sweep.assistant.data.RecentlyUsedFiles": "gallery.md;AGENTS.md;research.md;_includes/header.html;_includes/pagination.html;_includes/index_header.html;_layouts/page.html;_layouts/index_default.html;css/gallery.css;_layouts/gallery.html",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "/Users/takumi/Documents/git/tmatsuzawa.github.io/_layouts",
     "node.js.detected.package.eslint": "true",
@@ -137,7 +148,7 @@
       <workItem from="1759445570039" duration="1000" />
       <workItem from="1773698003591" duration="592000" />
       <workItem from="1773698602909" duration="3931000" />
-      <workItem from="1774393425904" duration="5364000" />
+      <workItem from="1774393425904" duration="6569000" />
     </task>
     <servers />
   </component>

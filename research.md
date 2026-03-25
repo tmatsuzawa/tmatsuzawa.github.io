@@ -15,9 +15,9 @@ R. W. Style, M. O. Steinmetz, E. R. Dufresne, bioRxiv 10.64898/2026.01.14.699531
 (Under review)
 <hr>
 
-<hr>
-
 <h3> Turbulence </h3>
+
+
 This work was <a href="https://www.quantamagazine.org/an-unexpected-twist-lights-up-the-secrets-of-turbulence-20200903/" target="_blank">featured on Quanta Magazine</a>
 Coming soon. 
 <hr>

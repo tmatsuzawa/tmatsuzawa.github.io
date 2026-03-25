@@ -11,42 +11,42 @@ custom_css: css/gallery.css
   <!-- Full-width images with number text -->
   <div class="mySlides">
     <div class="numbertext">1 / 7</div>
-      <img src="/images/gallery/1_Confined_Turbulence.png" style="width:100%">
+      <img src="/images/gallery/1_Confined_Turbulence.png" style="width:60%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">2 / 7</div>
-      <img src="/images/gallery/2_Decay_and_Propagation_of_Turbulence.png" style="width:100%">
+      <img src="/images/gallery/2_Decay_and_Propagation_of_Turbulence.png" style="width:60%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">3 / 7</div>
-      <img src="/images/gallery/3_Vortex_Ring_Collision.png" style="width:100%">
+      <img src="/images/gallery/3_Active_Matter.png" style="width:60%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">4 / 7</div>
-      <img src="/images/gallery/4_Vortex_Ring_Collision_Symmetric.png" style="width:100%">
+      <img src="/images/gallery/4_Vortex_Ring_Collision.png" style="width:60%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">5 / 7</div>
-      <img src="/images/gallery/5_Active_Matter.png" style="width:100%">
+      <img src="/images/gallery/5_Vortex_Ring_Collision_Symmetric.png" style="width:60%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">6 / 7</div>
-      <img src="/images/gallery/6_Biomolecular_Condensates.png" style="width:100%">
+      <img src="/images/gallery/6_Biomolecular_Condensates.png" style="width:60%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">7 / 7</div>
-      <img src="/images/gallery/7_Active_Condensates.png" style="width:100%">
+      <img src="/images/gallery/7_Active_Condensates.png" style="width:60%">
   </div>
 
   <!-- Next and previous buttons -->
-  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+  <a class="prev" onclick="plusSlides(-1)">&#6094;</a>
+  <a class="next" onclick="plusSlides(1)">&#6095;</a>
 
   <!-- Image text -->
   <div class="caption-container">
@@ -56,25 +56,25 @@ custom_css: css/gallery.css
   <!-- Thumbnail images -->
   <div class="row">
     <div class="column">
-      <img class="demo cursor" src="/images/gallery/1_Confined_Turbulence.png" style="width:100%" onclick="currentSlide(1)" alt="Confined turbulence">
+      <img class="demo cursor" src="/images/gallery/1_Confined_Turbulence.png" style="width:60%" onclick="currentSlide(1)" alt="Confined turbulence">
     </div>
     <div class="column">
-      <img class="demo cursor" src="/images/gallery/2_Decay_and_Propagation_of_Turbulence.png" style="width:100%" onclick="currentSlide(2)" alt="Nonlinear diffusion and decay of turbulence">
+      <img class="demo cursor" src="/images/gallery/2_Decay_and_Propagation_of_Turbulence.png" style="width:60%" onclick="currentSlide(2)" alt="Nonlinear diffusion and decay of turbulence">
     </div>
     <div class="column">
-      <img class="demo cursor" src="/images/gallery/3_Vortex_Ring_Collision.png" style="width:100%" onclick="currentSlide(3)" alt="Vortex ring collision">
+      <img class="demo cursor" src="/images/gallery/3_Vortex_Ring_Collision.png" style="width:60%" onclick="currentSlide(3)" alt="Vortex ring collision">
     </div>
     <div class="column">
-      <img class="demo cursor" src="/images/gallery/4_Vortex_Ring_Collision_Symmetric.png" style="width:100%" onclick="currentSlide(4)" alt="Geometry of vortex ring collisions">
+      <img class="demo cursor" src="/images/gallery/4_Vortex_Ring_Collision_Symmetric.png" style="width:60%" onclick="currentSlide(4)" alt="Geometry of vortex ring collisions">
     </div>
     <div class="column">
-      <img class="demo cursor" src="/images/gallery/5_Active_Matter.png" style="width:100%" onclick="currentSlide(5)" alt="Collective dynamics of spinners">
+      <img class="demo cursor" src="/images/gallery/5_Active_Matter.png" style="width:60%" onclick="currentSlide(5)" alt="Collective dynamics of spinners">
     </div>
     <div class="column">
-      <img class="demo cursor" src="/images/gallery/6_Biomolecular_Condensates.png" style="width:100%" onclick="currentSlide(6)" alt="Dissolving biomolecular condensates">
+      <img class="demo cursor" src="/images/gallery/6_Biomolecular_Condensates.png" style="width:60%" onclick="currentSlide(6)" alt="Dissolving biomolecular condensates">
     </div>
     <div class="column">
-      <img class="demo cursor" src="/images/gallery/7_Active_Condensates.png" style="width:100%" onclick="currentSlide(7)" alt="Enzyme-loaded condensates">
+      <img class="demo cursor" src="/images/gallery/7_Active_Condensates.png" style="width:60%" onclick="currentSlide(7)" alt="Enzyme-loaded condensates">
     </div>
   </div>
 </div>
