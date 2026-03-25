@@ -3,7 +3,7 @@ layout: static_post
 title: Research
 permalink: research/
 ---
-We are interested in soft and living matter.
+I am interested in soft and living matter.
 
 <h3> Biomolecular Condensates </h3>
 Biomolecular condensates are membraneless organelles that form in living cells.
