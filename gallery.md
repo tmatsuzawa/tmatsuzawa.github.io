@@ -10,44 +10,77 @@ custom_css: css/gallery.css
 
   <!-- Images with number text -->
   <div class="mySlides">
-    <div class="numbertext">1 / 8</div>
+    <div class="numbertext">1 / 14</div>
       <img src="/images/gallery/1_Confined_Turbulence.png" style="height: 600px;">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">2 / 8</div>
+    <div class="numbertext">2 / 14</div>
       <img src="/images/gallery/2_Decay_and_Propagation_of_Turbulence.png" style="height: 600px;">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">3 / 8</div>
+    <div class="numbertext">3 / 14</div>
       <img src="/images/gallery/3_Active_Matter.png" style="height: 600px;">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">4 / 8</div>
-      <img src="/images/gallery/4_Vortex_Ring_Collision.png" style="height: 600px;">
+    <div class="numbertext">4 / 14</div>
+      <video controls style="height: 600px;">
+        <source src="/images/gallery/Movie1_Vortex_Ring_Collision.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">5 / 8</div>
+    <div class="numbertext">5 / 14</div>
       <img src="/images/gallery/5_Vortex_Ring_Collision_Symmetric.png" style="height: 600px;">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">6 / 8</div>
+    <div class="numbertext">6 / 14</div>
       <img src="/images/gallery/6_Biomolecular_Condensates.png" style="height: 600px;">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">7 / 8</div>
+    <div class="numbertext">7 / 14</div>
       <img src="/images/gallery/7_Active_Condensates.png" style="height: 600px;">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">8 / 8</div>
+    <div class="numbertext">8 / 14</div>
+      <img src="/images/gallery/8_Turbulent_Blob.png" style="height: 600px;">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">9 / 14</div>
+      <img src="/images/gallery/9_Turbulent_Blob_Enstrophy.png" style="height: 600px;">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">10 / 14</div>
+      <img src="/images/gallery/10_Turbulence1.png" style="height: 600px;">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">11 / 14</div>
+      <img src="/images/gallery/11_Turbulence2.png" style="height: 600px;">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">12 / 14</div>
+      <img src="/images/gallery/12_Turbulence3.png" style="height: 600px;">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">13 / 14</div>
+      <img src="/images/gallery/13_Turbulence4.png" style="height: 600px;">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">14 / 14</div>
       <video controls style="height: 600px;">
-        <source src="/images/gallery/Movie1_Vortex_Ring_Collision.mp4" type="video/mp4">
+        <source src="/images/gallery/Movie2_3D_PTV.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
   </div>
@@ -73,7 +106,7 @@ custom_css: css/gallery.css
       <img class="demo cursor" src="/images/gallery/3_Active_Matter.png" style="height:100px" onclick="currentSlide(3)" alt="Collective dynamics of spinning swimmers">
     </div>
     <div class="column">
-      <img class="demo cursor" src="/images/gallery/4_Vortex_Ring_Collision.png" style="height:100px" onclick="currentSlide(4)" alt="Vortex ring collision (3D particle tracking velocimetry)">
+      <img class="demo cursor" src="/images/gallery/4_Vortex_Ring_Collision.png" style="height:100px" onclick="currentSlide(4)" alt="Vortex ring collision (3D particle tracking velocimetry, video)">
     </div>
     <div class="column">
       <img class="demo cursor" src="/images/gallery/5_Vortex_Ring_Collision_Symmetric.png" style="height:100px" onclick="currentSlide(5)" alt="Symmetric vortex ring collisions (Gross-Pitaevskii simulations)">
@@ -85,7 +118,25 @@ custom_css: css/gallery.css
       <img class="demo cursor" src="/images/gallery/7_Active_Condensates.png" style="height:100px" onclick="currentSlide(7)" alt="Enzyme-loaded condensates">
     </div>
     <div class="column">
-      <img class="demo cursor" src="/images/gallery/4_Vortex_Ring_Collision.png" style="height:100px" onclick="currentSlide(8)" alt="Vortex ring collision (video)">
+      <img class="demo cursor" src="/images/gallery/8_Turbulent_Blob.png" style="height:100px" onclick="currentSlide(8)" alt="Turbulent blob">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/images/gallery/9_Turbulent_Blob_Enstrophy.png" style="height:100px" onclick="currentSlide(9)" alt="Turbulent blob enstrophy">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/images/gallery/10_Turbulence1.png" style="height:100px" onclick="currentSlide(10)" alt="Turbulence 1">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/images/gallery/11_Turbulence2.png" style="height:100px" onclick="currentSlide(11)" alt="Turbulence 2">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/images/gallery/12_Turbulence3.png" style="height:100px" onclick="currentSlide(12)" alt="Turbulence 3">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/images/gallery/13_Turbulence4.png" style="height:100px" onclick="currentSlide(13)" alt="Turbulence 4">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/images/gallery/4_Vortex_Ring_Collision.png" style="height:100px" onclick="currentSlide(14)" alt="3D particle tracking velocimetry (video)">
     </div>
   </div>
 </div>
