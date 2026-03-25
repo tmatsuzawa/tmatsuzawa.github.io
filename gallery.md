@@ -11,37 +11,37 @@ custom_css: css/gallery.css
   <!-- Full-width images with number text -->
   <div class="mySlides">
     <div class="numbertext">1 / 7</div>
-      <img src="/images/gallery/1_Confined_Turbulence.png" style="height: 400px;">
+      <img src="/images/gallery/1_Confined_Turbulence.png" style="height: 600px;">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">2 / 7</div>
-      <img src="/images/gallery/2_Decay_and_Propagation_of_Turbulence.png" style="height: 400px;">
+      <img src="/images/gallery/2_Decay_and_Propagation_of_Turbulence.png" style="height: 600px;">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">3 / 7</div>
-      <img src="/images/gallery/3_Active_Matter.png" style="height: 780px;">
+      <img src="/images/gallery/3_Active_Matter.png" style="height: 600px;">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">4 / 7</div>
-      <img src="/images/gallery/4_Vortex_Ring_Collision.png" style="height: 780px;">
+      <img src="/images/gallery/4_Vortex_Ring_Collision.png" style="height: 600px;">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">5 / 7</div>
-      <img src="/images/gallery/5_Vortex_Ring_Collision_Symmetric.png" style="height: 780px;">
+      <img src="/images/gallery/5_Vortex_Ring_Collision_Symmetric.png" style="height: 600px;">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">6 / 7</div>
-      <img src="/images/gallery/6_Biomolecular_Condensates.png" style="height: 780px;">
+      <img src="/images/gallery/6_Biomolecular_Condensates.png" style="height: 600px;">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">7 / 7</div>
-      <img src="/images/gallery/7_Active_Condensates.png" style="height: 780px;">
+      <img src="/images/gallery/7_Active_Condensates.png" style="height: 600px;">
   </div>
 
   <!-- Next and previous buttons -->
