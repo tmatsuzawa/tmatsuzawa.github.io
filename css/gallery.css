@@ -5,15 +5,19 @@
 /* Position the image container (needed to position the left and right arrows) */
 .container {
   position: relative;
+  max-width: 100%;
 }
 
 /* Hide the images by default */
 .mySlides {
   display: none;
   text-align: center;
+  position: relative;
+  min-height: 600px;
 }
 
-.mySlides img {
+.mySlides img,
+.mySlides video {
   display: block;
   margin: 0 auto;
 }
@@ -28,16 +32,17 @@
 .next {
   cursor: pointer;
   position: absolute;
-  top: 40%;
+  top: 50%;
   width: auto;
   padding: 16px;
-  margin-top: -50px;
+  margin-top: -22px;
   color: white;
   font-weight: bold;
   font-size: 20px;
   border-radius: 0 3px 3px 0;
   user-select: none;
   -webkit-user-select: none;
+  z-index: 10;
 }
 
 /* Position the "next button" to the right */
