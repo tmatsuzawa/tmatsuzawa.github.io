@@ -9,8 +9,7 @@
   <component name="ChangeListManager">
     <list default="true" id="efd79ce8-51a4-43a9-9201-baf9a169ca5a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/gallery.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/gallery.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gallery.md" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2024-08-18-notes_on_science.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2024-08-18-notes_on_science.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +68,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "dev.sweep.assistant.data.RecentlyUsedFiles": "gallery.md;css/uno.css;_includes/header.html;research.md;_posts/2024-09-04-amino_acid_for_physicists.md;coding.md;_includes/footer.html;_includes/head.html;_includes/index_header.html;_includes/pagination.html",
+    "dev.sweep.assistant.data.RecentlyUsedFiles": "_posts/2024-08-18-notes_on_science.md;cv_resume.md;gallery.md;css/uno.css;_includes/header.html;research.md;_posts/2024-09-04-amino_acid_for_physicists.md;coding.md;_includes/footer.html;_includes/head.html",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "/Users/takumi/Documents/git/tmatsuzawa.github.io/_layouts",
     "node.js.detected.package.eslint": "true",
@@ -149,7 +148,7 @@
       <workItem from="1759445570039" duration="1000" />
       <workItem from="1773698003591" duration="592000" />
       <workItem from="1773698602909" duration="3931000" />
-      <workItem from="1774393425904" duration="16826000" />
+      <workItem from="1774393425904" duration="19023000" />
     </task>
     <servers />
   </component>

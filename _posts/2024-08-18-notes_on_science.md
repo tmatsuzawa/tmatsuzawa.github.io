@@ -5,29 +5,10 @@ title: Helpful links for science
 category: professional
 tags: ['science']
 ---
-
-#### Professional development
-- Future PI Slack:
-  - Resources: https://docs.google.com/document/d/1n37B_sYkFLSDywZdUgZIcfXSjItknnt6s4HfWg21k1E/edit
-  - Tools for science: https://docs.google.com/document/d/1F2vgGmThaHTkgq2C2iAuOensXqx9MBULb0vq6t_zT_c/edit
-- Job search:
-  - HigherEdJobs: https://www.higheredjobs.com/search/
-  - Science Careers Jobs
-  - Inside Higher Ed
-  - the Chronicle of Higher 
-  - SOFT-MATTE Maling List
-  - Twitter
-- Kaggle
-[//]: # (- Sample questions for faculty interviews:)
-
-[//]: # (  - https://mitcommlab.mit.edu/nse/2021/01/08/questions-to-bring-to-your-faculty-interview/)
-
-[//]: # (  - https://www.asbmb.org/asbmb-today/careers/072121/what-to-ask-during-your-faculty-interview)
-
 #### Better Scientific Posters, Oral Presentations, Abstracts
 How to make an effective poster: https://docs.google.com/document/d/1n37B_sYkFLSDywZdUgZIcfXSjItknnt6s4HfWg21k1E/edit
 
-#### Schamatics
+#### Schematics
 - Blender (3D modeling and animation, free)
 - Houdini (3D modeling and animation, needs a license)
 - Dragonfly (3D scalar field visualization, need a license)
@@ -54,6 +35,23 @@ How to make an effective poster: https://docs.google.com/document/d/1n37B_sYkFLS
 
 #### Remote desktop
 - Chrome Remote Desktop
+- 
+#### Professional development
+- Future PI Slack:
+  - Resources: https://docs.google.com/document/d/1n37B_sYkFLSDywZdUgZIcfXSjItknnt6s4HfWg21k1E/edit
+  - Tools for science: https://docs.google.com/document/d/1F2vgGmThaHTkgq2C2iAuOensXqx9MBULb0vq6t_zT_c/edit
+- Job search:
+  - HigherEdJobs: https://www.higheredjobs.com/search/
+  - Science Careers Jobs
+  - Inside Higher Ed
+  - the Chronicle of Higher 
+  - SOFT-MATTE Maling List
+  - Twitter
+- Kaggle
+- Sample questions for faculty interviews:
+  - https://mitcommlab.mit.edu/nse/2021/01/08/questions-to-bring-to-your-faculty-interview/
+  - https://www.asbmb.org/asbmb-today/careers/072121/what-to-ask-during-your-faculty-interview
+
 
 #### Turbulence quick links
 - Johns Hopkins Turbulence Database: https://turbulence.pha.jhu.edu/
