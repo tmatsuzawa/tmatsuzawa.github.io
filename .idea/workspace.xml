@@ -8,10 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efd79ce8-51a4-43a9-9201-baf9a169ca5a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/SweepConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/index_header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/index_header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv_resume.md" beforeDir="false" afterPath="$PROJECT_DIR$/cv_resume.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/gallery.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/gallery.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +68,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "dev.sweep.assistant.data.RecentlyUsedFiles": "_includes/index_header.html;_includes/pagination.html;_layouts/static_post.html;_layouts/post.html;_layouts/page.html;_layouts/index_default.html;_layouts/default.html;_config.yml;about.md;cv_resume.md",
+    "dev.sweep.assistant.data.RecentlyUsedFiles": "_includes/header.html;_includes/index_header.html;gallery.md;css/gallery.css;_includes/pagination.html;_layouts/static_post.html;_layouts/post.html;_layouts/page.html;_layouts/index_default.html;_layouts/default.html",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "/Users/takumi/Documents/git/tmatsuzawa.github.io/_layouts",
     "node.js.detected.package.eslint": "true",
@@ -150,7 +148,7 @@
       <workItem from="1759445570039" duration="1000" />
       <workItem from="1773698003591" duration="592000" />
       <workItem from="1773698602909" duration="3931000" />
-      <workItem from="1774393425904" duration="12104000" />
+      <workItem from="1774393425904" duration="12455000" />
     </task>
     <servers />
   </component>

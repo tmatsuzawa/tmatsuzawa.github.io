@@ -10,7 +10,9 @@ Biomolecular condensates are membraneless organelles that play critical roles in
 Despite their importance in cellular physiology, the thermodynamics of biomolecular condensates remains poorly understood.
 My research in this area focuses on understanding the thermodynamics of biomolecular condensates and how enzymatic reactions can control their formation and material properties.
 
+<div style="text-align: center;">
 <img src="https://tmatsuzawa.github.io/images/research/1_Biomolecular_Condensates.png" alt="[Biomolecular Condensates]" style="height: 200px; margin-right: 15px;"/><img src="https://tmatsuzawa.github.io/images/gallery/7_Active_Condensates.png" alt="[Confined Turbulence]" style="height: 200px;"/>
+</div>
 
 Relevant publications include:<br>
 1. **Metabolites Shift Equilibria of Biomolecular Condensates**<br>

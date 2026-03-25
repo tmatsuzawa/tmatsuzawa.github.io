@@ -73,7 +73,14 @@
 /* Six columns side by side */
 .column {
   float: left;
-  width: 16.66%;
+  width: 14.28%;
+  padding: 0;
+  margin: 0;
+}
+
+.column img {
+  display: block;
+  width: 100%;
 }
 
 /* Add a transparency effect for thumnbail images */
