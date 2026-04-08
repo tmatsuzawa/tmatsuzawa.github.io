@@ -143,7 +143,7 @@ custom_css: css/gallery.css
       <img class="demo cursor" src="/images/gallery/9_Turbulent_Blob_Enstrophy.png" style="height:100px" onclick="currentSlide(9)" alt="Enstrophy of a turbulent blob">
     </div>
     <div class="column">
-      <img class="demo cursor" src="/images/gallery/10_Turbulence1.png" style="height:100px" onclick="currentSlide(10)" alt="Pathlines in turbulent flows 1">
+      <img class="demo cursor" src="/images/gallery/10_Turbulence1.png" style="height:100px" onclick="currentSlide(10)" alt="Pathlines in turbulent flows 1 (The Grand Prize in the 2026 UChicago Science as Art contest)">
     </div>
     <div class="column">
       <img class="demo cursor" src="/images/gallery/11_Turbulence2.png" style="height:100px" onclick="currentSlide(11)" alt="Pathlines in turbulent flows 2">
