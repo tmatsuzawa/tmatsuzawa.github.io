@@ -7,6 +7,7 @@
     <orderEntry type="module" module-name="tflow" />
     <orderEntry type="module" module-name="ilpm" />
     <orderEntry type="module" module-name="codes" />
+    <orderEntry type="module" module-name="2026_Matsuzawa_Susceptibility" />
   </component>
   <component name="PackageRequirementsSettings">
     <option name="requirementsPath" value="" />

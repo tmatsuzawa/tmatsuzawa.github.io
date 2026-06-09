@@ -7,9 +7,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efd79ce8-51a4-43a9-9201-baf9a169ca5a" name="Default Changelist" comment="">
+    <list default="true" id="efd79ce8-51a4-43a9-9201-baf9a169ca5a" name="Default Changelist" comment="Update research.md and about.md with publications">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/tmatsuzawa.github.io.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tmatsuzawa.github.io.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2024-08-18-notes_on_science.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2024-08-18-notes_on_science.md" afterDir="false" />
+      <change beforePath="$USER_HOME$/Dropbox/paper_writing/2026_Susceptibility/Sharing/2026_Matsuzawa_Susceptibility/preparation/labware_configuration.csv" beforeDir="false" afterPath="$USER_HOME$/Dropbox/paper_writing/2026_Susceptibility/Sharing/2026_Matsuzawa_Susceptibility/preparation/labware_configuration.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +36,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/Dropbox/paper_writing/2026_Susceptibility/Sharing/2026_Matsuzawa_Susceptibility" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -67,9 +70,8 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "dev.sweep.assistant.data.RecentlyUsedFiles": "_posts/2024-08-18-notes_on_science.md;cv_resume.md;gallery.md;css/uno.css;_includes/header.html;research.md;_posts/2024-09-04-amino_acid_for_physicists.md;coding.md;_includes/footer.html;_includes/head.html",
-    "git-widget-placeholder": "master",
+    "dev.sweep.assistant.data.RecentlyUsedFiles": "gallery.md;research.md;_posts/2024-08-18-notes_on_science.md;cv_resume.md;css/uno.css;_includes/header.html;_posts/2024-09-04-amino_acid_for_physicists.md;coding.md;_includes/footer.html;_includes/head.html",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/takumi/Documents/git/tmatsuzawa.github.io/_layouts",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -148,7 +150,9 @@
       <workItem from="1759445570039" duration="1000" />
       <workItem from="1773698003591" duration="592000" />
       <workItem from="1773698602909" duration="3931000" />
-      <workItem from="1774393425904" duration="19023000" />
+      <workItem from="1774393425904" duration="20778000" />
+      <workItem from="1775517049278" duration="1528000" />
+      <workItem from="1777299945609" duration="3574000" />
     </task>
     <servers />
   </component>
