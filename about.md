@@ -21,7 +21,7 @@ I am establishing an experimental research group studying **complex fluids, from
 
 - **2023:** PhD in Physics, University of Chicago, USA.
 - **2017:** MS in Physics, University of Chicago, USA.
-- **2016:** BA in Physics and Chemistry, *summa cum laude*, Kalamazoo College, USA.
+- **2016:** BA in Physics and Chemistry, *summa cum laude with distinction*, Kalamazoo College, USA.
 
 ## Biographical sketch
 
@@ -32,6 +32,16 @@ During my PhD with **William T. M. Irvine** at the University of Chicago, I deve
 As a **Schmidt Science Fellow** working with **Eric R. Dufresne** at Cornell University, I expanded into biological soft matter. My work has explored the thermodynamics of biomolecular condensates, how dissolved molecules shift phase boundaries, and how chemical reactions can regulate phase separation and material properties.
 
 At NTU, I aim to bring these approaches together to investigate **nonequilibrium complex fluids**, including biomolecular condensates, reactive and multiphase flows, and turbulence. See [Research]({{ '/research/' | relative_url }}) for details.
+
+## Curriculum Vitae
+
+My [CV (PDF)]({{ '/cv_resume/Resume_TakumiMatsuzawa.pdf' | relative_url }}) is available here. Please note that this PDF has not yet been replaced with the November 2026 version.
+
+### Selected publications
+
+- **T. Matsuzawa** et al., "Susceptibility and Regulation of Biomolecular Condensates by Solutes," *PNAS* **123**, e2604434123 (2026). [DOI](https://doi.org/10.1073/pnas.2604434123).
+- **T. Matsuzawa** et al., "Nonlinear diffusion and decay of a blob of turbulence spreading into a quiescent fluid," *PNAS* **123**, e2526858123 (2026). [Paper](https://www.pnas.org/doi/10.1073/pnas.2526858123).
+- **T. Matsuzawa** et al., "Creation of an isolated turbulent blob fed by vortex rings," *Nature Physics* **19**, 1193–1200 (2023). [Paper](https://www.nature.com/articles/s41567-023-02088-8).
 
 ## Contact
 
