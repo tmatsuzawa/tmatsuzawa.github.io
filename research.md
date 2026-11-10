@@ -31,9 +31,9 @@ My research in this area focuses on understanding the thermodynamics of biomolec
 </div>
 
 Relevant publications include:<br>
-1. **Metabolites Shift Equilibria of Biomolecular Condensates**<br>
+1. **Susceptibility and Regulation of Biomolecular Condensates by Solutes**<br>
 **T. Matsuzawa**, K. Varma, T. Bate, C. Lorenz, K. Larina, J. Bauermann, D. Matthias, T. Grubi´c,
-R. W. Style, M. O. Steinmetz, E. R. Dufresne, bioRxiv 10.64898/2026.01.14.699531 (2026).
+R. W. Style, M. O. Steinmetz, E. R. Dufresne, *Proceedings of the National Academy of Sciences* **123**, e2604434123 (2026).
 [Link](https://www.biorxiv.org/content/10.64898/2026.01.14.699531v2)
 (Under review)
 2. **Partition Coefficients Reveal Changes in Properties of Low-Contrast Biomolecular Condensates**<br>
