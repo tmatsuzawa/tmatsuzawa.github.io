@@ -1,8 +1,16 @@
 ---
 layout: static_post
-title: Openings
+title: Members & Openings
 permalink: recruitment/
 ---
+
+## Members
+
+**Principal Investigator:** [Takumi Matsuzawa]({{ '/about/' | relative_url }})
+
+The group is being established for January 2027. New members will be listed here as they join.
+
+## Openings
 
 I am establishing a research group in the **School of Mechanical and Aerospace Engineering at Nanyang Technological University (NTU), Singapore**, beginning in **January 2027**.
 
