@@ -15,7 +15,7 @@ Our research will bring together three connected directions:
 
 Our toolkit combines quantitative imaging, microscopy, velocimetry, controlled experiments, data analysis, and physical modeling. These directions build on my work in turbulent flows at the University of Chicago and biomolecular condensates at Cornell University.
 
-**Interested in joining the group?** Visit [Join the Group]({{ '/recruitment/' | relative_url }}).
+**Interested in joining the group?** Visit [Openings]({{ '/recruitment/' | relative_url }}).
 
 ---
 
