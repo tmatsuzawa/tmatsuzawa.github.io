@@ -1,6 +1,6 @@
 ---
 layout: static_post
-title: Join the Group
+title: Openings
 permalink: recruitment/
 ---
 
