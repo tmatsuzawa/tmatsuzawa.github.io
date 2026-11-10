@@ -15,11 +15,11 @@ I am establishing an experimental research group studying **complex fluids, from
 ## Appointments
 
 - **2027– (starting January):** Nanyang Assistant Professor, School of Mechanical and Aerospace Engineering, Nanyang Technological University, Singapore.
-- **2023–2026:** Postdoctoral Associate and Schmidt Science Fellow, Cornell University, USA.
+- **2023–2026:** Schmidt Science Postdoctoral Fellow (2024–2026); Postdoctoral Associate (2023–2024), Cornell University, USA.
 
 ## Education
 
-- **2023:** PhD in Physics, University of Chicago, USA.
+- **2023:** PhD in Physics, University of Chicago, USA.\n- **2017:** MS in Physics, University of Chicago, USA.
 - **2016:** BA in Physics and Chemistry, *summa cum laude*, Kalamazoo College, USA.
 
 ## Biographical sketch
