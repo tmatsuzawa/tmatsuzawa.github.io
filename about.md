@@ -19,7 +19,8 @@ I am establishing an experimental research group studying **complex fluids, from
 
 ## Education
 
-- **2023:** PhD in Physics, University of Chicago, USA.\n- **2017:** MS in Physics, University of Chicago, USA.
+- **2023:** PhD in Physics, University of Chicago, USA.
+- **2017:** MS in Physics, University of Chicago, USA.
 - **2016:** BA in Physics and Chemistry, *summa cum laude*, Kalamazoo College, USA.
 
 ## Biographical sketch
