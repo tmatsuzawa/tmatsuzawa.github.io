@@ -13,7 +13,11 @@
           <h1 class="panel-cover__title panel-title">{{ site.title }}</h1>
         </a>
         <hr class="panel-cover__divider">
-        <p class="panel-cover__description">{{ site.description | replace: " | ", "<br>" }}</p>
+        <p class="panel-cover__description">
+          {% for line in site.cover_lines %}
+            <span style="display: block;">{{ line }}</span>
+          {% endfor %}
+        </p>
         <hr class="panel-cover__divider panel-cover__divider--secondary">
 
         <div class="navigation-wrapper">
