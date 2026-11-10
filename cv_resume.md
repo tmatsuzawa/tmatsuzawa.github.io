@@ -30,4 +30,4 @@ Soft condensed matter physics; fluid mechanics; biophysics; biomolecular condens
 
 The [previous PDF CV]({{ '/cv_resume/Resume_TakumiMatsuzawa.pdf' | relative_url }}) is available here, but it has not yet been replaced by the **November 2026 version**. Please refer to the updated summary above in the meantime.
 
-For research opportunities, see [Join the Group]({{ '/recruitment/' | relative_url }}).
+For research opportunities, see [Openings]({{ '/recruitment/' | relative_url }}).
