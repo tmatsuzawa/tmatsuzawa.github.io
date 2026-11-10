@@ -3,7 +3,23 @@ layout: static_post
 title: Research
 permalink: research/
 ---
-I am interested in soft and living matter where physics, chemistry, and biology intersect.
+## Research vision: Complex fluids, from turbulence to living matter
+
+I am launching an experimental research group at **Nanyang Technological University (NTU), Singapore**, in **January 2027**. We seek to understand how complex fluids organize, flow, and respond to driving, from inert turbulent liquids to chemically active and living systems.
+
+Our research will bring together three connected directions:
+
+1. **Biomolecular condensates and active soft matter.** How do solutes, molecular interactions, and enzymatic reactions regulate liquid–liquid phase separation? How do phase-separated compartments feed back on chemical activity?
+2. **Turbulence, transport, and multiphase flows.** How does turbulence spread, decay, and mix with its surroundings? What new dynamics emerge when fluid flow couples to interfaces or reactions?
+3. **Nonequilibrium fluids across scales.** We are interested in reactive flows, living matter, and opportunities to connect fundamental fluid physics with biological and environmental systems.
+
+Our toolkit combines quantitative imaging, microscopy, velocimetry, controlled experiments, data analysis, and physical modeling. These directions build on my work in turbulent flows at the University of Chicago and biomolecular condensates at Cornell University.
+
+**Interested in joining the group?** Visit [Join the Group]({{ '/recruitment/' | relative_url }}).
+
+---
+
+## Selected previous and ongoing research
 
 <h3> Biomolecular Condensates </h3>
 Biomolecular condensates are membraneless organelles that play critical roles in cellular processes.
