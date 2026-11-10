@@ -8,8 +8,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efd79ce8-51a4-43a9-9201-baf9a169ca5a" name="Default Changelist" comment="Update research.md and about.md with publications">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
       <change beforePath="$USER_HOME$/Dropbox/paper_writing/2026_Susceptibility/Sharing/2026_Matsuzawa_Susceptibility/preparation/labware_configuration.csv" beforeDir="false" afterPath="$USER_HOME$/Dropbox/paper_writing/2026_Susceptibility/Sharing/2026_Matsuzawa_Susceptibility/preparation/labware_configuration.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,33 +53,35 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="22uOW6YZDAziENo26AUHFximvWH" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;dev.sweep.assistant.data.RecentlyUsedFiles&quot;: &quot;gallery.md;research.md;_posts/2024-08-18-notes_on_science.md;cv_resume.md;css/uno.css;_includes/header.html;_posts/2024-09-04-amino_acid_for_physicists.md;coding.md;_includes/footer.html;_includes/head.html&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/takumi/Documents/git/tmatsuzawa.github.io/_layouts&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.github.copilot.settings.general.GeneralConfigurable&quot;,
-    &quot;sweep.chatMode&quot;: &quot;Agent&quot;,
-    &quot;sweep.selectedModel&quot;: &quot;Auto&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "dev.sweep.assistant.data.RecentlyUsedFiles": "gallery.md;research.md;_posts/2024-08-18-notes_on_science.md;cv_resume.md;css/uno.css;_includes/header.html;_posts/2024-09-04-amino_acid_for_physicists.md;coding.md;_includes/footer.html;_includes/head.html",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/takumi/Documents/git/tmatsuzawa.github.io/_layouts",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "com.github.copilot.settings.general.GeneralConfigurable",
+    "sweep.chatMode": "Agent",
+    "sweep.selectedModel": "Auto",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_layouts" />
@@ -131,8 +131,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-PY-243.23654.177" />
-        <option value="bundled-python-sdk-91d3a02ef49d-43b77aa2d136-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.23654.177" />
+        <option value="bundled-js-predefined-d6986cc7102b-56aff7b04f6f-JavaScript-PY-263.7307.206" />
+        <option value="bundled-python-sdk-34611be1ca5a-e0583fc556d1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-263.7307.206" />
       </set>
     </attachedChunks>
   </component>
@@ -156,6 +156,7 @@
       <workItem from="1793829985214" duration="3989000" />
       <workItem from="1794343269151" duration="1314000" />
       <workItem from="1794344696370" duration="834000" />
+      <workItem from="1794346399704" duration="336000" />
     </task>
     <servers />
   </component>
