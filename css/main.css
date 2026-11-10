@@ -54,3 +54,30 @@ pre.highlight code,
   border: 3px solid #fff;
   border-radius:100%;
 }
+
+/* Keep the expanded group navigation centered and allow it to wrap. */
+@media all and (min-width: 961px) {
+  .panel-cover .cover-navigation--primary {
+    display: block;
+    width: 100%;
+  }
+
+  .panel-cover .cover-navigation--primary .navigation {
+    display: flex;
+    float: none;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 6px;
+    padding: 0;
+  }
+
+  .panel-cover .cover-navigation--primary .navigation__item {
+    margin: 0;
+  }
+
+  .panel-cover .cover-navigation--primary .navigation__item a {
+    margin: 2px 0;
+    padding: 8px 10px;
+    font-size: 0.85em;
+  }
+}
