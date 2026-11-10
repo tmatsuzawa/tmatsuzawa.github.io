@@ -1,9 +1,10 @@
 # Site settings
-title: Takumi Matsuzawa
-description: 'Incoming Nanyang Assistant Professor, NTU MAE (Jan 2027) | Schmidt Science Postdoctoral Fellow, Cornell University'
+title: Matsuzawa Lab
+description: 'Complex Fluids & Soft Matter | School of Mechanical & Aerospace Engineering | Nanyang Technological University, Singapore'
 cover_lines:
-  - 'Incoming Nanyang Assistant Professor, NTU MAE (Jan 2027)'
-  - 'Schmidt Science Postdoctoral Fellow, Cornell University'
+  - 'Complex Fluids & Soft Matter'
+  - 'School of Mechanical & Aerospace Engineering'
+  - 'Nanyang Technological University, Singapore'
 keywords: "Takumi Matsuzawa, Nanyang Technological University, NTU, Nanyang Assistant Professor, complex fluids, soft condensed matter, fluid mechanics, turbulence, biomolecular condensates, biophysics, Cornell University, University of Chicago"
 favicon: "/images/favicons/atom_icon.ico"
 
