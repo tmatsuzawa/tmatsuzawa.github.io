@@ -26,18 +26,20 @@ custom_css: css/gallery.css
 
   <div class="mySlides">
     <div class="numbertext">4 / 16</div>
-      <video controls style="height: 600px;">
-        <source src="/images/gallery/Movie1_Vortex_Ring_Collision.mp4" type="video/mp4">
+      <video controls preload="metadata" playsinline style="max-height: 600px; max-width: 100%; width: auto; height: auto;">
+        <source src="{{ '/images/gallery/Movie1_Vortex_Ring_Collision.mp4' | relative_url }}" type="video/mp4">
         Your browser does not support the video tag.
       </video>
+      <p class="gallery-video-link"><a href="{{ '/images/gallery/Movie1_Vortex_Ring_Collision.mp4' | relative_url }}" target="_blank" rel="noopener">Open video directly</a></p>
   </div>
 
   <div class="mySlides">
     <div class="numbertext">5 / 16</div>
-      <video controls style="height: 600px;">
-        <source src="/images/gallery/Movie4_Vortex_Ring_Collision_Symmetric.mp4" type="video/mp4">
+      <video controls preload="metadata" playsinline style="max-height: 600px; max-width: 100%; width: auto; height: auto;">
+        <source src="{{ '/images/gallery/Movie4_Vortex_Ring_Collision_Symmetric.mp4' | relative_url }}" type="video/mp4">
         Your browser does not support the video tag.
       </video>
+      <p class="gallery-video-link"><a href="{{ '/images/gallery/Movie4_Vortex_Ring_Collision_Symmetric.mp4' | relative_url }}" target="_blank" rel="noopener">Open video directly</a></p>
   </div>
 
   <div class="mySlides">
@@ -82,26 +84,29 @@ custom_css: css/gallery.css
 
   <div class="mySlides">
     <div class="numbertext">14 / 16</div>
-      <video controls style="height: 600px;">
-        <source src="/images/gallery/Movie2_3D_PTV.mp4" type="video/mp4">
+      <video controls preload="metadata" playsinline style="max-height: 600px; max-width: 100%; width: auto; height: auto;">
+        <source src="{{ '/images/gallery/Movie2_3D_PTV.mp4' | relative_url }}" type="video/mp4">
         Your browser does not support the video tag.
       </video>
+      <p class="gallery-video-link"><a href="{{ '/images/gallery/Movie2_3D_PTV.mp4' | relative_url }}" target="_blank" rel="noopener">Open video directly</a></p>
   </div>
 
   <div class="mySlides">
     <div class="numbertext">15 / 16</div>
-      <video controls style="height: 600px;">
-        <source src="/images/gallery/Movie3_3D_Energy.mp4" type="video/mp4">
+      <video controls preload="metadata" playsinline style="max-height: 600px; max-width: 100%; width: auto; height: auto;">
+        <source src="{{ '/images/gallery/Movie3_3D_Energy.mp4' | relative_url }}" type="video/mp4">
         Your browser does not support the video tag.
       </video>
+      <p class="gallery-video-link"><a href="{{ '/images/gallery/Movie3_3D_Energy.mp4' | relative_url }}" target="_blank" rel="noopener">Open video directly</a></p>
   </div>
 
   <div class="mySlides">
     <div class="numbertext">16 / 16</div>
-      <video controls style="height: 600px;">
-        <source src="/images/gallery/Movie5_flowtrace_highRe_blob.mp4" type="video/mp4">
+      <video controls preload="metadata" playsinline style="max-height: 600px; max-width: 100%; width: auto; height: auto;">
+        <source src="{{ '/images/gallery/Movie5_flowtrace_highRe_blob.mp4' | relative_url }}" type="video/mp4">
         Your browser does not support the video tag.
       </video>
+      <p class="gallery-video-link"><a href="{{ '/images/gallery/Movie5_flowtrace_highRe_blob.mp4' | relative_url }}" target="_blank" rel="noopener">Open video directly</a></p>
   </div>
 
   <!-- Next and previous buttons -->
@@ -161,9 +166,8 @@ custom_css: css/gallery.css
       <img class="demo cursor" src="/images/gallery/15_Movie3_Thumbnail.png" style="height:100px" onclick="currentSlide(15)" alt="Energy decomposition of a turbulent blob (video)">
     </div>
     <div class="column">
-      <img class="demo cursor" src="/images/gallery/16_Movie5_Thumbnail.png" style="height:100px" onclick="currentSlide(16)" alt="One-shot movie of decat of turbulence (video)">
+      <img class="demo cursor" src="/images/gallery/16_Movie5_Thumbnail.png" style="height:100px" onclick="currentSlide(16)" alt="One-shot movie of decay of turbulence (video)">
     </div>
   </div>
 </div>
 
-<script src="js/gallery.js"></script>
