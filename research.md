@@ -19,13 +19,13 @@ Relevant publications include:<br>
 1. **Susceptibility and Regulation of Biomolecular Condensates by Solutes**<br>
 **T. Matsuzawa**, K. Varma, T. Bate, C. Lorenz, K. Larina, J. Bauermann, D. Matthias, T. Grubi´c,
 R. W. Style, M. O. Steinmetz, E. R. Dufresne, *Proceedings of the National Academy of Sciences* **123**, e2604434123 (2026).
-[Link](https://doi.org/10.1073/pnas.2604434123)
+<a href="https://doi.org/10.1073/pnas.2604434123" target="_blank" rel="noopener noreferrer">Link</a>
 2. **Partition Coefficients Reveal Changes in Properties of Low-Contrast Biomolecular Condensates**<br>
 K. Varma, D. Matthias, C. B. Shapiro, S. Bailey-Darland, **T. Matsuzawa**, C. Lorenz, T. Bate, S. J. Thornton, S. Duraivel, R. W. Style, J. P. Sethna, E. R. Dufresne, 
 *Nature Communications* (2026, accepted). Preprint: bioRxiv 10.64898/2026.02.20.707107.
-[Link](https://www.biorxiv.org/content/10.64898/2026.02.20.707107v1)
+<a href="https://www.biorxiv.org/content/10.64898/2026.02.20.707107v1" target="_blank" rel="noopener noreferrer">Link</a>
 3. **Phase behavior of solvent-nematogen mixtures** S. Bailey-Darland, **T. Matsuzawa**, E. R. Dufresne, *Soft Matter* **22** (34): 5745–5755. (2026).
-[Link](https://pubs.rsc.org/sm/article/22/34/5745/1291298/Phase-behavior-of-solvent-nematogen-mixtures)
+<a href="https://pubs.rsc.org/sm/article/22/34/5745/1291298/Phase-behavior-of-solvent-nematogen-mixtures" target="_blank" rel="noopener noreferrer">Link</a>
 
 Core competencies: Microscopy, rheology, protein purification, optical trapping, enzymatic reactions, solution thermodynamics, numerical simulations (Monte Carlo, molecular dynamics), data analysis (Python, C++, MATLAB)
 
@@ -45,13 +45,13 @@ The resulting blob of turbulence is confined and sustained, allowing us to study
 Relevant publications include:<br>
 1. **Nonlinear diffusion and decay of a blob of turbulence spreading into a quiescent fluid**<br>
 **T. Matsuzawa**, M. Zhu, N. Goldenfeld, W. T. M. Irvine, Proc. Natl. Acad. Sci., 123, **7**,
-e2526858123, (2026). <a href="https://www.pnas.org/content/123/7/e2526858123" target="_blank">[Link]</a>; selected for cover image. 
+e2526858123, (2026). <a href="https://www.pnas.org/content/123/7/e2526858123" target="_blank" rel="noopener noreferrer">Link</a>; selected for cover image. 
 2. **Creation of an isolated turbulent blob fed by vortex rings**<br>
 **T. Matsuzawa**, N. P. Mitchell, S. Perrard, W. T. M. Irvine, Nature Physics, **19**, 1193–1200
-(2023). <a href="https://www.nature.com/articles/s41567-023-02088-8" target="_blank">[Link]</a>; selected for cover image.
+(2023). <a href="https://www.nature.com/articles/s41567-023-02088-8" target="_blank" rel="noopener noreferrer">Link</a>; selected for cover image.
 3. **Turbulence through sustained vortex ring collisions**<br>
 **T. Matsuzawa**, N. P. Mitchell, S. Perrard, W. T. M. Irvine, Physical Review Fluids, **8**, 11507
-(2023). <a href="https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.8.110507" target="_blank">[Link]</a>
+(2023). <a href="https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.8.110507" target="_blank" rel="noopener noreferrer">Link</a>
 
 Media coverage of this work includes:<br>
 1. Selected for Research Highlight in <a href="https://www.nature.com/articles/d41586-023-01589-7" target="_blank">Nature</a><br>
@@ -72,7 +72,7 @@ My research in this area focuses on the active matter in 3D at intermediate Reyn
 
 Relevant publications include:<br>
 1. **Self-propulsion, flocking and chiral active phases from particles spinning at intermediate Reynolds numbers**<br>
-P. Chen, S. Weady, S. Atis, **T. Matsuzawa**, M. Shelley, W. T. M. Irvine, Nature Physics, **21**, 146–154 (2025). <a href="https://www.nature.com/articles/s41567-024-02651-5" target="_blank">[Link]</a>; selected for cover image.
+P. Chen, S. Weady, S. Atis, **T. Matsuzawa**, M. Shelley, W. T. M. Irvine, Nature Physics, **21**, 146–154 (2025). <a href="https://www.nature.com/articles/s41567-024-02651-5" target="_blank" rel="noopener noreferrer">Link</a>; selected for cover image.
 
 Core competencies: 2D particle image velocimetry, 3D particle tracking velocimetry, flow visualization, data analysis (Python)
 
@@ -83,7 +83,7 @@ I collaborated with Gordon Kindlmann (UChicago), William Irvine (UChicago), and 
 
 Relevant publications include:<br>
 1. **Evaluating machine learning models with NERO: non-equivariance revealed on orbits**<br>
-Z. Zhao, **T. Matsuzawa**, W. T. M. Irvine, M. Maire, G. L. Kindlmann, NeurIPS Workshop on Interpretable AI (2024). <a href="" target="_blank">[Link]</a>
+Z. Zhao, **T. Matsuzawa**, W. T. M. Irvine, M. Maire, G. L. Kindlmann, NeurIPS Workshop on Interpretable AI (2024).
 
 Core competencies: machine learning, data analysis (Python), vortex dynamics, fluid mechanics
 <hr>
@@ -94,7 +94,7 @@ I carried out studies of targeting beam at the Mu2e production target using a so
 
 Relevant publications include:<br>
 1. **Targeting Studies of the Second-Generation Mu2e Experiment**<br>
-**T. Matsuzawa**, T. J. Roberts, E. Prebys, Fermi National Accelerator Laboratory, 2015. <a href="https://indico.fnal.gov/event/10235/contributions/1500/attachments/943/1103/Takumi-Matsuzawa1.pdf" target="_blank">[Link]</a> (Internal)
+**T. Matsuzawa**, T. J. Roberts, E. Prebys, Fermi National Accelerator Laboratory, 2015. <a href="https://indico.fnal.gov/event/10235/contributions/1500/attachments/943/1103/Takumi-Matsuzawa1.pdf" target="_blank" rel="noopener noreferrer">Link</a> (Internal)
 
 <hr>
 
@@ -105,7 +105,7 @@ In collaboration with Prof. Peter Erdi (Kalamazoo College), we developed a calci
 
 Relevant publications include:<br>
 1. **Multi-scale modeling of altered synaptic plasticity related to amyloid β effects**<br>
-**T. Matsuzawa**, L. Zál​anyi, T. Kiss, P. Érdi, Neural Networks, **93**, 230–239 (2017). <a href="" target="_blank">[Link]</a>
+**T. Matsuzawa**, L. Zál​anyi, T. Kiss, P. Érdi, Neural Networks, **93**, 230–239 (2017).
 2. **Connecting epilepsy and Alzheimer's disease: Modeling of normal and pathological rhythmicity and synaptic plasticity related to amyloid β effects**<br>
-P. Érdi, **T. Matsuzawa**, T. John, T. Kiss, L. Zál​anyi (Book chapter). <a href="" target="_blank">[Link]</a> 
+P. Érdi, **T. Matsuzawa**, T. John, T. Kiss, L. Zál​anyi (Book chapter). 
 
