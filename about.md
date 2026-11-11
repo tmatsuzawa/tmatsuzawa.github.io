@@ -4,27 +4,6 @@ title: About
 permalink: about/
 ---
 ---------
-**News**
-<br>
-I am joining the **School of Mechanical and Aerospace Engineering (MAE)** at **Nanyang Technological University (NTU)** 
-as a **Nanyang Assistant Professor** in January 2027. 
-
-I am currently recruiting:
-- **PhD Students (starting Fall 2027 intake)**
-- **One Postdoctoral Researcher (biophysics)**
-- **One Postdoctoral Researcher (fluid mechanics)**
-<br>
-
-My lab will focus on the physics of **complex fluids from inanimate to living systems**.
-
-Research areas include **experimental biophysics**, **fluid mechanics**, and **soft condensed matter physics**.
-
-More specifically, the projects explore the following topics:
-- **Biomolecular condensates** and **phase separation in biology**
-- **Multiphase flows**, **reactive flows**, and **turbulence**
-- **Cloud physics** and **atmospheric flows**
-
----------
 **Appointment**
 
 2027 – Present: Nanyang Assistant Professor, School of Mechanical and Aerospace Engineering, Nanyang Technological University, Singapore <br>
