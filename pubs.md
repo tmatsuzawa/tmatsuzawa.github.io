@@ -30,4 +30,4 @@ permalink: pubs/
 1. **Self-propulsion, flocking and chiral active phases from particles spinning at intermediate Reynolds numbers**  
    P. Chen, S. Weady, S. Atis, **T. Matsuzawa**, M. Shelley, W. T. M. Irvine, *Nature Physics* **21**, 146–154 (2025). [Link](https://www.nature.com/articles/s41567-024-02651-5).
 
-For a complete list of publications, please see [Google Scholar](https://scholar.google.com/citations?user=lDqxw3IAAAAJ).
+For a complete list of publications, see [Google Scholar](https://scholar.google.com/citations?user=lDqxw3IAAAAJ) or [ORCID](https://orcid.org/0000-0002-3133-7218).
