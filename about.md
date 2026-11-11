@@ -6,15 +6,15 @@ permalink: about/
 
 ## Profile
 
-Takumi Matsuzawa is an incoming Nanyang Assistant Professor in the [School of Mechanical and Aerospace Engineering (MAE)](https://www.ntu.edu.sg/mae) at [Nanyang Technological University (NTU)](https://www.ntu.edu.sg) in Singapore, starting in January 2027. His research spans fluid mechanics, soft condensed matter physics, and biophysics, with a focus on turbulence, nonequilibrium phenomena, and biomolecular condensates.
+Takumi Matsuzawa is an incoming Nanyang Assistant Professor in the <a href="https://www.ntu.edu.sg/mae" style="text-decoration: underline;">School of Mechanical and Aerospace Engineering (MAE)</a> at <a href="https://www.ntu.edu.sg" style="text-decoration: underline;">Nanyang Technological University (NTU)</a> in Singapore, starting in January 2027. His research spans fluid mechanics, soft condensed matter physics, and biophysics, with a focus on turbulence, nonequilibrium phenomena, and biomolecular condensates.
 
 Takumi received his Ph.D. in Physics from the University of Chicago in 2023, where he worked with Prof. William T. M. Irvine and collaborated with Prof. Nigel Goldenfeld (University of California, San Diego). His doctoral research focused on the generation and free evolution of turbulence through controlled collisions of vortex rings. This work established an experimental platform for studying spatially confined turbulence, including its propagation and decay. He also investigated active matter, particularly the collective dynamics of chiral spinners at intermediate Reynolds numbers, where nonlinear and nonreciprocal interactions play important roles.
 
-In 2024, Takumi was awarded a [Schmidt Science Fellowship](https://schmidtsciencefellows.org/), which supported his transition from fluid mechanics to biological physics. As a postdoctoral researcher in Prof. Eric R. Dufresne's group at Cornell University, he has studied phase separation in biological and liquid-crystalline systems, with a particular focus on the solution thermodynamics of biomolecular condensates and enzyme-driven active condensates.
+In 2024, Takumi was awarded a <a href="https://schmidtsciencefellows.org/" style="text-decoration: underline;">Schmidt Science Fellowship</a>, which supported his transition from fluid mechanics to biological physics. As a postdoctoral researcher in Prof. Eric R. Dufresne's group at Cornell University, he has studied phase separation in biological and liquid-crystalline systems, with a particular focus on the solution thermodynamics of biomolecular condensates and enzyme-driven active condensates.
 
 At NTU, Takumi will establish an experimental research group studying soft matter and complex fluids, from inanimate to living systems. His group will investigate how fluid flow, phase transitions, and chemical activity interact to give rise to emergent dynamics and functions across physical and biological systems.
 
-For more information, see his [CV]({{ '/cv_resume/CV_Matsuzawa.pdf' | relative_url }}) or visit the [Openings]({{ '/recruitment/' | relative_url }}) page.
+For more information, see his <a href="{{ '/cv_resume/CV_Matsuzawa.pdf' | relative_url }}" style="text-decoration: underline;">CV</a> or visit the <a href="{{ '/recruitment/' | relative_url }}" style="text-decoration: underline;">Openings</a> page.
 
 ---------
 **Appointment**
