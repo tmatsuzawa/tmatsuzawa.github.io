@@ -18,25 +18,25 @@ I am establishing a new experimental research group in the [School of Mechanical
 
 Prospective PhD students seeking admission in August 2027 are encouraged to contact [Takumi](mailto:tmatsuzawa@cornell.edu) early and submit an application through the [NTU MAE PhD admissions portal](https://www.ntu.edu.sg/education/graduate-programme/mae-phd).
 
-## Research Areas
+## RESEARCH AREAS
 
 Our research explores the physics of **soft matter and complex fluids, from inanimate to living systems**, with interests spanning experimental biophysics, fluid mechanics, and nonequilibrium physics.
 
-Our current research directions include:
+**CURRENT RESEARCH DIRECTIONS**
 
-### 1. Active Biomolecular Condensates
+### [01] Active Biomolecular Condensates
 
 Biomolecular condensates are dynamic, membraneless compartments that organize biochemical processes within cells. We investigate how enzymatic reactions control their formation, dissolution, and material properties, and how the physical properties of condensates, in turn, regulate chemical activity.
 
 Our broader goal is to understand the coupling between phase separation, chemical reactions, and material properties in living systems.
 
-### 2. Multiphase Turbulence
+### [02] Turbulence
 
 Turbulence promotes mixing, while phase separation drives the formation and growth of distinct fluid domains. We investigate how these competing processes influence one another in multicomponent fluids.
 
 Our goal is to understand how turbulence modifies phase separation and how the resulting concentration gradients and interfaces feed back on turbulent flows.
 
-### 3. Cloud and Aerosol Physics
+### [03] Cloud and Aerosol Physics
 
 Cloud formation and aerosol dynamics involve a complex interplay of phase transitions, turbulent transport, and chemical processes. Despite their importance for weather and climate, the underlying physical mechanisms remain challenging to predict.
 
