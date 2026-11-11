@@ -35,7 +35,7 @@ At NTU, I aim to bring these approaches together to investigate **nonequilibrium
 
 ## Curriculum Vitae
 
-My [CV (PDF)]({{ '/cv_resume/Resume_TakumiMatsuzawa.pdf' | relative_url }}) is available here. Please note that this PDF has not yet been replaced with the November 2026 version.
+My [CV (PDF)]({{ '/cv_resume/CV_Matsuzawa.pdf' | relative_url }}) is available here.
 
 ### Selected publications
 
