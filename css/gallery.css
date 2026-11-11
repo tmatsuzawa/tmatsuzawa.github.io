@@ -102,3 +102,18 @@
 .demo:hover {
   opacity: 1;
 }
+
+/* Keep videos within the gallery and provide a fallback direct link. */
+.mySlides video {
+  max-width: 100%;
+  object-fit: contain;
+}
+
+.gallery-video-link {
+  margin: 10px auto;
+  text-align: center;
+}
+
+.gallery-video-link a {
+  text-decoration: underline;
+}
