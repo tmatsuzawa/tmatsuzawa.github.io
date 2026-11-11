@@ -3,23 +3,8 @@ layout: static_post
 title: Research
 permalink: research/
 ---
-## Research vision: Complex fluids, from turbulence to living matter
+I am interested in soft and living matter where physics, chemistry, and biology intersect.
 
-I am launching an experimental research group at **Nanyang Technological University (NTU), Singapore**, in **January 2027**. We seek to understand how complex fluids organize, flow, and respond to driving, from inert turbulent liquids to chemically active and living systems.
-
-Our research will bring together three connected directions:
-
-1. **Biomolecular condensates and active soft matter.** How do solutes, molecular interactions, and enzymatic reactions regulate liquid–liquid phase separation? How do phase-separated compartments feed back on chemical activity?
-2. **Turbulence, transport, and multiphase flows.** How does turbulence spread, decay, and mix with its surroundings? What new dynamics emerge when fluid flow couples to interfaces or reactions?
-3. **Nonequilibrium fluids across scales.** We are interested in reactive flows, living matter, and opportunities to connect fundamental fluid physics with biological and environmental systems.
-
-Our toolkit combines quantitative imaging, microscopy, velocimetry, controlled experiments, data analysis, and physical modeling. These directions build on my work in turbulent flows at the University of Chicago and biomolecular condensates at Cornell University.
-
-**Interested in joining the group?** Visit [Openings]({{ '/recruitment/' | relative_url }}).
-
----
-
-## Selected previous and ongoing research
 
 <h3> Biomolecular Condensates </h3>
 Biomolecular condensates are membraneless organelles that play critical roles in cellular processes.
@@ -34,8 +19,7 @@ Relevant publications include:<br>
 1. **Susceptibility and Regulation of Biomolecular Condensates by Solutes**<br>
 **T. Matsuzawa**, K. Varma, T. Bate, C. Lorenz, K. Larina, J. Bauermann, D. Matthias, T. Grubi´c,
 R. W. Style, M. O. Steinmetz, E. R. Dufresne, *Proceedings of the National Academy of Sciences* **123**, e2604434123 (2026).
-[Link](https://www.biorxiv.org/content/10.64898/2026.01.14.699531v2)
-(Under review)
+[Link](https://doi.org/10.1073/pnas.2604434123)
 2. **Partition Coefficients Reveal Changes in Properties of Low-Contrast Biomolecular Condensates**<br>
 K. Varma, D. Matthias, C. B. Shapiro, S. Bailey-Darland, **T. Matsuzawa**, C. Lorenz, T. Bate, S. J. Thornton, S. Duraivel, R. W. Style, J. P. Sethna, E. R. Dufresne, 
 bioRxiv 10.64898/2026.02.20.707107 (2026). 
