@@ -3,6 +3,28 @@ layout: static_post
 title: About
 permalink: about/
 ---
+--------
+**Biographical sketch** <br>
+My research spans turbulence, active matter, and liquid-liquid phase separation. 
+During my PhD at the University of Chicago, I have developed an approach to confine turbulence by colliding vortex rings akin to smoke rings. 
+Using 2D/3D velocimetry and simulations, I revealed the transition into a confined state of turbulence and demonstrated controlled injection of helicity into turbulence and produced award-winning flow visualizations. 
+I also investigated the collective dynamics of chiral active spinners at intermediate Reynolds numbers, uncovering flocking behaviors unique in this regime. 
+I continued to collaborate with Profs. Nigel Goldenfeld (UCSD) and William Irvine (UChicago) to examine the decay and propagation of turbulence, revealing its nonlinear transport nature and a decay law linked to the large-scale structure.
+
+After my Ph.D., I was awarded the Schmidt Science Fellowship, a self-funded program delivered in partnership with the Rhodes Trust that supports scientists in pursuing interdisciplinary research beyond their doctoral field. 
+With this support, I pivoted into biophysics in Prof. Eric R. Dufresne’s lab at Cornell University. 
+There, I have conducted research on the thermodynamics of biomolecular condensates, membraneless organelles formed via liquid-liquid phase separation in the cytoplasm. 
+I have demonstrated that enzymatic reactions could tune the onset of phase separation, and that LLPS enhances enzymatic activity by compartmentalization while revealing how this activity depends on droplet viscosity. 
+These findings and methods lay the foundation for my ongoing effort to design active biomolecular condensates, an exciting frontier in biophysics.
+
+In January 2027, I will join the School of Mechanical and Aerospace Engineering at Nanyang Technological University as an Assistant Professor. There, my research group will study soft matter and complex fluids, from inanimate to living systems, with a particular interest in how fluid flow, phase transitions, and chemical activity interact to give rise to emergent dynamics and functions across physical and biological systems. See Openings Page for more information on joining my group.
+
+
+
+My CV is available [here]({{ '/cv_resume/CV_Matsuzawa.pdf' | relative_url }}).
+
+Please contact me at tmatsuzawa_at_cornell.edu.
+
 ---------
 **Appointment**
 
@@ -13,21 +35,7 @@ permalink: about/
 **Education**
 
 2023     : PhD in Physics, University of Chicago, USA <br>
-2016     : BA in Physics and Chemistry, _summa cum laude_, Kalamazoo College, USA 
-
---------
-**Biographical sketch** <br>
-My research spans turbulence, active matter, and liquid-liquid phase separation. 
-During my PhD at the University of Chicago, I have developed an approach to confine turbulence by colliding vortex rings akin to smoke rings. 
-Using 2D/3D velocimetry and simulations, I revealed the transition into a confined state of turbulence and demonstrated controlled injection of helicity into turbulence and produced award-winning flow visualizations. 
-I also investigated the collective dynamics of chiral active spinners at intermediate Reynolds numbers, uncovering flocking behaviors unique in this regime1. 
-I continued to collaborate with Profs. Nigel Goldenfeld (UCSD) and William Irvine (UChicago) to examine the decay and propagation of turbulence, revealing its nonlinear transport nature and a decay law linked to the large-scale structure.
-
-After my Ph.D., I was awarded the Schmidt Science Fellowship, a self-funded program delivered in partnership with the Rhodes Trust that supports scientists in pursuing interdisciplinary research beyond their doctoral field. 
-With this support, I pivoted into biophysics in Prof. Eric R. Dufresne’s lab at Cornell University. 
-There, I have conducted research on the thermodynamics of biomolecular condensates, membraneless organelles formed via liquid-liquid phase separation in the cytoplasm. 
-I have demonstrated that enzymatic reactions could tune the onset of phase separation, and that LLPS enhances enzymatic activity by compartmentalization while revealing how this activity depends on droplet viscosity. 
-These findings and methods lay the foundation for my ongoing effort to design active biomolecular condensates, an exciting frontier in biophysics.
+2016     : BA in Physics and Chemistry, _summa cum laude_, Kalamazoo College, USA
 
 [//]: # ()
 [//]: # (--------)
@@ -96,7 +104,3 @@ These findings and methods lay the foundation for my ongoing effort to design ac
 
 [//]: # (<br>)
 
---------
-**Curriculum Vitae**
-
-My [CV (PDF)]({{ '/cv_resume/CV_Matsuzawa.pdf' | relative_url }}) is available here.
