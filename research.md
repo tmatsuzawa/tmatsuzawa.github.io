@@ -22,9 +22,8 @@ R. W. Style, M. O. Steinmetz, E. R. Dufresne, *Proceedings of the National Acade
 [Link](https://doi.org/10.1073/pnas.2604434123)
 2. **Partition Coefficients Reveal Changes in Properties of Low-Contrast Biomolecular Condensates**<br>
 K. Varma, D. Matthias, C. B. Shapiro, S. Bailey-Darland, **T. Matsuzawa**, C. Lorenz, T. Bate, S. J. Thornton, S. Duraivel, R. W. Style, J. P. Sethna, E. R. Dufresne, 
-bioRxiv 10.64898/2026.02.20.707107 (2026). 
+*Nature Communications* (2026, accepted). Preprint: bioRxiv 10.64898/2026.02.20.707107.
 [Link](https://www.biorxiv.org/content/10.64898/2026.02.20.707107v1)
-(Under review)
 
 Core competencies: Microscopy, rheology, protein purification, optical trapping, enzymatic reactions, solution thermodynamics, numerical simulations (Monte Carlo, molecular dynamics), data analysis (Python, C++, MATLAB)
 
