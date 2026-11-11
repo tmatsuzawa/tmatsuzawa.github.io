@@ -3,46 +3,121 @@ layout: static_post
 title: About
 permalink: about/
 ---
+---------
+**News**
+<br>
+I am joining the **School of Mechanical and Aerospace Engineering (MAE)** at **Nanyang Technological University (NTU)** 
+as a **Nanyang Assistant Professor** in January 2027. 
 
-## New research group at NTU (January 2027)
+I am currently recruiting:
+- **PhD Students (starting Fall 2027 intake)**
+- **One Postdoctoral Researcher (biophysics)**
+- **One Postdoctoral Researcher (fluid mechanics)**
+<br>
 
-I will join the [School of Mechanical and Aerospace Engineering](https://www.ntu.edu.sg/mae) at **Nanyang Technological University (NTU), Singapore**, as a **Nanyang Assistant Professor** in January 2027.
+My lab will focus on the physics of **complex fluids from inanimate to living systems**.
 
-I am establishing an experimental research group studying **complex fluids, from turbulence to living matter**. We will investigate how motion, transport, phase separation, and chemical reactions shape the behavior of fluids and soft materials.
+Research areas include **experimental biophysics**, **fluid mechanics**, and **soft condensed matter physics**.
 
-**Prospective students and researchers:** Please see the [Recruitment]({{ '/recruitment/' | relative_url }}) page for opportunities in the new group.
+More specifically, the projects explore the following topics:
+- **Biomolecular condensates** and **phase separation in biology**
+- **Multiphase flows**, **reactive flows**, and **turbulence**
+- **Cloud physics** and **atmospheric flows**
 
-## Appointments
+---------
+**Appointment**
 
-- **2027– (starting January):** Nanyang Assistant Professor, School of Mechanical and Aerospace Engineering, Nanyang Technological University, Singapore.
-- **2023–2026:** Schmidt Science Postdoctoral Fellow (2024–2026); Postdoctoral Associate (2023–2024), Cornell University, USA.
+2027 – Present: Nanyang Assistant Professor, School of Mechanical and Aerospace Engineering, Nanyang Technological University, Singapore <br>
+2023 – 2026: Postdoctoral Associate / Schmidt Science Postdoctoral Fellow, Cornell University, USA <br>
 
-## Education
+---------
+**Education**
 
-- **2023:** PhD in Physics, University of Chicago, USA.
-- **2017:** MS in Physics, University of Chicago, USA.
-- **2016:** BA in Physics and Chemistry, *summa cum laude with distinction*, Kalamazoo College, USA.
+2023     : PhD in Physics, University of Chicago, USA <br>
+2016     : BA in Physics and Chemistry, _summa cum laude_, Kalamazoo College, USA 
 
-## Biographical sketch
+--------
+**Biographical sketch** <br>
+My research spans turbulence, active matter, and liquid-liquid phase separation. 
+During my PhD at the University of Chicago, I have developed an approach to confine turbulence by colliding vortex rings akin to smoke rings. 
+Using 2D/3D velocimetry and simulations, I revealed the transition into a confined state of turbulence and demonstrated controlled injection of helicity into turbulence and produced award-winning flow visualizations. 
+I also investigated the collective dynamics of chiral active spinners at intermediate Reynolds numbers, uncovering flocking behaviors unique in this regime1. 
+I continued to collaborate with Profs. Nigel Goldenfeld (UCSD) and William Irvine (UChicago) to examine the decay and propagation of turbulence, revealing its nonlinear transport nature and a decay law linked to the large-scale structure.
 
-My research spans fluid mechanics, soft condensed matter, and experimental biophysics. I combine quantitative experiments, imaging, and physical modeling to understand complex phenomena across length scales, from turbulent flows to biomolecular condensates.
+After my Ph.D., I was awarded the Schmidt Science Fellowship, a self-funded program delivered in partnership with the Rhodes Trust that supports scientists in pursuing interdisciplinary research beyond their doctoral field. 
+With this support, I pivoted into biophysics in Prof. Eric R. Dufresne’s lab at Cornell University. 
+There, I have conducted research on the thermodynamics of biomolecular condensates, membraneless organelles formed via liquid-liquid phase separation in the cytoplasm. 
+I have demonstrated that enzymatic reactions could tune the onset of phase separation, and that LLPS enhances enzymatic activity by compartmentalization while revealing how this activity depends on droplet viscosity. 
+These findings and methods lay the foundation for my ongoing effort to design active biomolecular condensates, an exciting frontier in biophysics.
 
-During my PhD with **William T. M. Irvine** at the University of Chicago, I developed experiments that generate localized turbulence through collisions of vortex rings. This platform enabled studies of the spatial confinement, propagation, and decay of turbulence, as well as broader investigations of vortex dynamics and active matter.
+[//]: # ()
+[//]: # (--------)
 
-As a **Schmidt Science Fellow** working with **Eric R. Dufresne** at Cornell University, I expanded into biological soft matter. My work has explored the thermodynamics of biomolecular condensates, how dissolved molecules shift phase boundaries, and how chemical reactions can regulate phase separation and material properties.
+[//]: # (<b>Current projects:</b>)
 
-At NTU, I aim to bring these approaches together to investigate **nonequilibrium complex fluids**, including biomolecular condensates, reactive and multiphase flows, and turbulence. See [Research]({{ '/research/' | relative_url }}) for details.
+[//]: # (<ul style="list-style-type:disc;">)
 
-## Curriculum Vitae
+[//]: # (    <li> Enzyme-mediated control of biomolecular condensates &#40;experimental&#41;)
+
+[//]: # (    </li>)
+
+[//]: # (    <li> Self-locomotion driven by cell divisions &#40;experimental&#41;)
+
+[//]: # (    </li>)
+
+[//]: # (</ul>)
+
+[//]: # (<br>)
+
+[//]: # (<b>Past projects</b>)
+
+[//]: # (<ul style="list-style-type:disc;">)
+
+[//]: # (    <li> Thermodynamics of liquid-liquid phase separation &#40;experimental&#41;)
+
+[//]: # (    </li>)
+
+[//]: # (    <li> turbulence: decay &#40;experimental, engineering&#41;)
+
+[//]: # (    </li>)
+
+[//]: # (    <li> turbulence: creation of a turbulent blob through vortex ring collision &#40;experimental, theoretical, numerical, engineering&#41;)
+
+[//]: # (    </li>)
+
+[//]: # (    <li> flow visualization: turbulent flows, flows inside objects using an index-matched fluid and a 3D printer, )
+
+[//]: # (    </li>)
+
+[//]: # (    <li> splashing of low-viscosity fluids &#40;experimental&#41;)
+
+[//]: # (    </li>)
+
+[//]: # (    <li>3D melting of Yukawa system &#40;Monte Carlo and molecular dynamics &#40;LAMMPS&#41; simulations&#41;)
+
+[//]: # (    </li>)
+
+[//]: # (    <li>assessment of muon production rate by several experimental scenarios @<a href="https://www.fnal.gov/" target="_blank">Fermilab</a> &#40;numerical&#41;)
+
+[//]: # (    </li>)
+
+[//]: # (    <li>modeling synaptic plasticity of Alzheimer's patients &#40;numerical&#41;)
+
+[//]: # (    </li>)
+
+[//]: # (    <li>mathematical modeling on vaccine efficacy &#40;mathematical&#41;)
+
+[//]: # (    </li>)
+
+[//]: # (    <li>Cowl design and manufacturing, Formula SAE Japan &#40;engineering&#41;)
+
+[//]: # (    </li>)
+
+[//]: # (</ul>)
+
+[//]: # (<br>)
+
+--------
+**Curriculum Vitae**
 
 My [CV (PDF)]({{ '/cv_resume/CV_Matsuzawa.pdf' | relative_url }}) is available here.
-
-### Selected publications
-
-- **T. Matsuzawa** et al., "Susceptibility and Regulation of Biomolecular Condensates by Solutes," *PNAS* **123**, e2604434123 (2026). [DOI](https://doi.org/10.1073/pnas.2604434123).
-- **T. Matsuzawa** et al., "Nonlinear diffusion and decay of a blob of turbulence spreading into a quiescent fluid," *PNAS* **123**, e2526858123 (2026). [Paper](https://www.pnas.org/doi/10.1073/pnas.2526858123).
-- **T. Matsuzawa** et al., "Creation of an isolated turbulent blob fed by vortex rings," *Nature Physics* **19**, 1193–1200 (2023). [Paper](https://www.nature.com/articles/s41567-023-02088-8).
-
-## Contact
-
-Until my NTU appointment begins, I can be reached at **[tmatsuzawa@cornell.edu](mailto:tmatsuzawa@cornell.edu)**. NTU contact details will be added after the transition.
