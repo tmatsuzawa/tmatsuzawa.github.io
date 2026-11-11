@@ -1,28 +1,28 @@
 ---
 layout: static_post
-title: Members & Openings
+title: Openings
 permalink: recruitment/
 ---
 
-## Members
-
-**Principal Investigator:** [Takumi Matsuzawa]({{ '/about/' | relative_url }})
-
-The group is being established for January 2027. New members will be listed here as they join.
-
 ## Openings
 
-I am establishing a research group in the **School of Mechanical and Aerospace Engineering at Nanyang Technological University (NTU), Singapore**, beginning in **January 2027**.
+I am joining the **School of Mechanical and Aerospace Engineering (MAE)** at **Nanyang Technological University (NTU)** as a **Nanyang Assistant Professor** in January 2027.
 
-We will study the physics of **complex fluids, from turbulence to biological fluids**. The group will combine experiments, microscopy and flow visualization, quantitative analysis, and physical modeling.
+I am currently recruiting:
 
-## Research directions
+- **PhD Students (starting Fall 2027 intake)**
+- **One Postdoctoral Researcher (biophysics)**
+- **One Postdoctoral Researcher (fluid mechanics)**
 
-- **Biomolecular condensates and experimental biophysics:** phase separation, solute regulation, and reaction-driven condensates.
-- **Fluid mechanics and turbulence:** nonlinear transport, turbulent spreading and decay, and multiphase or reactive flows.
-- **Soft and living matter:** emergent dynamics and fluid–material interactions in nonequilibrium systems.
+My lab will focus on the physics of **complex fluids from inanimate to living systems**.
 
-Candidates interested in bridging experimental physics, mechanical engineering, biophysics, and quantitative methods are especially encouraged to get in touch.
+Research areas include **experimental biophysics**, **fluid mechanics**, and **soft condensed matter physics**.
+
+More specifically, the projects explore the following topics:
+
+- **Biomolecular condensates** and **phase separation in biology**
+- **Multiphase flows**, **reactive flows**, and **turbulence**
+- **Cloud physics** and **atmospheric flows**
 
 ## PhD students
 
