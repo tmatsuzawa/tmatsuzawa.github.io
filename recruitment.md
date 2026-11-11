@@ -83,10 +83,10 @@ In addition to research positions supported by the group, prospective students a
 
 ### For Postdoctoral Fellows
 
-- **[JSPS Overseas Research Fellowships](https://www.jsps.go.jp/j-ab/ab_gaiyo2.html):** Two-year support for eligible early-career researchers with Japanese nationality or permanent residency in Japan to conduct research at an overseas institution. PhD degree timing and other eligibility requirements apply.
 - **[Schmidt Science Fellowship](https://schmidtsciencefellows.org/):** Funding for up to two years. Applicants must pursue a significant disciplinary pivot from their PhD research.
 - **[NTU Presidential Postdoctoral Fellowship](https://www.ntu.edu.sg/research/research-careers/presidential-postdoctoral-fellowship-(ppf)#Content_C048_Col02):** Two-year fellowship for researchers within five years of their PhD award.
 - **[NTU AI-for-X Postdoctoral Fellowship](https://www.ntu.edu.sg/research/research-careers/ntu-ai-for-x-postdoctoral-fellowship):** Four-year fellowship for researchers within three years of their PhD award.
 - **[Lee Kuan Yew Postdoctoral Fellowship](https://www.ntu.edu.sg/research/research-careers/lee-kuan-yew-postdoctoral-fellowship-(lkypdf)):** Funding for three years.
 - **[Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship](https://www.ntu.edu.sg/research/research-careers/the-eric-and-wendy-schmidt-ai-in-science-postdoctoral-fellowship):** Two-year fellowship for researchers within three years of their PhD award.
 - **[EMBO Postdoctoral Fellowship](https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/):** Funding for two years. Applicants must have obtained, or be obtaining, their PhD outside Singapore, subject to the program's eligibility requirements.
+- **[JSPS Overseas Research Fellowships](https://www.jsps.go.jp/j-ab/ab_gaiyo2.html):** Two-year support for eligible early-career researchers with Japanese nationality or permanent residency in Japan to conduct research at an overseas institution. PhD degree timing and other eligibility requirements apply.
