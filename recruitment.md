@@ -12,7 +12,7 @@ permalink: recruitment/
 .post-container--single .post h3 { font-size: 1.1rem; margin-top: 1.1rem; margin-bottom: 0.5rem; }
 </style>
 
-I am establishing a new experimental research group in the [School of Mechanical and Aerospace Engineering (MAE)](https://www.ntu.edu.sg/mae) at [Nanyang Technological University (NTU)](https://www.ntu.edu.sg), Singapore, starting in January 2027.
+We are launching a new experimental research group in the [School of Mechanical and Aerospace Engineering (MAE)](https://www.ntu.edu.sg/mae) at [Nanyang Technological University (NTU)](https://www.ntu.edu.sg), Singapore, starting in January 2027.
 
 **We are recruiting curious and motivated researchers at all career stages to join the founding team.**
 
