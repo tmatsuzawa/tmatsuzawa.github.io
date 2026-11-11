@@ -25,6 +25,7 @@ K. Varma, D. Matthias, C. B. Shapiro, S. Bailey-Darland, **T. Matsuzawa**, C. Lo
 *Nature Communications* (2026, accepted). Preprint: bioRxiv 10.64898/2026.02.20.707107.
 [Link](https://www.biorxiv.org/content/10.64898/2026.02.20.707107v1)
 3. **Phase behavior of solvent-nematogen mixtures** S. Bailey-Darland, **T. Matsuzawa**, E. R. Dufresne, *Soft Matter* **22** (34): 5745–5755. (2026).
+[Link](https://pubs.rsc.org/sm/article/22/34/5745/1291298/Phase-behavior-of-solvent-nematogen-mixtures)
 
 Core competencies: Microscopy, rheology, protein purification, optical trapping, enzymatic reactions, solution thermodynamics, numerical simulations (Monte Carlo, molecular dynamics), data analysis (Python, C++, MATLAB)
 

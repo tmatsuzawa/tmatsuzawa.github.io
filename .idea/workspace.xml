@@ -8,8 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efd79ce8-51a4-43a9-9201-baf9a169ca5a" name="Default Changelist" comment="Update research.md and about.md with publications">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/research.md" beforeDir="false" afterPath="$PROJECT_DIR$/research.md" afterDir="false" />
       <change beforePath="$USER_HOME$/Dropbox/paper_writing/2026_Susceptibility/Sharing/2026_Matsuzawa_Susceptibility/preparation/labware_configuration.csv" beforeDir="false" afterPath="$USER_HOME$/Dropbox/paper_writing/2026_Susceptibility/Sharing/2026_Matsuzawa_Susceptibility/preparation/labware_configuration.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,37 +50,96 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0009453794746865" />
+      <entry key="MS500" value="1.34613160113992" />
+      <entry key="S2" value="2.6227520066605106" />
+      <entry key="S5" value="3.333013625624104" />
+      <entry key="S10" value="3.709664896513522" />
+      <entry key="S30" value="5.053102669689892" />
+      <entry key="S60" value="6.559751264462683" />
+      <entry key="M2" value="7.92329206693031" />
+      <entry key="M5" value="9.062479184635047" />
+      <entry key="M10" value="9.511287286867615" />
+      <entry key="M15" value="9.669583023276388" />
+      <entry key="M30" value="9.832441959474941" />
+      <entry key="H1" value="9.91562493903967" />
+      <entry key="H2" value="9.957662363654187" />
+      <entry key="H4" value="9.978793517507542" />
+      <entry key="D1" value="9.996460343353572" />
+      <entry key="W1" value="9.999494206213905" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9601772955782001" />
+      <entry key="MS500" value="1.335389069207265" />
+      <entry key="S2" value="2.617590482744383" />
+      <entry key="S5" value="3.3303735812180237" />
+      <entry key="S10" value="3.708188302711689" />
+      <entry key="S30" value="5.052432268111858" />
+      <entry key="S60" value="6.559320046852384" />
+      <entry key="M2" value="7.92303352789015" />
+      <entry key="M5" value="9.062361501837895" />
+      <entry key="M10" value="9.511225642072986" />
+      <entry key="M15" value="9.669541268103691" />
+      <entry key="M30" value="9.832420743209454" />
+      <entry key="H1" value="9.915614244439512" />
+      <entry key="H2" value="9.957656994508705" />
+      <entry key="H4" value="9.978790827444637" />
+      <entry key="D1" value="9.99645989424478" />
+      <entry key="W1" value="9.99949414203674" />
+    </decayedShown>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="22uOW6YZDAziENo26AUHFximvWH" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;dev.sweep.assistant.data.RecentlyUsedFiles&quot;: &quot;gallery.md;research.md;_posts/2024-08-18-notes_on_science.md;cv_resume.md;css/uno.css;_includes/header.html;_posts/2024-09-04-amino_acid_for_physicists.md;coding.md;_includes/footer.html;_includes/head.html&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/takumi/Documents/git/tmatsuzawa.github.io/_layouts&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.github.copilot.settings.general.GeneralConfigurable&quot;,
-    &quot;sweep.chatMode&quot;: &quot;Agent&quot;,
-    &quot;sweep.selectedModel&quot;: &quot;Auto&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "dev.sweep.assistant.data.RecentlyUsedFiles": "gallery.md;research.md;_posts/2024-08-18-notes_on_science.md;cv_resume.md;css/uno.css;_includes/header.html;_posts/2024-09-04-amino_acid_for_physicists.md;coding.md;_includes/footer.html;_includes/head.html",
+    "git-widget-placeholder": "ntu-lab-launch-2027",
+    "last_opened_file_path": "/Users/takumi/Documents/git/tmatsuzawa.github.io/_layouts",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.github.copilot.settings.general.GeneralConfigurable",
+    "sweep.chatMode": "Agent",
+    "sweep.selectedModel": "Auto",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_layouts" />
