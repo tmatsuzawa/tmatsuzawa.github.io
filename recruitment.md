@@ -18,6 +18,8 @@ I am establishing a new experimental research group in the [School of Mechanical
 
 Prospective PhD students seeking admission in August 2027 are encouraged to contact [Takumi](mailto:tmatsuzawa@cornell.edu) early and submit an application through the [NTU MAE PhD admissions portal](https://www.ntu.edu.sg/education/graduate-programme/mae-phd).
 
+---
+
 ## RESEARCH AREAS
 
 Our research explores the physics of **soft matter and complex fluids, from inanimate to living systems**, with interests spanning experimental biophysics, fluid mechanics, and nonequilibrium physics.
@@ -42,6 +44,8 @@ Cloud formation and aerosol dynamics involve a complex interplay of phase transi
 
 We are interested in laboratory investigations of how fluid motion, condensation, and chemical activity collectively influence cloud and aerosol formation.
 
+---
+
 ## Open Positions
 
 ### PhD Students — August 2027 Intake
@@ -63,11 +67,15 @@ Applicants should hold a PhD in physics, engineering, biophysics, or a related d
 
 We particularly welcome researchers interested in developing new experimental approaches and pursuing independent scientific ideas within a collaborative environment.
 
+---
+
 ## How to Apply
 
 Interested candidates are encouraged to contact [tmatsuzawa@cornell.edu](mailto:tmatsuzawa@cornell.edu) with a brief introduction, a CV, and a summary of their previous research experience and interests.
 
 Prospective PhD students should also submit a formal application through the [NTU MAE PhD admissions portal](https://www.ntu.edu.sg/education/graduate-programme/mae-phd).
+
+---
 
 ## Funding and Scholarships
 
