@@ -11,6 +11,6 @@ permalink: links/
 
 ## Research and professional profiles
 
-- [Takumi Matsuzawa — Google Scholar](https://scholar.google.com/citations?user=qxw3IAAAAJ)
+- [Takumi Matsuzawa — Google Scholar](https://scholar.google.com/citations?user=lDqxw3IAAAAJ)
 - [Takumi Matsuzawa — GitHub](https://github.com/tmatsuzawa)
 - [Takumi Matsuzawa — CV and biography]({{ '/about/' | relative_url }})
