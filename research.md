@@ -6,7 +6,7 @@ permalink: research/
 I am interested in soft and living matter where physics, chemistry, and biology intersect.
 
 
-<h3> Biomolecular Condensates </h3>
+<h3> Phase separation and Biomolecular Condensates </h3>
 Biomolecular condensates are membraneless organelles that play critical roles in cellular processes.
 Despite their importance in cellular physiology, the thermodynamics of biomolecular condensates remains poorly understood.
 My research in this area focuses on understanding the thermodynamics of biomolecular condensates and how enzymatic reactions can control their formation and material properties.
@@ -24,6 +24,7 @@ R. W. Style, M. O. Steinmetz, E. R. Dufresne, *Proceedings of the National Acade
 K. Varma, D. Matthias, C. B. Shapiro, S. Bailey-Darland, **T. Matsuzawa**, C. Lorenz, T. Bate, S. J. Thornton, S. Duraivel, R. W. Style, J. P. Sethna, E. R. Dufresne, 
 *Nature Communications* (2026, accepted). Preprint: bioRxiv 10.64898/2026.02.20.707107.
 [Link](https://www.biorxiv.org/content/10.64898/2026.02.20.707107v1)
+3. **Phase behavior of solvent-nematogen mixtures** S. Bailey-Darland, **T. Matsuzawa**, E. R. Dufresne, *Soft Matter* **22** (34): 5745–5755. (2026).
 
 Core competencies: Microscopy, rheology, protein purification, optical trapping, enzymatic reactions, solution thermodynamics, numerical simulations (Monte Carlo, molecular dynamics), data analysis (Python, C++, MATLAB)
 
