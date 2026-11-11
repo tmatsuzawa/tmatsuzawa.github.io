@@ -105,3 +105,33 @@ pre.highlight code,
     font-size: 0.88em;
   }
 }
+
+/* Longer introduction: preserve readability and avoid viewport clipping. */
+.panel-cover:not(.panel-cover--collapsed) {
+  overflow-y: auto;
+}
+
+.group-introduction {
+  max-width: 760px;
+  margin-top: 20px;
+}
+
+.group-introduction p {
+  margin-bottom: 11px;
+  line-height: 1.5;
+}
+
+.group-introduction__welcome {
+  font-size: 1.1em !important;
+}
+
+.group-introduction a {
+  color: inherit;
+  text-decoration: underline;
+}
+
+@media all and (max-width: 600px) {
+  .group-introduction p {
+    line-height: 1.45;
+  }
+}
