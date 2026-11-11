@@ -1,6 +1,6 @@
 ---
 layout: static_post
-title: Join
+title: Join Us
 permalink: recruitment/
 ---
 
