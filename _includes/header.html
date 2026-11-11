@@ -74,6 +74,16 @@
             </li>
             {% endif %}
 
+            {% if site.author.orcid_id %}
+            <!-- ORCID -->
+            <li class="navigation__item">
+              <a href="https://orcid.org/{{ site.author.orcid_id }}" title="{{ site.author.name }} on ORCID" target="_blank" rel="noopener noreferrer">
+                <i class="ai ai-orcid ai-2x"></i>
+                <span class="label">ORCID</span>
+              </a>
+            </li>
+            {% endif %}
+
             {% if site.author.linkedin_username %}
             <!-- LinkedIn -->
             <li class="navigation__item">
