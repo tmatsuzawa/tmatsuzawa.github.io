@@ -135,3 +135,9 @@ pre.highlight code,
     line-height: 1.45;
   }
 }
+
+/* Lighten the homepage photo overlay by about five percentage points. */
+.panel-cover:not(.panel-cover--collapsed) .panel-cover--overlay {
+  background-color: rgba(68, 68, 68, 0.05);
+  background-image: linear-gradient(140deg, rgba(68, 68, 68, 0.10) 20%, rgba(0, 0, 0, 0.10));
+}
