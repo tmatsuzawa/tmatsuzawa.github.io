@@ -19,7 +19,7 @@ For more information, see his <a href="{{ '/cv_resume/CV_Matsuzawa.pdf' | relati
 ---------
 **Appointment**
 
-2027 – Present: Nanyang Assistant Professor, School of Mechanical and Aerospace Engineering, Nanyang Technological University, Singapore <br>
+Jan 2027 (Incoming): Nanyang Assistant Professor, School of Mechanical and Aerospace Engineering, Nanyang Technological University, Singapore <br>
 2023 – 2026: Postdoctoral Associate / Schmidt Science Postdoctoral Fellow, Cornell University, USA <br>
 
 ---------
