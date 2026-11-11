@@ -16,7 +16,7 @@ We are launching a new experimental research group in the [School of Mechanical 
 
 **We are recruiting curious and motivated researchers at all career stages to join the founding team.**
 
-Prospective PhD students seeking admission in August 2027 are encouraged to contact Takumi (tmatsuzawa_at_cornell.edu) early and submit an application through the [NTU MAE PhD admissions portal](https://www.ntu.edu.sg/education/graduate-programme/mae-phd).
+Prospective PhD students seeking admission in August 2027 are encouraged to contact Takumi (tmatsuzawa@cornell.edu) early and submit an application through the [NTU MAE PhD admissions portal](https://www.ntu.edu.sg/education/graduate-programme/mae-phd).
 
 ---
 
